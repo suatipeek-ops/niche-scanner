@@ -1,0 +1,35 @@
+name: Daily Niche Scan
+
+on:
+  schedule:
+    # Her gün UTC 07:00 = Türkiye saatiyle yaklaşık 10:00
+    - cron: '0 7 * * *'
+  workflow_dispatch: {}   # Manuel "Run workflow" butonuyla da tetiklenebilir
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scan.py
+
+      - name: Commit and push updated results
+        run: |
+          git config user.name "niche-scanner-bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json
+          git diff --quiet --cached || git commit -m "Günlük tarama güncellendi"
+          git push
