@@ -24,37 +24,24 @@
   header { max-width: 900px; margin: 0 auto 24px; }
   h1 { font-size: 22px; margin: 0 0 4px; }
   .meta { color: var(--muted); font-size: 13px; }
-  .grid {
-    max-width: 900px;
-    margin: 0 auto;
-    display: grid;
-    gap: 14px;
-  }
-  .card {
-    background: var(--card);
-    border-radius: 12px;
-    padding: 16px;
-    border: 1px solid #2a2e38;
-  }
+  .grid { max-width: 900px; margin: 0 auto; display: grid; gap: 14px; }
+  .card { background: var(--card); border-radius: 12px; padding: 16px; border: 1px solid #2a2e38; }
   .card.ideal { border-color: var(--accent2); }
-  .row { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
-  .channel { font-weight: 600; font-size: 15px; }
+  .row { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; flex-wrap: wrap; }
+  .channel { font-weight: 700; font-size: 16px; }
   .badge {
-    font-size: 11px;
-    background: var(--accent2);
-    color: #0f1115;
-    padding: 2px 8px;
-    border-radius: 999px;
-    font-weight: 600;
-    white-space: nowrap;
+    font-size: 11px; background: var(--accent2); color: #0f1115;
+    padding: 2px 8px; border-radius: 999px; font-weight: 600; white-space: nowrap;
   }
-  .title { color: var(--text); font-size: 14px; margin: 8px 0; line-height: 1.4; }
-  .stats { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
-  .score {
-    font-size: 13px;
-    color: var(--accent);
-    font-weight: 700;
+  .chan-stats { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--muted); margin: 6px 0 12px; }
+  .video-list { display: flex; flex-direction: column; gap: 8px; }
+  .video-item {
+    background: #11141a; border-radius: 8px; padding: 10px 12px;
+    border: 1px solid #232734;
   }
+  .video-title { font-size: 13.5px; margin-bottom: 4px; line-height: 1.35; }
+  .video-stats { display: flex; gap: 12px; flex-wrap: wrap; font-size: 11.5px; color: var(--muted); }
+  .score { color: var(--accent); font-weight: 700; }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
   .empty { color: var(--muted); text-align: center; padding: 40px 0; }
@@ -73,13 +60,19 @@
       .then(data => {
         const meta = document.getElementById('meta');
         const results = document.getElementById('results');
-        const date = new Date(data.generated_at);
-        meta.textContent = 'Son güncelleme: ' + date.toLocaleString('tr-TR') +
-          ' · Kriter: max ' + data.criteria.max_subscribers.toLocaleString('tr-TR') +
-          ' abone, min ' + data.criteria.min_view_to_sub_ratio + 'x oran, ' +
-          'kanalda max ' + data.criteria.max_channel_video_count + ' video';
 
-        if (!data.opportunities.length) {
+        if (!data.generated_at) {
+          meta.textContent = 'Henüz ilk tarama tamamlanmadı.';
+        } else {
+          const date = new Date(data.generated_at);
+          meta.textContent = 'Son güncelleme: ' + date.toLocaleString('tr-TR') +
+            ' · Kriter: max ' + data.criteria.max_subscribers.toLocaleString('tr-TR') +
+            ' abone, min ' + data.criteria.min_view_to_sub_ratio + 'x oran (en az ' +
+            data.criteria.min_high_performing_videos + ' video), kanal max ' +
+            data.criteria.max_channel_age_days + ' günlük';
+        }
+
+        if (!data.opportunities || !data.opportunities.length) {
           results.innerHTML = '<div class="empty">Bugün kriterlere uyan fırsat niş bulunamadı.</div>';
           return;
         }
@@ -90,15 +83,25 @@
               <div class="channel">${op.channel}</div>
               ${op.ideal ? '<span class="badge">🌟 İDEAL</span>' : ''}
             </div>
-            <div class="title">🎬 ${op.title}</div>
-            <div class="stats">
+            <div class="chan-stats">
               <span>👥 ${op.subscribers.toLocaleString('tr-TR')} abone</span>
-              <span>👁 ${op.views.toLocaleString('tr-TR')} izlenme</span>
               <span>🎞 ${op.channel_video_count} video</span>
-              <span>📅 ${op.published}</span>
-              <span class="score">⚡ ${op.score}x</span>
+              <span>🕓 Kanal ${op.channel_age_days}g / İlk video ${op.first_video_age_days}g önce</span>
+              <span>✅ ${op.qualifying_video_count} video oranı geçti</span>
             </div>
-            <div style="margin-top:8px;"><a href="${op.url}" target="_blank">Videoyu aç →</a></div>
+            <div class="video-list">
+              ${op.top_videos.map(v => `
+                <div class="video-item">
+                  <div class="video-title">🎬 ${v.title}</div>
+                  <div class="video-stats">
+                    <span>👁 ${v.views.toLocaleString('tr-TR')} izlenme</span>
+                    <span>📅 ${v.published}</span>
+                    <span class="score">⚡ ${v.score}x</span>
+                    <span><a href="${v.url}" target="_blank">Videoyu aç →</a></span>
+                  </div>
+                </div>
+              `).join('')}
+            </div>
           </div>
         `).join('');
       })
