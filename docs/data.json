@@ -1,0 +1,11 @@
+{
+  "generated_at": null,
+  "criteria": {
+    "max_subscribers": 20000,
+    "ideal_subscribers": 10000,
+    "max_channel_video_count": 30,
+    "min_view_to_sub_ratio": 10,
+    "max_video_age_days": 21
+  },
+  "opportunities": []
+}
