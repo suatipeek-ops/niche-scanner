@@ -1,122 +1,12 @@
 {
-  "generated_at": "2026-06-17T23:22:23.470961+00:00",
+  "generated_at": null,
   "criteria": {
     "max_subscribers": 20000,
     "ideal_subscribers": 10000,
-    "max_channel_video_count": 30,
+    "max_channel_video_count": 60,
     "min_view_to_sub_ratio": 10,
-    "max_video_age_days": 21
+    "min_high_performing_videos": 2,
+    "max_channel_age_days": 60
   },
-  "opportunities": [
-    {
-      "score": 8015.49,
-      "channel": "Cristian Robles - Topic",
-      "subscribers": 252,
-      "channel_video_count": 15,
-      "ideal": true,
-      "title": "No Fue Suerte, Fue Dios",
-      "views": 2019904,
-      "published": "2026-06-05",
-      "url": "https://www.youtube.com/watch?v=EhKj2CLdMnA"
-    },
-    {
-      "score": 7006.65,
-      "channel": "RyloRodriguezVEVO",
-      "subscribers": 265,
-      "channel_video_count": 3,
-      "ideal": true,
-      "title": "Rylo Rodriguez - Bruddas",
-      "views": 1856761,
-      "published": "2026-06-05",
-      "url": "https://www.youtube.com/watch?v=pPy4qcgjdmY"
-    },
-    {
-      "score": 5978.5,
-      "channel": "Release - Topic",
-      "subscribers": 26,
-      "channel_video_count": 0,
-      "ideal": true,
-      "title": "Nunca Supiste Que Te Esperé",
-      "views": 155441,
-      "published": "2026-06-16",
-      "url": "https://www.youtube.com/watch?v=ZxEAP9V4TNE"
-    },
-    {
-      "score": 2190.38,
-      "channel": "MvnnyMusik - Topic",
-      "subscribers": 357,
-      "channel_video_count": 26,
-      "ideal": true,
-      "title": "Deep Sea Diver",
-      "views": 781964,
-      "published": "2026-06-08",
-      "url": "https://www.youtube.com/watch?v=opUqP703oPw"
-    },
-    {
-      "score": 1154.16,
-      "channel": "Release - Topic",
-      "subscribers": 50,
-      "channel_video_count": 1,
-      "ideal": true,
-      "title": "Lewa",
-      "views": 57708,
-      "published": "2026-06-06",
-      "url": "https://www.youtube.com/watch?v=NYT5zzex7yo"
-    },
-    {
-      "score": 617.37,
-      "channel": "Fenix Flexin - Topic",
-      "subscribers": 2470,
-      "channel_video_count": 2,
-      "ideal": true,
-      "title": "RUBBERZ",
-      "views": 1524898,
-      "published": "2026-06-04",
-      "url": "https://www.youtube.com/watch?v=qsKSfCCxrnk"
-    },
-    {
-      "score": 479.72,
-      "channel": "need more",
-      "subscribers": 462,
-      "channel_video_count": 8,
-      "ideal": true,
-      "title": "Foster The People - Pumped Up Kicks (Lyrics + Letra)",
-      "views": 221631,
-      "published": "2026-06-10",
-      "url": "https://www.youtube.com/watch?v=-wrCD61Fozo"
-    },
-    {
-      "score": 282.01,
-      "channel": "KTrapVEVO",
-      "subscribers": 668,
-      "channel_video_count": 13,
-      "ideal": true,
-      "title": "K-Trap, Young Adz - CAN'T SAY NO (Official Video)",
-      "views": 188385,
-      "published": "2026-06-11",
-      "url": "https://www.youtube.com/watch?v=Z5vSpK5OMKs"
-    },
-    {
-      "score": 38.87,
-      "channel": "Nick Morgan Music",
-      "subscribers": 3420,
-      "channel_video_count": 10,
-      "ideal": true,
-      "title": "No Scotland No Party Music Video (World Cup 2026 Edition) by Nick Morgan",
-      "views": 132945,
-      "published": "2026-06-11",
-      "url": "https://www.youtube.com/watch?v=-qSVBY08VoA"
-    },
-    {
-      "score": 28.36,
-      "channel": "Dezzie",
-      "subscribers": 4800,
-      "channel_video_count": 17,
-      "ideal": true,
-      "title": "Abra Cadabra X Dezzie X Izzpot - Defender (Official Video)",
-      "views": 136119,
-      "published": "2026-06-11",
-      "url": "https://www.youtube.com/watch?v=yZx0zwbz1eQ"
-    }
-  ]
+  "opportunities": []
 }
