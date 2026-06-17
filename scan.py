@@ -100,13 +100,15 @@ def is_valid_video(v) -> bool:
         return False
     return True
 
+
 def parse_iso8601(timestamp: str) -> datetime:
     """YouTube API'den gelen ISO 8601 tarihlerini ayrıştırır.
     Bazı tarihler ondalık saniye içerir (...29.371972Z), bazıları içermez —
     ikisini de doğru şekilde okur."""
     return datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
-    
-    def chunked(items, size=50):
+
+
+def chunked(items, size=50):
     for i in range(0, len(items), size):
         yield items[i:i + size]
 
@@ -212,7 +214,7 @@ def evaluate_channel(channel_id, info):
     if not uploads:
         return None
 
-   upload_video_ids = [vid for vid, _ in uploads]
+    upload_video_ids = [vid for vid, _ in uploads]
     upload_dates = [parse_iso8601(pub) for _, pub in uploads]
     earliest_video_date = min(upload_dates)
     channel_created = parse_iso8601(info["channelCreated"])
