@@ -42,7 +42,7 @@
   .video-item { background: #11141a; border-radius: 8px; padding: 10px 12px; border: 1px solid #232734; }
   .video-title { font-size: 13.5px; margin-bottom: 4px; line-height: 1.35; }
   .video-stats { display: flex; gap: 12px; flex-wrap: wrap; font-size: 11.5px; color: var(--muted); }
-  .views { color: var(--accent); font-weight: 700; }
+  .ratio { color: var(--accent); font-weight: 700; }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
   .empty { color: var(--muted); text-align: center; padding: 40px 0; }
@@ -71,8 +71,8 @@
             ' · Kriter: ' + c.min_subscribers.toLocaleString('tr-TR') + '-' +
             c.max_subscribers.toLocaleString('tr-TR') + ' abone, max ' +
             c.max_channel_video_count + ' video, ' + c.min_video_minutes + '-' +
-            c.max_video_minutes + ' dk, en az 1 video ' +
-            c.min_views_best_video.toLocaleString('tr-TR') + '+ izlenme';
+            c.max_video_minutes + ' dk, en az 1 video abonenin ' +
+            c.min_view_to_sub_ratio + 'x izlenmiş';
         }
 
         if (!data.opportunities || !data.opportunities.length) {
@@ -82,7 +82,7 @@
 
         results.innerHTML = data.opportunities.map(op => {
           const isIdeal = op.subscribers <= 5000;
-          const isStrong = op.high_view_count >= 2;
+          const isStrong = op.high_ratio_count >= 2;
           return `
           <div class="card ${isStrong ? 'strong' : ''}">
             <div class="row">
@@ -96,15 +96,16 @@
               <span>👥 ${op.subscribers.toLocaleString('tr-TR')} abone</span>
               <span>🎞 ${op.channel_video_count} video</span>
               <span>🕓 Kanal ${op.channel_age_days}g / İlk video ${op.first_video_age_days}g önce</span>
-              <span>🏆 En iyi video: ${op.best_views.toLocaleString('tr-TR')} izlenme</span>
-              <span>💯 ${op.high_view_count} video 100k+ izlenmiş</span>
+              <span>⚡ En iyi oran: ${op.best_ratio}x</span>
+              <span>💯 ${op.high_ratio_count} video oranı geçti</span>
             </div>
             <div class="video-list">
               ${op.top_videos.map(v => `
                 <div class="video-item">
                   <div class="video-title">🎬 ${v.title}</div>
                   <div class="video-stats">
-                    <span class="views">👁 ${v.views.toLocaleString('tr-TR')} izlenme</span>
+                    <span>👁 ${v.views.toLocaleString('tr-TR')} izlenme</span>
+                    <span class="ratio">⚡ ${v.ratio}x</span>
                     <span>📅 ${v.published}</span>
                     <span><a href="${v.url}" target="_blank">Videoyu aç →</a></span>
                   </div>
