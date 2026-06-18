@@ -1,5 +1,5 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-06-18T00:01:34.593927+00:00",
   "criteria": {
     "max_subscribers": 20000,
     "ideal_subscribers": 10000,
@@ -8,5 +8,910 @@
     "min_high_performing_videos": 2,
     "max_channel_age_days": 60
   },
-  "opportunities": []
+  "opportunities": [
+    {
+      "channel": "UNSUBSCRIBE",
+      "subscribers": 61,
+      "channel_video_count": 51,
+      "channel_age_days": 218,
+      "first_video_age_days": 60,
+      "ideal": true,
+      "qualifying_video_count": 32,
+      "best_score": 25.41,
+      "top_videos": [
+        {
+          "score": 25.41,
+          "title": "The Only Men to Ever Escape Alcatraz Used Spoons and Fake Heads",
+          "views": 1550,
+          "published": "2026-05-08",
+          "url": "https://www.youtube.com/watch?v=vCpm7ZxlVPw"
+        },
+        {
+          "score": 21.41,
+          "title": "Irish Con Man Almost Stole the Crown Jewels and Got Rewarded for It",
+          "views": 1306,
+          "published": "2026-04-30",
+          "url": "https://www.youtube.com/watch?v=kQt4IxV3aiQ"
+        },
+        {
+          "score": 20.44,
+          "title": "How a Janitor Stole the Mona Lisa and Got Away With It for 2 Years",
+          "views": 1247,
+          "published": "2026-04-23",
+          "url": "https://www.youtube.com/watch?v=_nhFg9kCtXM"
+        },
+        {
+          "score": 19.66,
+          "title": "The College Admissions Scandal That Exposed Hollywood's Dark Secret #shorts",
+          "views": 1199,
+          "published": "2026-04-19",
+          "url": "https://www.youtube.com/watch?v=VzrYNq6J5nU"
+        },
+        {
+          "score": 19.59,
+          "title": "How John Dillinger Escaped Prison with a Soap Gun in 1934 #shorts",
+          "views": 1195,
+          "published": "2026-04-22",
+          "url": "https://www.youtube.com/watch?v=eIAg0EqQIP0"
+        }
+      ]
+    },
+    {
+      "channel": "The Skeleton Trials",
+      "subscribers": 2660,
+      "channel_video_count": 41,
+      "channel_age_days": 3065,
+      "first_video_age_days": 58,
+      "ideal": true,
+      "qualifying_video_count": 11,
+      "best_score": 43.32,
+      "top_videos": [
+        {
+          "score": 43.32,
+          "title": "Life of an Electrician - What would you see?",
+          "views": 115228,
+          "published": "2026-05-20",
+          "url": "https://www.youtube.com/watch?v=rN36FOOuNVU"
+        },
+        {
+          "score": 41.68,
+          "title": "Life of a Plumber - What would you see?",
+          "views": 110861,
+          "published": "2026-05-26",
+          "url": "https://www.youtube.com/watch?v=RfXF3SZeY00"
+        },
+        {
+          "score": 15.95,
+          "title": "Life of a Carpenter - What would you see?",
+          "views": 42422,
+          "published": "2026-05-30",
+          "url": "https://www.youtube.com/watch?v=4YMKjOGuvao"
+        },
+        {
+          "score": 12.15,
+          "title": "Who Escapes from Prison First?",
+          "views": 32311,
+          "published": "2026-06-05",
+          "url": "https://www.youtube.com/watch?v=P8RhuVck12o"
+        },
+        {
+          "score": 11.79,
+          "title": "iPhone in Ancient Greece - What would happen?",
+          "views": 31358,
+          "published": "2026-04-24",
+          "url": "https://www.youtube.com/watch?v=VWDXYCwDflI"
+        }
+      ]
+    },
+    {
+      "channel": "Rankings Daily",
+      "subscribers": 22,
+      "channel_video_count": 10,
+      "channel_age_days": 2873,
+      "first_video_age_days": 11,
+      "ideal": true,
+      "qualifying_video_count": 8,
+      "best_score": 239.45,
+      "top_videos": [
+        {
+          "score": 239.45,
+          "title": "Ranking the funniest Streamer University clips 🤣 #streamer #clips #shorts",
+          "views": 5268,
+          "published": "2026-06-10",
+          "url": "https://www.youtube.com/watch?v=vfp18pVkQJc"
+        },
+        {
+          "score": 76.41,
+          "title": "Whats your #1? Ranking the Best ASMR Types 😴 #asmr #satisfying #shorts",
+          "views": 1681,
+          "published": "2026-06-11",
+          "url": "https://www.youtube.com/watch?v=9oqYi0CC9RA"
+        },
+        {
+          "score": 69.82,
+          "title": "Ranking The Most Wildly Disrespectful Delivery Drivers Ever Caught On Camera #fails",
+          "views": 1536,
+          "published": "2026-06-09",
+          "url": "https://www.youtube.com/watch?v=Ulq7XpCUk0A"
+        },
+        {
+          "score": 65.91,
+          "title": "Ranking The 5 Funniest Police Bodycam Videos On The Internet",
+          "views": 1450,
+          "published": "2026-06-11",
+          "url": "https://www.youtube.com/watch?v=rMKQdcaTqWA"
+        },
+        {
+          "score": 46.68,
+          "title": "Ranking the best moments from Los, Ron and Jynxzi #funnymoments #funny",
+          "views": 1027,
+          "published": "2026-06-16",
+          "url": "https://www.youtube.com/watch?v=X6zO3wpjwM4"
+        }
+      ]
+    },
+    {
+      "channel": "Modern Warfare",
+      "subscribers": 11400,
+      "channel_video_count": 41,
+      "channel_age_days": 1591,
+      "first_video_age_days": 56,
+      "ideal": false,
+      "qualifying_video_count": 8,
+      "best_score": 44.55,
+      "top_videos": [
+        {
+          "score": 44.55,
+          "title": "The Hunt for Al-Zarqawi - How Special Forces Took Down Iraq’s Deadliest Terrorist",
+          "views": 507918,
+          "published": "2026-05-27",
+          "url": "https://www.youtube.com/watch?v=sYy_gGRfCfM"
+        },
+        {
+          "score": 36.24,
+          "title": "Inside Israel's Daring Raid to Assassinate Abu Jihad - The True Story",
+          "views": 413191,
+          "published": "2026-05-22",
+          "url": "https://www.youtube.com/watch?v=l9OwrUcu0nY"
+        },
+        {
+          "score": 23.39,
+          "title": "Inside Miami SWAT - Elite Police Battle Crime, Drugs and Chaos",
+          "views": 266641,
+          "published": "2026-05-01",
+          "url": "https://www.youtube.com/watch?v=ibAFrnjoJ1c"
+        },
+        {
+          "score": 20.69,
+          "title": "The Battle That Changed Kandahar - Inside Operation Medusa",
+          "views": 235864,
+          "published": "2026-05-11",
+          "url": "https://www.youtube.com/watch?v=I0ncxxeVE6A"
+        },
+        {
+          "score": 16.66,
+          "title": "How Mercenaries Ended the Longest Somali Pirate Hostage Crisis in History",
+          "views": 189909,
+          "published": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=lN5XOmhAVhk"
+        }
+      ]
+    },
+    {
+      "channel": "WildCore",
+      "subscribers": 6130,
+      "channel_video_count": 37,
+      "channel_age_days": 58,
+      "first_video_age_days": 56,
+      "ideal": true,
+      "qualifying_video_count": 7,
+      "best_score": 290.6,
+      "top_videos": [
+        {
+          "score": 290.6,
+          "title": "This Giant Fish Gets Eaten Alive and Does Nothing",
+          "views": 1781407,
+          "published": "2026-05-12",
+          "url": "https://www.youtube.com/watch?v=wPYN8mISJLw"
+        },
+        {
+          "score": 105.51,
+          "title": "The Copperhead Bit the Wrong Snake #kingsnake #copperhead",
+          "views": 646805,
+          "published": "2026-06-11",
+          "url": "https://www.youtube.com/watch?v=t4wG7M7wHfM"
+        },
+        {
+          "score": 52.58,
+          "title": "Why Rattlesnakes Fear This Snake #rattlesnake",
+          "views": 322315,
+          "published": "2026-06-06",
+          "url": "https://www.youtube.com/watch?v=UytTms9UQRs"
+        },
+        {
+          "score": 38.99,
+          "title": "This Meal Can Kill the Python That Eats It #python #porcupines",
+          "views": 238983,
+          "published": "2026-06-08",
+          "url": "https://www.youtube.com/watch?v=GNvVnFqMACs"
+        },
+        {
+          "score": 29.03,
+          "title": "The Giant Snake That Hunts Cottonmouths #wildlife #cottonmouth",
+          "views": 177969,
+          "published": "2026-06-15",
+          "url": "https://www.youtube.com/watch?v=wAB0IDthDYw"
+        }
+      ]
+    },
+    {
+      "channel": "Absolute Egypt",
+      "subscribers": 912,
+      "channel_video_count": 26,
+      "channel_age_days": 162,
+      "first_video_age_days": 42,
+      "ideal": true,
+      "qualifying_video_count": 7,
+      "best_score": 38.97,
+      "top_videos": [
+        {
+          "score": 38.97,
+          "title": "Searching for Imhotep: Saqqara's Lost Tomb and Ancient Egyptian Secrets",
+          "views": 35537,
+          "published": "2026-05-23",
+          "url": "https://www.youtube.com/watch?v=Crpd68uy5Iw"
+        },
+        {
+          "score": 22.93,
+          "title": "Egypt’s Lost Oases and Ancient Secrets Revealed by the Desert",
+          "views": 20910,
+          "published": "2026-05-24",
+          "url": "https://www.youtube.com/watch?v=77HwpfHxndQ"
+        },
+        {
+          "score": 20.41,
+          "title": "The Buried Pyramid: Secrets of Egypt's Forgotten Pharaoh Revealed",
+          "views": 18610,
+          "published": "2026-05-17",
+          "url": "https://www.youtube.com/watch?v=_eDZWkOQmiU"
+        },
+        {
+          "score": 18.32,
+          "title": "Saqqara’s Lost Queen and 3,000-Year-Old Mummy Secrets Revealed",
+          "views": 16706,
+          "published": "2026-05-06",
+          "url": "https://www.youtube.com/watch?v=1TqAPdtX47M"
+        },
+        {
+          "score": 12.88,
+          "title": "Secrets of Saqqara - Decoding the Oldest Egyptian Pyramid Texts",
+          "views": 11744,
+          "published": "2026-05-08",
+          "url": "https://www.youtube.com/watch?v=kov0_Y04s1E"
+        }
+      ]
+    },
+    {
+      "channel": "TheCountryLearn",
+      "subscribers": 380,
+      "channel_video_count": 14,
+      "channel_age_days": 24,
+      "first_video_age_days": 22,
+      "ideal": true,
+      "qualifying_video_count": 6,
+      "best_score": 193.54,
+      "top_videos": [
+        {
+          "score": 193.54,
+          "title": "Intresting Facts About Sweden That Will Blow Your Mind  #worldfacts#sweden #swedenlife #geography",
+          "views": 73544,
+          "published": "2026-06-07",
+          "url": "https://www.youtube.com/watch?v=0WZcmICpIbA"
+        },
+        {
+          "score": 175.16,
+          "title": "Why China's Geography Is Its Biggest Nightmare (No One Talks About This)",
+          "views": 66559,
+          "published": "2026-06-11",
+          "url": "https://www.youtube.com/watch?v=eTJlG_rKRJ8"
+        },
+        {
+          "score": 163.78,
+          "title": "Why Perth is the MOST ISOLATED City on Earth 🌏 Shocking Facts  #countryfacts",
+          "views": 62236,
+          "published": "2026-06-12",
+          "url": "https://www.youtube.com/watch?v=6gyJWr-aPuQ"
+        },
+        {
+          "score": 61.89,
+          "title": "How BIG is Australia? (Size Comparison That Will Shock You) #geography #australia",
+          "views": 23520,
+          "published": "2026-06-09",
+          "url": "https://www.youtube.com/watch?v=05IPDIVfKH4"
+        },
+        {
+          "score": 26.07,
+          "title": "NYC Facts That Will Blow Your Mind 🗽  #geography",
+          "views": 9905,
+          "published": "2026-06-14",
+          "url": "https://www.youtube.com/watch?v=VDB5mmXssjc"
+        }
+      ]
+    },
+    {
+      "channel": "Lyrae",
+      "subscribers": 216,
+      "channel_video_count": 25,
+      "channel_age_days": 3037,
+      "first_video_age_days": 36,
+      "ideal": true,
+      "qualifying_video_count": 6,
+      "best_score": 113.07,
+      "top_videos": [
+        {
+          "score": 113.07,
+          "title": "pov: you know ALL of these songs (2012 Throwback Playlist)",
+          "views": 24424,
+          "published": "2026-06-06",
+          "url": "https://www.youtube.com/watch?v=q9DyKTp0zwY"
+        },
+        {
+          "score": 71.54,
+          "title": "Animal facts you PROBABLY didn’t know! #shorts",
+          "views": 15453,
+          "published": "2026-05-21",
+          "url": "https://www.youtube.com/watch?v=B9K0KeF148Q"
+        },
+        {
+          "score": 39.34,
+          "title": "it’s 2 am and I’m still thinking about you // soft indie playlist🌌✨",
+          "views": 8497,
+          "published": "2026-06-08",
+          "url": "https://www.youtube.com/watch?v=qiBxUGE_qaY"
+        },
+        {
+          "score": 35.86,
+          "title": "bruno mars top hits playlist.",
+          "views": 7746,
+          "published": "2026-06-10",
+          "url": "https://www.youtube.com/watch?v=p3vx_T8lQWk"
+        },
+        {
+          "score": 13.89,
+          "title": "Coldplay Best Songs Collection - Greatest Hits Full Album",
+          "views": 3000,
+          "published": "2026-05-31",
+          "url": "https://www.youtube.com/watch?v=kTO_hQZ8ikI"
+        }
+      ]
+    },
+    {
+      "channel": "VOID CAST",
+      "subscribers": 1120,
+      "channel_video_count": 37,
+      "channel_age_days": 63,
+      "first_video_age_days": 57,
+      "ideal": true,
+      "qualifying_video_count": 6,
+      "best_score": 46.94,
+      "top_videos": [
+        {
+          "score": 46.94,
+          "title": "DIGGING DEEPER INTO THE MOON GETS CRAZY😮 #space #shorts #challenge",
+          "views": 52578,
+          "published": "2026-05-02",
+          "url": "https://www.youtube.com/watch?v=esSXC8g6ovk"
+        },
+        {
+          "score": 28.37,
+          "title": "MARS DIGGING CHALLENGE VS ELON MUSK 😲 #shorts #challenge",
+          "views": 31779,
+          "published": "2026-05-03",
+          "url": "https://www.youtube.com/watch?v=QFttThlrlmM"
+        },
+        {
+          "score": 25.8,
+          "title": "WOULD YOU TAKE THE OCEAN DEAL? #challenge #shorts",
+          "views": 28891,
+          "published": "2026-05-06",
+          "url": "https://www.youtube.com/watch?v=H2-z6JNSD7g"
+        },
+        {
+          "score": 22.39,
+          "title": "How High Could You Jump On Different Planets 😲 #shorts #planets #challenge",
+          "views": 25072,
+          "published": "2026-04-28",
+          "url": "https://www.youtube.com/watch?v=nLJm2DtloGg"
+        },
+        {
+          "score": 17.98,
+          "title": "$100 MILLION CHALLENGE GONE WRONG #challenge #shorts #experiements",
+          "views": 20139,
+          "published": "2026-05-16",
+          "url": "https://www.youtube.com/watch?v=BeRXiHAd7zc"
+        }
+      ]
+    },
+    {
+      "channel": "WW2 Dossier",
+      "subscribers": 9190,
+      "channel_video_count": 48,
+      "channel_age_days": 48,
+      "first_video_age_days": 46,
+      "ideal": true,
+      "qualifying_video_count": 5,
+      "best_score": 28.93,
+      "top_videos": [
+        {
+          "score": 28.93,
+          "title": "Why German Soldiers Were Puzzled Americans Fought Better Without Officers",
+          "views": 265830,
+          "published": "2026-05-03",
+          "url": "https://www.youtube.com/watch?v=PNJi_EASezg"
+        },
+        {
+          "score": 17.01,
+          "title": "Why German Officers Couldn't Explain The Phone Welded To US Tanks",
+          "views": 156342,
+          "published": "2026-05-09",
+          "url": "https://www.youtube.com/watch?v=hOyR9FTYfhU"
+        },
+        {
+          "score": 12.01,
+          "title": "What Japanese Engineers Found In Captured B-29 That Made Them Give Up",
+          "views": 110414,
+          "published": "2026-05-03",
+          "url": "https://www.youtube.com/watch?v=8bEeGK07soo"
+        },
+        {
+          "score": 11.9,
+          "title": "Why German Radio Operators Gave Up Decoding American Chatter",
+          "views": 109390,
+          "published": "2026-05-19",
+          "url": "https://www.youtube.com/watch?v=V_4br2sVyng"
+        },
+        {
+          "score": 10.13,
+          "title": "Why German Commanders Feared American Silence More Than Gunfire",
+          "views": 93120,
+          "published": "2026-05-04",
+          "url": "https://www.youtube.com/watch?v=1f_XoVZjV14"
+        }
+      ]
+    },
+    {
+      "channel": "The Animal Kingdom",
+      "subscribers": 333,
+      "channel_video_count": 7,
+      "channel_age_days": 2398,
+      "first_video_age_days": 45,
+      "ideal": true,
+      "qualifying_video_count": 4,
+      "best_score": 107.59,
+      "top_videos": [
+        {
+          "score": 107.59,
+          "title": "Fascinating Animal Facts You Didn't Know! #animalfacts #wildlife #facts",
+          "views": 35829,
+          "published": "2026-05-03",
+          "url": "https://www.youtube.com/watch?v=xonqrhtWBwM"
+        },
+        {
+          "score": 72.91,
+          "title": "Animals with abilities that shouldn't be possible #animalfacts #wildlife #facts",
+          "views": 24279,
+          "published": "2026-05-13",
+          "url": "https://www.youtube.com/watch?v=fxHPHHR6m9M"
+        },
+        {
+          "score": 33.35,
+          "title": "Top Deadliest Animals That Will Shock You #animalfacts #wildlife #facts",
+          "views": 11106,
+          "published": "2026-05-05",
+          "url": "https://www.youtube.com/watch?v=Cd9_CC4qIwg"
+        },
+        {
+          "score": 10.32,
+          "title": "Animal Facts You Never Knew! #animalfacts #wildlife #facts",
+          "views": 3435,
+          "published": "2026-05-18",
+          "url": "https://www.youtube.com/watch?v=v85k6aJQ2xg"
+        }
+      ]
+    },
+    {
+      "channel": "Haunted History",
+      "subscribers": 4680,
+      "channel_video_count": 38,
+      "channel_age_days": 125,
+      "first_video_age_days": 49,
+      "ideal": true,
+      "qualifying_video_count": 4,
+      "best_score": 18.12,
+      "top_videos": [
+        {
+          "score": 18.12,
+          "title": "How Psychics Helped Solve Two Chilling Murder Mysteries",
+          "views": 84815,
+          "published": "2026-05-23",
+          "url": "https://www.youtube.com/watch?v=3mAF1UXe3DQ"
+        },
+        {
+          "score": 17.9,
+          "title": "How Psychics Helped Solve Two Unimaginable Missing Persons Cases",
+          "views": 83761,
+          "published": "2026-05-22",
+          "url": "https://www.youtube.com/watch?v=8BqU9dJYHCY"
+        },
+        {
+          "score": 17.81,
+          "title": "Psychics Help Solve Chilling Murder and Missing Child Cases",
+          "views": 83335,
+          "published": "2026-06-01",
+          "url": "https://www.youtube.com/watch?v=QcrmwyQIBdY"
+        },
+        {
+          "score": 13.07,
+          "title": "Haunted Funeral Home: The True Story Behind a Terrifying Exorcism",
+          "views": 61178,
+          "published": "2026-05-08",
+          "url": "https://www.youtube.com/watch?v=G2bc3kyt3Uc"
+        }
+      ]
+    },
+    {
+      "channel": "Caelum",
+      "subscribers": 1990,
+      "channel_video_count": 33,
+      "channel_age_days": 53,
+      "first_video_age_days": 49,
+      "ideal": true,
+      "qualifying_video_count": 3,
+      "best_score": 146.57,
+      "top_videos": [
+        {
+          "score": 146.57,
+          "title": "The 7 Levels of Black Holes",
+          "views": 291678,
+          "published": "2026-05-16",
+          "url": "https://www.youtube.com/watch?v=ge4SzvdO1iI"
+        },
+        {
+          "score": 22.54,
+          "title": "The 7 Levels of Galaxies",
+          "views": 44857,
+          "published": "2026-05-25",
+          "url": "https://www.youtube.com/watch?v=TXOaGvvur7g"
+        },
+        {
+          "score": 12.35,
+          "title": "The 7 Levels of Stars Explained",
+          "views": 24584,
+          "published": "2026-05-16",
+          "url": "https://www.youtube.com/watch?v=eoHe5eV_hHc"
+        }
+      ]
+    },
+    {
+      "channel": "Mysterious Entities ",
+      "subscribers": 79,
+      "channel_video_count": 9,
+      "channel_age_days": 54,
+      "first_video_age_days": 54,
+      "ideal": true,
+      "qualifying_video_count": 3,
+      "best_score": 111.41,
+      "top_videos": [
+        {
+          "score": 111.41,
+          "title": "Every Giant Creature of Trevor Henderson| Explained ",
+          "views": 8801,
+          "published": "2026-04-24",
+          "url": "https://www.youtube.com/watch?v=NRwuRP2kBZA"
+        },
+        {
+          "score": 104.9,
+          "title": "Every Deadly Carnivorous Plant Explained ",
+          "views": 8287,
+          "published": "2026-06-02",
+          "url": "https://www.youtube.com/watch?v=a7UnwPRS4W0"
+        },
+        {
+          "score": 41.76,
+          "title": "Every Trevor Henderson Creature Explained ",
+          "views": 3299,
+          "published": "2026-05-03",
+          "url": "https://www.youtube.com/watch?v=f9B1DWmCmXs"
+        }
+      ]
+    },
+    {
+      "channel": "THE VAULT Unlocking Hidden History",
+      "subscribers": 11,
+      "channel_video_count": 3,
+      "channel_age_days": 4,
+      "first_video_age_days": 4,
+      "ideal": true,
+      "qualifying_video_count": 3,
+      "best_score": 108.09,
+      "top_videos": [
+        {
+          "score": 108.09,
+          "title": "How the US Tried to Steal a Soviet Nuclear Submarine (Project Azorian)",
+          "views": 1189,
+          "published": "2026-06-13",
+          "url": "https://www.youtube.com/watch?v=qi_0LufS5-c"
+        },
+        {
+          "score": 80.36,
+          "title": "The Day the CIA Buried Their Enemies With Full Honors",
+          "views": 884,
+          "published": "2026-06-14",
+          "url": "https://www.youtube.com/watch?v=cWNpnJdnXLU"
+        },
+        {
+          "score": 19.55,
+          "title": "Project Azorian: The $500M CIA Heist ",
+          "views": 215,
+          "published": "2026-06-13",
+          "url": "https://www.youtube.com/watch?v=aYLyOhqlDc8"
+        }
+      ]
+    },
+    {
+      "channel": "New Cosmic Explorer",
+      "subscribers": 4230,
+      "channel_video_count": 45,
+      "channel_age_days": 54,
+      "first_video_age_days": 53,
+      "ideal": true,
+      "qualifying_video_count": 3,
+      "best_score": 98.66,
+      "top_videos": [
+        {
+          "score": 98.66,
+          "title": "10 Horrifying Distances in Space the Human Brain Can’t Process",
+          "views": 417335,
+          "published": "2026-05-10",
+          "url": "https://www.youtube.com/watch?v=h-wnf7dPMLQ"
+        },
+        {
+          "score": 17.27,
+          "title": "7 Terrifying Theories That Suggest Aliens Actually Exist",
+          "views": 73052,
+          "published": "2026-05-01",
+          "url": "https://www.youtube.com/watch?v=_KOB6ykgQwI"
+        },
+        {
+          "score": 11.98,
+          "title": "8 Disturbing Glitches in Reality Physics Cannot Explain",
+          "views": 50688,
+          "published": "2026-05-15",
+          "url": "https://www.youtube.com/watch?v=_zCzGuCeWGA"
+        }
+      ]
+    },
+    {
+      "channel": "Canadian War Stories",
+      "subscribers": 5180,
+      "channel_video_count": 31,
+      "channel_age_days": 48,
+      "first_video_age_days": 42,
+      "ideal": true,
+      "qualifying_video_count": 3,
+      "best_score": 57.1,
+      "top_videos": [
+        {
+          "score": 57.1,
+          "title": "Why German Snipers Dreaded Facing Canadians More Than Anyone",
+          "views": 295762,
+          "published": "2026-05-13",
+          "url": "https://www.youtube.com/watch?v=Ev2AcyjHWk0"
+        },
+        {
+          "score": 17.96,
+          "title": "What Canadians Found in Holland After Germans Left Millions to Starve",
+          "views": 93047,
+          "published": "2026-05-19",
+          "url": "https://www.youtube.com/watch?v=9KU84bD_o3s"
+        },
+        {
+          "score": 12.52,
+          "title": "Why Germans Couldn't Explain How Canadians Disappeared in Open Ground",
+          "views": 64876,
+          "published": "2026-05-22",
+          "url": "https://www.youtube.com/watch?v=LJiuOMAJFbg"
+        }
+      ]
+    },
+    {
+      "channel": "Underground History",
+      "subscribers": 2560,
+      "channel_video_count": 27,
+      "channel_age_days": 46,
+      "first_video_age_days": 33,
+      "ideal": true,
+      "qualifying_video_count": 3,
+      "best_score": 29.52,
+      "top_videos": [
+        {
+          "score": 29.52,
+          "title": "The Sumerian Tablet That Counts the 8 Civilizations — And Describes Exactly How Each One Ended",
+          "views": 75566,
+          "published": "2026-05-31",
+          "url": "https://www.youtube.com/watch?v=15M_nRccPCE"
+        },
+        {
+          "score": 17.21,
+          "title": "The Last Child Who Remembered the Old Sky - Her Final Words Terrified Everyone | Secret Histories",
+          "views": 44045,
+          "published": "2026-05-18",
+          "url": "https://www.youtube.com/watch?v=G0PuiW8yw5M"
+        },
+        {
+          "score": 11.36,
+          "title": "The Sumerian Tablet That Describes What Happens If You Refuse to Go Into the Light After Death",
+          "views": 29092,
+          "published": "2026-06-02",
+          "url": "https://www.youtube.com/watch?v=HUF2rexVJ04"
+        }
+      ]
+    },
+    {
+      "channel": "geography",
+      "subscribers": 2070,
+      "channel_video_count": 23,
+      "channel_age_days": 42,
+      "first_video_age_days": 40,
+      "ideal": true,
+      "qualifying_video_count": 2,
+      "best_score": 79.14,
+      "top_videos": [
+        {
+          "score": 79.14,
+          "title": "20 Most Dangerous Places in Appalachia",
+          "views": 163825,
+          "published": "2026-06-01",
+          "url": "https://www.youtube.com/watch?v=Gs9xeyjrx24"
+        },
+        {
+          "score": 63.39,
+          "title": "30 CRAZY Geography Facts about Southern Texas That You Should Know",
+          "views": 131207,
+          "published": "2026-05-25",
+          "url": "https://www.youtube.com/watch?v=iICWEJREMec"
+        }
+      ]
+    },
+    {
+      "channel": "AnimalFactzz",
+      "subscribers": 365,
+      "channel_video_count": 8,
+      "channel_age_days": 23,
+      "first_video_age_days": 23,
+      "ideal": true,
+      "qualifying_video_count": 2,
+      "best_score": 40.35,
+      "top_videos": [
+        {
+          "score": 40.35,
+          "title": "5 things you never knew about red pandas! 🦊#redpanda #cute #facts",
+          "views": 14728,
+          "published": "2026-06-05",
+          "url": "https://www.youtube.com/watch?v=ynFJBiaQRtg"
+        },
+        {
+          "score": 28.8,
+          "title": "Pomeranian Facts! 🐶#pomeranian #dog",
+          "views": 10513,
+          "published": "2026-05-26",
+          "url": "https://www.youtube.com/watch?v=J8xqU505bks"
+        }
+      ]
+    },
+    {
+      "channel": "Stoic echoes",
+      "subscribers": 2010,
+      "channel_video_count": 52,
+      "channel_age_days": 561,
+      "first_video_age_days": 48,
+      "ideal": true,
+      "qualifying_video_count": 2,
+      "best_score": 36.5,
+      "top_videos": [
+        {
+          "score": 36.5,
+          "title": "15 life lessons that will change your life",
+          "views": 73371,
+          "published": "2026-05-15",
+          "url": "https://www.youtube.com/watch?v=rcuKBbm0rDA"
+        },
+        {
+          "score": 10.05,
+          "title": "5 things to turn your home into magnet for abundance/stocism",
+          "views": 20199,
+          "published": "2026-05-21",
+          "url": "https://www.youtube.com/watch?v=2B7eH-OkOy8"
+        }
+      ]
+    },
+    {
+      "channel": "Voices From the Front",
+      "subscribers": 1330,
+      "channel_video_count": 58,
+      "channel_age_days": 35,
+      "first_video_age_days": 27,
+      "ideal": true,
+      "qualifying_video_count": 2,
+      "best_score": 32.46,
+      "top_videos": [
+        {
+          "score": 32.46,
+          "title": "“You’re Operating on Me?” — German Women POWs Faced an American Surgeon |WWll  Untold History Story",
+          "views": 43172,
+          "published": "2026-06-06",
+          "url": "https://www.youtube.com/watch?v=i_-d7Ett_To"
+        },
+        {
+          "score": 10.96,
+          "title": "WWII Shock Story: German Women POWs React to the Freedom of American Women | It Felt Impossible",
+          "views": 14572,
+          "published": "2026-06-14",
+          "url": "https://www.youtube.com/watch?v=p2lyKUoklR4"
+        }
+      ]
+    },
+    {
+      "channel": "Alpha Reality ",
+      "subscribers": 4480,
+      "channel_video_count": 28,
+      "channel_age_days": 14,
+      "first_video_age_days": 14,
+      "ideal": true,
+      "qualifying_video_count": 2,
+      "best_score": 14.45,
+      "top_videos": [
+        {
+          "score": 14.45,
+          "title": "Who will take care of you when you're old?🤔 #lifelessons #mindset #stoicism",
+          "views": 64735,
+          "published": "2026-06-04",
+          "url": "https://www.youtube.com/watch?v=Q9dvilKPpVk"
+        },
+        {
+          "score": 12.9,
+          "title": "10 Rules to Follow If You Suddenly Become Rich💰✨️ #lifelessons ##wisdom #discipline #stoicism",
+          "views": 57772,
+          "published": "2026-06-09",
+          "url": "https://www.youtube.com/watch?v=LifjDGHcPzM"
+        }
+      ]
+    },
+    {
+      "channel": "Money Explained Finally",
+      "subscribers": 66,
+      "channel_video_count": 58,
+      "channel_age_days": 70,
+      "first_video_age_days": 59,
+      "ideal": true,
+      "qualifying_video_count": 2,
+      "best_score": 14.44,
+      "top_videos": [
+        {
+          "score": 14.44,
+          "title": "Why Do the Rich Pay Less Tax",
+          "views": 953,
+          "published": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=TPfWss3QnLo"
+        },
+        {
+          "score": 13.77,
+          "title": "What GDP Actually Measures Money Explained",
+          "views": 909,
+          "published": "2026-04-21",
+          "url": "https://www.youtube.com/watch?v=gvDTNPnFNpM"
+        }
+      ]
+    }
+  ]
 }
