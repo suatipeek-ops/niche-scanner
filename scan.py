@@ -15,22 +15,21 @@ YOUTUBE_API_KEY = os.environ["YOUTUBE_API_KEY"]
 # AYARLANABİLİR PARAMETRELER
 # ---------------------------------------------------------------------------
 REGION_CODE = "US"
-MAX_SUBSCRIBERS = 20_000          # "az abone" eşiği
-IDEAL_SUBSCRIBERS = 10_000        # Bu ve altı "🌟 İDEAL" olarak işaretlenir
-MAX_CHANNEL_VIDEO_COUNT = 60      # Kanalın toplam video sayısı bu sayıdan az olmalı
-MIN_VIEW_TO_SUB_RATIO = 10        # İzlenme, abone sayısının en az kaç katı olmalı
-MIN_HIGH_PERFORMING_VIDEOS = 2    # En az bu kadar video oranı geçmeli (tek video yetmez)
-MIN_VIDEO_SECONDS = 60            # Shorts'u elemek için
-MAX_CHANNEL_AGE_DAYS = 60         # Kanal açılışı VEYA ilk videosu bu kadar gün içinde olmalı
+MIN_SUBSCRIBERS = 500              # Bunun altı: henüz çok yeni/test aşaması, güvenilir sinyal yok
+MAX_SUBSCRIBERS = 20_000           # Bunun üstü: "az abone" şartına uymuyor
+MAX_CHANNEL_VIDEO_COUNT = 10       # Kanalın toplam video sayısı bu sayıdan fazla olamaz
+MIN_VIDEO_SECONDS = 600            # 10 dakika — bu süre Shorts'u zaten kesin olarak eler
+MAX_VIDEO_SECONDS = 1800           # 30 dakika
+MIN_VIEWS_BEST_VIDEO = 50_000      # Kanalın EN AZ bir videosu bu izlenmeyi geçmiş olmalı
+HIGH_VIEW_THRESHOLD = 100_000      # Bu eşiği geçen video sayısı sıralamada bonus puan verir
+SEARCH_LOOKBACK_DAYS = 730         # Arama için makul bir tarih penceresi (2 yıl)
 TOP_N_RESULTS = 30
-EXCLUDE_FACES = True              # Gerçek insan yüzü tespit edilirse kanal tamamen elenir
-FACE_CHECK_TOP_N = 3              # En iyi performans gösteren ilk N videonun thumbnail'i kontrol edilir
+EXCLUDE_FACES = True               # Gerçek insan yüzü tespit edilirse kanal tamamen elenir
 EXCLUDED_VIDEO_CATEGORY_IDS = {"10"}             # Music — niş olarak asla kabul edilmez
 EXCLUDED_CHANNEL_KEYWORDS = ["- topic", "vevo"]  # Otomatik müzik dağıtım / resmi label kanalları
 REQUIRE_ENGLISH_IF_KNOWN = True
 
-# Geniş, müzik dışı niş/konu havuzu — her gün hepsi taranır, sistemin konuyu
-# kendisi keşfetmesi için kasıtlı olarak çok çeşitli tutuldu.
+# Geniş, müzik dışı niş/konu havuzu — her gün hepsi taranır.
 SEARCH_TOPICS = [
     "forgotten history facts", "ancient civilizations mystery", "unsolved disappearances case",
     "true crime cold case", "FBI declassified files", "ghost stories real encounters",
@@ -70,7 +69,8 @@ def parse_duration(iso_duration: str) -> int:
 def thumbnail_has_face(thumbnail_url: str) -> bool:
     """Video kapağında GERÇEK bir insan yüzü var mı kontrol eder.
     AI avatar / çizgi / 3D render karakterleri ELEMEZ, sadece gerçek insan
-    fotoğrafı gösteren videoları eler (faceless niş şartı)."""
+    fotoğrafı gösteren videoları eler (faceless niş şartı). İndirme/okuma
+    başarısız olursa güvenli tarafta kalınır (yüz var kabul edilir)."""
     try:
         response = requests.get(thumbnail_url, timeout=10, headers=HTTP_HEADERS)
         response.raise_for_status()
@@ -86,8 +86,9 @@ def thumbnail_has_face(thumbnail_url: str) -> bool:
 
 
 def is_valid_video(v) -> bool:
-    """Bir videonun temel kalite şartlarını (müzik değil, shorts değil,
-    dili biliniyorsa İngilizce) kontrol eder."""
+    """Bir videonun temel kalite şartlarını kontrol eder:
+    müzik değil, dili biliniyorsa İngilizce, süre 10-30 dakika aralığında
+    (bu süre aralığı Shorts'u zaten kesin olarak eler, ekstra kontrol gerekmez)."""
     snippet = v["snippet"]
     if snippet.get("categoryId") in EXCLUDED_VIDEO_CATEGORY_IDS:
         return False
@@ -96,7 +97,7 @@ def is_valid_video(v) -> bool:
         if lang and not lang.lower().startswith("en"):
             return False
     duration_sec = parse_duration(v["contentDetails"]["duration"])
-    if duration_sec < MIN_VIDEO_SECONDS:
+    if not (MIN_VIDEO_SECONDS <= duration_sec <= MAX_VIDEO_SECONDS):
         return False
     return True
 
@@ -115,7 +116,7 @@ def chunked(items, size=50):
 
 def search_candidate_video_ids():
     """Geniş konu havuzuyla arama yapıp benzersiz video ID'leri toplar."""
-    cutoff_iso = (datetime.now(timezone.utc) - timedelta(days=MAX_CHANNEL_AGE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    cutoff_iso = (datetime.now(timezone.utc) - timedelta(days=SEARCH_LOOKBACK_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
     video_ids = set()
     for topic in SEARCH_TOPICS:
         try:
@@ -123,7 +124,7 @@ def search_candidate_video_ids():
                 part="snippet",
                 q=topic,
                 type="video",
-                order="viewCount",
+                order="relevance",
                 publishedAfter=cutoff_iso,
                 relevanceLanguage="en",
                 regionCode=REGION_CODE,
@@ -180,7 +181,8 @@ def fetch_channel_info(channel_ids):
 
 
 def fetch_channel_uploads(uploads_playlist_id):
-    """Bir kanalın yüklediği videoların (en yeni ~50) ID + yayın tarihini çeker."""
+    """Bir kanalın yüklediği videoların ID + yayın tarihini çeker (max 10 video şartı
+    sayesinde tek sayfada tamamı gelir)."""
     try:
         response = youtube.playlistItems().list(
             part="contentDetails", playlistId=uploads_playlist_id, maxResults=50
@@ -200,7 +202,7 @@ def fetch_channel_uploads(uploads_playlist_id):
 def evaluate_channel(channel_id, info):
     """Bir kanalın tüm 'faceless niş' şartlarını sağlayıp sağlamadığını kontrol eder."""
     subs = info["subscriberCount"]
-    if subs is None or subs == 0 or subs > MAX_SUBSCRIBERS:
+    if subs is None or not (MIN_SUBSCRIBERS <= subs <= MAX_SUBSCRIBERS):
         return None
     if info["videoCount"] > MAX_CHANNEL_VIDEO_COUNT:
         return None
@@ -218,49 +220,45 @@ def evaluate_channel(channel_id, info):
     upload_dates = [parse_iso8601(pub) for _, pub in uploads]
     earliest_video_date = min(upload_dates)
     channel_created = parse_iso8601(info["channelCreated"])
-
     now = datetime.now(timezone.utc)
     channel_age_days = (now - channel_created).days
     first_video_age_days = (now - earliest_video_date).days
-    young_enough = channel_age_days <= MAX_CHANNEL_AGE_DAYS or first_video_age_days <= MAX_CHANNEL_AGE_DAYS
-    if not young_enough:
-        return None
 
     video_details = fetch_videos_details(upload_video_ids)
 
-    qualifying = []
+    valid_videos = []
     for v in video_details:
         if not is_valid_video(v):
             continue
-        views = int(v["statistics"].get("viewCount", 0))
-        ratio = views / max(subs, 1)
-        if ratio >= MIN_VIEW_TO_SUB_RATIO:
-            qualifying.append({
-                "score": round(ratio, 2),
-                "title": v["snippet"]["title"],
-                "views": views,
-                "published": v["snippet"]["publishedAt"][:10],
-                "url": f"https://www.youtube.com/watch?v={v['id']}",
-                "thumbnail": (
-                    v["snippet"].get("thumbnails", {}).get("high")
-                    or v["snippet"].get("thumbnails", {}).get("medium")
-                    or v["snippet"].get("thumbnails", {}).get("default")
-                    or {}
-                ).get("url"),
-            })
+        thumbs = v["snippet"].get("thumbnails", {})
+        thumb_url = (
+            thumbs.get("high") or thumbs.get("medium") or thumbs.get("default") or {}
+        ).get("url")
+        valid_videos.append({
+            "title": v["snippet"]["title"],
+            "views": int(v["statistics"].get("viewCount", 0)),
+            "published": v["snippet"]["publishedAt"][:10],
+            "url": f"https://www.youtube.com/watch?v={v['id']}",
+            "thumbnail": thumb_url,
+        })
 
-    if len(qualifying) < MIN_HIGH_PERFORMING_VIDEOS:
+    if not valid_videos:
         return None
 
-    qualifying.sort(key=lambda x: x["score"], reverse=True)
+    best_views = max(vv["views"] for vv in valid_videos)
+    if best_views < MIN_VIEWS_BEST_VIDEO:
+        return None
 
     if EXCLUDE_FACES:
-        for candidate in qualifying[:FACE_CHECK_TOP_N]:
-            if candidate["thumbnail"] and thumbnail_has_face(candidate["thumbnail"]):
+        for vv in valid_videos:
+            if vv["thumbnail"] and thumbnail_has_face(vv["thumbnail"]):
                 return None  # gerçek yüz tespit edildi, kanal tamamen elenir
 
-    for q in qualifying:
-        q.pop("thumbnail", None)
+    for vv in valid_videos:
+        vv.pop("thumbnail", None)
+
+    valid_videos.sort(key=lambda x: x["views"], reverse=True)
+    high_view_count = sum(1 for vv in valid_videos if vv["views"] >= HIGH_VIEW_THRESHOLD)
 
     return {
         "channel": info["channelTitle"],
@@ -268,10 +266,9 @@ def evaluate_channel(channel_id, info):
         "channel_video_count": info["videoCount"],
         "channel_age_days": channel_age_days,
         "first_video_age_days": first_video_age_days,
-        "ideal": subs <= IDEAL_SUBSCRIBERS,
-        "qualifying_video_count": len(qualifying),
-        "best_score": qualifying[0]["score"],
-        "top_videos": qualifying[:5],
+        "best_views": best_views,
+        "high_view_count": high_view_count,
+        "top_videos": valid_videos[:10],
     }
 
 
@@ -287,12 +284,10 @@ def main():
     print(f"{len(channel_ids)} benzersiz kanal bulundu, kanal bilgileri çekiliyor...")
     channel_info = fetch_channel_info(channel_ids)
 
-    # Hızlı/ucuz ön filtre: abone, video sayısı, isim — sadece bunları geçenler için
-    # pahalı olan "tüm video geçmişi" kontrolüne geçilir.
     pre_filtered = {
         cid: info for cid, info in channel_info.items()
         if info["subscriberCount"] is not None
-        and 0 < info["subscriberCount"] <= MAX_SUBSCRIBERS
+        and MIN_SUBSCRIBERS <= info["subscriberCount"] <= MAX_SUBSCRIBERS
         and info["videoCount"] <= MAX_CHANNEL_VIDEO_COUNT
         and not any(kw in info["channelTitle"].lower() for kw in EXCLUDED_CHANNEL_KEYWORDS)
     }
@@ -304,18 +299,19 @@ def main():
         if result:
             opportunities.append(result)
 
-    opportunities.sort(key=lambda x: (x["qualifying_video_count"], x["best_score"]), reverse=True)
+    opportunities.sort(key=lambda x: (x["high_view_count"], x["best_views"]), reverse=True)
     opportunities = opportunities[:TOP_N_RESULTS]
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "criteria": {
+            "min_subscribers": MIN_SUBSCRIBERS,
             "max_subscribers": MAX_SUBSCRIBERS,
-            "ideal_subscribers": IDEAL_SUBSCRIBERS,
             "max_channel_video_count": MAX_CHANNEL_VIDEO_COUNT,
-            "min_view_to_sub_ratio": MIN_VIEW_TO_SUB_RATIO,
-            "min_high_performing_videos": MIN_HIGH_PERFORMING_VIDEOS,
-            "max_channel_age_days": MAX_CHANNEL_AGE_DAYS,
+            "min_video_minutes": MIN_VIDEO_SECONDS // 60,
+            "max_video_minutes": MAX_VIDEO_SECONDS // 60,
+            "min_views_best_video": MIN_VIEWS_BEST_VIDEO,
+            "high_view_threshold": HIGH_VIEW_THRESHOLD,
         },
         "opportunities": opportunities,
     }
