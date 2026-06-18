@@ -95,7 +95,7 @@ def is_valid_video(v) -> bool:
         lang = snippet.get("defaultAudioLanguage") or snippet.get("defaultLanguage")
         if lang and not lang.lower().startswith("en"):
             return False
-    duration_sec = parse_duration(v["contentDetails"]["duration"])
+  duration_sec = parse_duration(v["contentDetails"].get("duration", ""))
     if not (MIN_VIDEO_SECONDS <= duration_sec <= MAX_VIDEO_SECONDS):
         return False
     return True
