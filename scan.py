@@ -17,11 +17,10 @@ YOUTUBE_API_KEY = os.environ["YOUTUBE_API_KEY"]
 REGION_CODE = "US"
 MIN_SUBSCRIBERS = 500              # Bunun altı: henüz çok yeni/test aşaması, güvenilir sinyal yok
 MAX_SUBSCRIBERS = 20_000           # Bunun üstü: "az abone" şartına uymuyor
-MAX_CHANNEL_VIDEO_COUNT = 10       # Kanalın toplam video sayısı bu sayıdan fazla olamaz
+MAX_CHANNEL_VIDEO_COUNT = 20       # Kanalın toplam video sayısı bu sayıdan fazla olamaz
 MIN_VIDEO_SECONDS = 600            # 10 dakika — bu süre Shorts'u zaten kesin olarak eler
 MAX_VIDEO_SECONDS = 1800           # 30 dakika
-MIN_VIEWS_BEST_VIDEO = 50_000      # Kanalın EN AZ bir videosu bu izlenmeyi geçmiş olmalı
-HIGH_VIEW_THRESHOLD = 100_000      # Bu eşiği geçen video sayısı sıralamada bonus puan verir
+MIN_VIEW_TO_SUB_RATIO = 40         # İzlenme, abone sayısının en az kaç katı olmalı (40-50x)
 SEARCH_LOOKBACK_DAYS = 730         # Arama için makul bir tarih penceresi (2 yıl)
 TOP_N_RESULTS = 30
 EXCLUDE_FACES = True               # Gerçek insan yüzü tespit edilirse kanal tamamen elenir
@@ -115,16 +114,21 @@ def chunked(items, size=50):
 
 
 def search_candidate_video_ids():
-    """Geniş konu havuzuyla arama yapıp benzersiz video ID'leri toplar."""
+    """Geniş konu havuzuyla arama yapıp benzersiz video ID'leri toplar.
+    Konuların yarısı 'relevance' (ilgi/otorite), yarısı 'date' (en yeni
+    yüklenenler) sıralamasıyla aranır — sadece relevance kullanmak zaten
+    köklü/büyük kanalları öne çıkarma eğiliminde, bu da henüz arama
+    otoritesi kazanmamış yeni/küçük kanalları kaçırmamıza sebep oluyordu."""
     cutoff_iso = (datetime.now(timezone.utc) - timedelta(days=SEARCH_LOOKBACK_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
     video_ids = set()
-    for topic in SEARCH_TOPICS:
+    for i, topic in enumerate(SEARCH_TOPICS):
+        order = "relevance" if i % 2 == 0 else "date"
         try:
             response = youtube.search().list(
                 part="snippet",
                 q=topic,
                 type="video",
-                order="relevance",
+                order=order,
                 publishedAfter=cutoff_iso,
                 relevanceLanguage="en",
                 regionCode=REGION_CODE,
@@ -181,7 +185,7 @@ def fetch_channel_info(channel_ids):
 
 
 def fetch_channel_uploads(uploads_playlist_id):
-    """Bir kanalın yüklediği videoların ID + yayın tarihini çeker (max 10 video şartı
+    """Bir kanalın yüklediği videoların ID + yayın tarihini çeker (max 20 video şartı
     sayesinde tek sayfada tamamı gelir)."""
     try:
         response = youtube.playlistItems().list(
@@ -234,9 +238,11 @@ def evaluate_channel(channel_id, info):
         thumb_url = (
             thumbs.get("high") or thumbs.get("medium") or thumbs.get("default") or {}
         ).get("url")
+        views = int(v["statistics"].get("viewCount", 0))
         valid_videos.append({
             "title": v["snippet"]["title"],
-            "views": int(v["statistics"].get("viewCount", 0)),
+            "views": views,
+            "ratio": round(views / max(subs, 1), 1),
             "published": v["snippet"]["publishedAt"][:10],
             "url": f"https://www.youtube.com/watch?v={v['id']}",
             "thumbnail": thumb_url,
@@ -245,9 +251,9 @@ def evaluate_channel(channel_id, info):
     if not valid_videos:
         return None
 
-    best_views = max(vv["views"] for vv in valid_videos)
-    if best_views < MIN_VIEWS_BEST_VIDEO:
-        return None
+    qualifying = [vv for vv in valid_videos if vv["ratio"] >= MIN_VIEW_TO_SUB_RATIO]
+    if not qualifying:
+        return None  # hiçbir video abone sayısının yeterince katı izlenmemiş
 
     if EXCLUDE_FACES:
         for vv in valid_videos:
@@ -257,8 +263,9 @@ def evaluate_channel(channel_id, info):
     for vv in valid_videos:
         vv.pop("thumbnail", None)
 
-    valid_videos.sort(key=lambda x: x["views"], reverse=True)
-    high_view_count = sum(1 for vv in valid_videos if vv["views"] >= HIGH_VIEW_THRESHOLD)
+    valid_videos.sort(key=lambda x: x["ratio"], reverse=True)
+    best_ratio = max(vv["ratio"] for vv in qualifying)
+    high_ratio_count = len(qualifying)
 
     return {
         "channel": info["channelTitle"],
@@ -266,8 +273,8 @@ def evaluate_channel(channel_id, info):
         "channel_video_count": info["videoCount"],
         "channel_age_days": channel_age_days,
         "first_video_age_days": first_video_age_days,
-        "best_views": best_views,
-        "high_view_count": high_view_count,
+        "best_ratio": best_ratio,
+        "high_ratio_count": high_ratio_count,
         "top_videos": valid_videos[:10],
     }
 
@@ -299,7 +306,7 @@ def main():
         if result:
             opportunities.append(result)
 
-    opportunities.sort(key=lambda x: (x["high_view_count"], x["best_views"]), reverse=True)
+    opportunities.sort(key=lambda x: (x["high_ratio_count"], x["best_ratio"]), reverse=True)
     opportunities = opportunities[:TOP_N_RESULTS]
 
     output = {
@@ -310,8 +317,7 @@ def main():
             "max_channel_video_count": MAX_CHANNEL_VIDEO_COUNT,
             "min_video_minutes": MIN_VIDEO_SECONDS // 60,
             "max_video_minutes": MAX_VIDEO_SECONDS // 60,
-            "min_views_best_video": MIN_VIEWS_BEST_VIDEO,
-            "high_view_threshold": HIGH_VIEW_THRESHOLD,
+            "min_view_to_sub_ratio": MIN_VIEW_TO_SUB_RATIO,
         },
         "opportunities": opportunities,
     }
