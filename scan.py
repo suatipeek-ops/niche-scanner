@@ -15,15 +15,16 @@ YOUTUBE_API_KEY = os.environ["YOUTUBE_API_KEY"]
 # AYARLANABİLİR PARAMETRELER
 # ---------------------------------------------------------------------------
 REGION_CODE = "US"
-MIN_SUBSCRIBERS = 500              # Bunun altı: henüz çok yeni/test aşaması, güvenilir sinyal yok
-MAX_SUBSCRIBERS = 20_000           # Bunun üstü: "az abone" şartına uymuyor
-MAX_CHANNEL_VIDEO_COUNT = 20       # Kanalın toplam video sayısı bu sayıdan fazla olamaz
-MIN_VIDEO_SECONDS = 600            # 10 dakika — bu süre Shorts'u zaten kesin olarak eler
-MAX_VIDEO_SECONDS = 1800           # 30 dakika
-MIN_VIEW_TO_SUB_RATIO = 40         # İzlenme, abone sayısının en az kaç katı olmalı (40-50x)
-SEARCH_LOOKBACK_DAYS = 730         # Arama için makul bir tarih penceresi (2 yıl)
+MIN_SUBSCRIBERS = 1_000             # Bunun altı: henüz çok yeni/test aşaması, güvenilir sinyal yok
+MAX_SUBSCRIBERS = 30_000            # Bunun üstü: "az abone" şartına uymuyor
+MAX_CHANNEL_VIDEO_COUNT = 30        # Kanalın toplam video sayısı bu sayıdan fazla olamaz
+MIN_VIDEO_SECONDS = 300             # 5 dakika — Shorts'u elemek için yeterli bir taban
+MAX_VIDEO_SECONDS = None            # Üst sınır yok
+MIN_VIEW_TO_SUB_RATIO = 10          # İzlenme, abone sayısının en az kaç katı olmalı
+MIN_FACELESS_RATIO = 0.5            # Videoların en az bu oranı (%50) gerçek yüz içermemeli
+SEARCH_LOOKBACK_DAYS = 730          # Arama için makul bir tarih penceresi (2 yıl)
 TOP_N_RESULTS = 30
-EXCLUDE_FACES = True               # Gerçek insan yüzü tespit edilirse kanal tamamen elenir
+EXCLUDE_FACES = True                # Yüz oranı kontrolünü aç/kapat
 EXCLUDED_VIDEO_CATEGORY_IDS = {"10"}             # Music — niş olarak asla kabul edilmez
 EXCLUDED_CHANNEL_KEYWORDS = ["- topic", "vevo"]  # Otomatik müzik dağıtım / resmi label kanalları
 REQUIRE_ENGLISH_IF_KNOWN = True
@@ -86,8 +87,8 @@ def thumbnail_has_face(thumbnail_url: str) -> bool:
 
 def is_valid_video(v) -> bool:
     """Bir videonun temel kalite şartlarını kontrol eder:
-    müzik değil, dili biliniyorsa İngilizce, süre 10-30 dakika aralığında
-    (bu süre aralığı Shorts'u zaten kesin olarak eler, ekstra kontrol gerekmez)."""
+    müzik değil, dili biliniyorsa İngilizce, süre en az 5 dakika
+    (Shorts'u elemek için yeterli bir taban, üst sınır yok)."""
     snippet = v["snippet"]
     if snippet.get("categoryId") in EXCLUDED_VIDEO_CATEGORY_IDS:
         return False
@@ -96,7 +97,9 @@ def is_valid_video(v) -> bool:
         if lang and not lang.lower().startswith("en"):
             return False
     duration_sec = parse_duration(v["contentDetails"].get("duration", ""))
-    if not (MIN_VIDEO_SECONDS <= duration_sec <= MAX_VIDEO_SECONDS):
+    if duration_sec < MIN_VIDEO_SECONDS:
+        return False
+    if MAX_VIDEO_SECONDS is not None and duration_sec > MAX_VIDEO_SECONDS:
         return False
     return True
 
@@ -185,8 +188,7 @@ def fetch_channel_info(channel_ids):
 
 
 def fetch_channel_uploads(uploads_playlist_id):
-    """Bir kanalın yüklediği videoların ID + yayın tarihini çeker (max 20 video şartı
-    sayesinde tek sayfada tamamı gelir)."""
+    """Bir kanalın yüklediği videoların ID + yayın tarihini çeker."""
     try:
         response = youtube.playlistItems().list(
             part="contentDetails", playlistId=uploads_playlist_id, maxResults=50
@@ -256,9 +258,13 @@ def evaluate_channel(channel_id, info):
         return None  # hiçbir video abone sayısının yeterince katı izlenmemiş
 
     if EXCLUDE_FACES:
-        for vv in valid_videos:
-            if vv["thumbnail"] and thumbnail_has_face(vv["thumbnail"]):
-                return None  # gerçek yüz tespit edildi, kanal tamamen elenir
+        total = len(valid_videos)
+        faceless_count = sum(
+            1 for vv in valid_videos
+            if not (vv["thumbnail"] and thumbnail_has_face(vv["thumbnail"]))
+        )
+        if total == 0 or (faceless_count / total) < MIN_FACELESS_RATIO:
+            return None  # videoların yeterli kısmı yüzsüz değil
 
     for vv in valid_videos:
         vv.pop("thumbnail", None)
@@ -316,8 +322,8 @@ def main():
             "max_subscribers": MAX_SUBSCRIBERS,
             "max_channel_video_count": MAX_CHANNEL_VIDEO_COUNT,
             "min_video_minutes": MIN_VIDEO_SECONDS // 60,
-            "max_video_minutes": MAX_VIDEO_SECONDS // 60,
             "min_view_to_sub_ratio": MIN_VIEW_TO_SUB_RATIO,
+            "min_faceless_ratio": MIN_FACELESS_RATIO,
         },
         "opportunities": opportunities,
     }
