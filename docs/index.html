@@ -70,9 +70,10 @@
           meta.textContent = 'Son güncelleme: ' + date.toLocaleString('tr-TR') +
             ' · Kriter: ' + c.min_subscribers.toLocaleString('tr-TR') + '-' +
             c.max_subscribers.toLocaleString('tr-TR') + ' abone, max ' +
-            c.max_channel_video_count + ' video, ' + c.min_video_minutes + '-' +
-            c.max_video_minutes + ' dk, en az 1 video abonenin ' +
-            c.min_view_to_sub_ratio + 'x izlenmiş';
+            c.max_channel_video_count + ' video, min ' + c.min_video_minutes +
+            ' dk, en az 1 video abonenin ' + c.min_view_to_sub_ratio +
+            'x izlenmiş, videoların en az %' + Math.round(c.min_faceless_ratio * 100) +
+            "'i yüzsüz";
         }
 
         if (!data.opportunities || !data.opportunities.length) {
