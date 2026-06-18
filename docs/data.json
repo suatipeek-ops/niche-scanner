@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:34:10.997262+00:00",
+  "generated_at": "2026-06-18T13:19:45.651726+00:00",
   "criteria": {
     "min_subscribers": 500,
     "max_subscribers": 20000,
@@ -8,5 +8,87 @@
     "max_video_minutes": 30,
     "min_view_to_sub_ratio": 40
   },
-  "opportunities": []
+  "opportunities": [
+    {
+      "channel": "Space Time Narratives",
+      "subscribers": 12700,
+      "channel_video_count": 17,
+      "channel_age_days": 347,
+      "first_video_age_days": 274,
+      "best_ratio": 83.7,
+      "high_ratio_count": 1,
+      "top_videos": [
+        {
+          "title": "Every Terrifying Type Of Black Hole Explained",
+          "views": 1063343,
+          "ratio": 83.7,
+          "published": "2025-10-08",
+          "url": "https://www.youtube.com/watch?v=GqhsdY_a6no"
+        },
+        {
+          "title": "Meet the NEW Largest Star in the Universe!",
+          "views": 318098,
+          "ratio": 25.0,
+          "published": "2026-03-26",
+          "url": "https://www.youtube.com/watch?v=o9vt9-rVyVM"
+        },
+        {
+          "title": "The Most Terrifying Places in the Universe",
+          "views": 236335,
+          "ratio": 18.6,
+          "published": "2025-11-11",
+          "url": "https://www.youtube.com/watch?v=vYZKE53FWwk"
+        },
+        {
+          "title": "The 7 Main Types Of Stars in the Universe",
+          "views": 233227,
+          "ratio": 18.4,
+          "published": "2025-10-04",
+          "url": "https://www.youtube.com/watch?v=HDnySMho90w"
+        },
+        {
+          "title": "The Biggest Black Holes We’ve Ever Found",
+          "views": 135675,
+          "ratio": 10.7,
+          "published": "2025-12-07",
+          "url": "https://www.youtube.com/watch?v=nN25gSxNpHo"
+        },
+        {
+          "title": "The Fermi Paradox has Finally Been Solved and its NOT GOOD",
+          "views": 123482,
+          "ratio": 9.7,
+          "published": "2026-01-20",
+          "url": "https://www.youtube.com/watch?v=6gyqclRpEHM"
+        },
+        {
+          "title": "Finally The Evidence of Life on Titan!",
+          "views": 63197,
+          "ratio": 5.0,
+          "published": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=pXC-riQgcHM"
+        },
+        {
+          "title": "New JWST Neptune Images Reveal Something Surprising",
+          "views": 53166,
+          "ratio": 4.2,
+          "published": "2025-12-19",
+          "url": "https://www.youtube.com/watch?v=SNv32-c8f2E"
+        },
+        {
+          "title": "The Magnetar that disrupted Earth's ionosphere in just 0.2 seconds!",
+          "views": 36158,
+          "ratio": 2.8,
+          "published": "2025-12-30",
+          "url": "https://www.youtube.com/watch?v=JFRqyxXUJRU"
+        },
+        {
+          "title": "The Types of Galaxies You Never Knew Existed",
+          "views": 19814,
+          "ratio": 1.6,
+          "published": "2025-11-23",
+          "url": "https://www.youtube.com/watch?v=DqpZWYU4IVY"
+        }
+      ]
+    }
+  ]
 }
