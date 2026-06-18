@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-18T00:18:46.156332+00:00",
+  "generated_at": null,
   "criteria": {
     "min_subscribers": 500,
     "max_subscribers": 20000,
-    "max_channel_video_count": 10,
+    "max_channel_video_count": 20,
     "min_video_minutes": 10,
     "max_video_minutes": 30,
-    "min_views_best_video": 50000,
-    "high_view_threshold": 100000
+    "min_view_to_sub_ratio": 40
   },
   "opportunities": []
 }
