@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:44:27.163344+00:00",
+  "generated_at": "2026-07-11T10:45:33.467468+00:00",
   "criteria": {
     "min_subscribers": 1000,
     "max_subscribers": 30000,
@@ -13,77 +13,77 @@
       "channel": "Weirdium",
       "subscribers": 28500,
       "channel_video_count": 18,
-      "channel_age_days": 138,
-      "first_video_age_days": 129,
-      "best_ratio": 44.8,
+      "channel_age_days": 139,
+      "first_video_age_days": 130,
+      "best_ratio": 44.9,
       "high_ratio_count": 7,
       "top_videos": [
         {
           "title": "31 Biggest Idiots in Modern History Who Turned Stupidity Into Disaster",
-          "views": 1277268,
-          "ratio": 44.8,
+          "views": 1280469,
+          "ratio": 44.9,
           "published": "2026-04-15",
           "url": "https://www.youtube.com/watch?v=Vz83KUTa_t0"
         },
         {
           "title": "31 Dismissed Ancient Legends Archaeologists Finally Confirmed",
-          "views": 1084550,
+          "views": 1086055,
           "ratio": 38.1,
           "published": "2026-04-03",
           "url": "https://www.youtube.com/watch?v=yNLpX9cHzB0"
         },
         {
           "title": "31 Creepiest Urban Legends That Turned Out to Be Real",
-          "views": 556174,
+          "views": 556221,
           "ratio": 19.5,
           "published": "2026-04-12",
           "url": "https://www.youtube.com/watch?v=EPhxZl91nBM"
         },
         {
           "title": "31 Mind-Blowing Coincidences in History That Can't Be Explained",
-          "views": 547087,
+          "views": 548091,
           "ratio": 19.2,
           "published": "2026-03-28",
           "url": "https://www.youtube.com/watch?v=6udbPhQllgA"
         },
         {
           "title": "31 Notorious Unsolved Mysteries History Can't Explain",
-          "views": 527467,
+          "views": 528407,
           "ratio": 18.5,
           "published": "2026-03-17",
           "url": "https://www.youtube.com/watch?v=2PswTLSoYQM"
         },
         {
           "title": "31 Absurd Facts That Are Too Funny for History Books",
-          "views": 393599,
-          "ratio": 13.8,
+          "views": 395771,
+          "ratio": 13.9,
           "published": "2026-04-06",
           "url": "https://www.youtube.com/watch?v=YimmAcm_W4o"
         },
         {
           "title": "31 Mysterious Ancient Discoveries Archaeologists Still Can’t Explain",
-          "views": 326805,
+          "views": 327220,
           "ratio": 11.5,
           "published": "2026-04-18",
           "url": "https://www.youtube.com/watch?v=KPDu7hkkwvw"
         },
         {
           "title": "31 Biggest Idiots in US History Nobody Is Allowed to Criticize",
-          "views": 215781,
+          "views": 216514,
           "ratio": 7.6,
           "published": "2026-03-12",
           "url": "https://www.youtube.com/watch?v=KIA8Dwi3Ky8"
         },
         {
           "title": "31 Declassified Secrets in US History Nobody Was Supposed to See",
-          "views": 161951,
+          "views": 161965,
           "ratio": 5.7,
           "published": "2026-04-09",
           "url": "https://www.youtube.com/watch?v=5ynDwzy9ZEM"
         },
         {
           "title": "31 Darkest Books in History That Were Banned for Being Too Dangerous",
-          "views": 161954,
+          "views": 162096,
           "ratio": 5.7,
           "published": "2026-03-25",
           "url": "https://www.youtube.com/watch?v=cYVzF1hcFgo"
@@ -91,140 +91,80 @@
       ]
     },
     {
-      "channel": "Forgotten WW2 Archives",
-      "subscribers": 11400,
-      "channel_video_count": 7,
-      "channel_age_days": 571,
-      "first_video_age_days": 352,
-      "best_ratio": 45.2,
-      "high_ratio_count": 6,
-      "top_videos": [
-        {
-          "title": "German Women POWs were Surprised When They Showered With Soap in America",
-          "views": 515267,
-          "ratio": 45.2,
-          "published": "2025-09-19",
-          "url": "https://www.youtube.com/watch?v=HWtflj7n6cE"
-        },
-        {
-          "title": "Female Japanese POWs Called American Prison Camps a \"Paradise On Earth\"",
-          "views": 380610,
-          "ratio": 33.4,
-          "published": "2025-09-10",
-          "url": "https://www.youtube.com/watch?v=bFq-ogZgktE"
-        },
-        {
-          "title": "German Women POWs Were Surprised By Smell Of Bacon in U.S. Prison Camps",
-          "views": 297622,
-          "ratio": 26.1,
-          "published": "2025-09-11",
-          "url": "https://www.youtube.com/watch?v=bN3ix_gO310"
-        },
-        {
-          "title": "Female Japanese POWs were Shocked When they Saw Tall and Handsome Men In America",
-          "views": 243146,
-          "ratio": 21.3,
-          "published": "2025-09-14",
-          "url": "https://www.youtube.com/watch?v=NpKTPhdAOP4"
-        },
-        {
-          "title": "\"You Can Go Home\" Officers Told German Female POWs — But They Begged To Stay In The U.S.",
-          "views": 206712,
-          "ratio": 18.1,
-          "published": "2025-09-20",
-          "url": "https://www.youtube.com/watch?v=4HPxpqNnK6w"
-        },
-        {
-          "title": "Japanese 'Comfort Girls' Were Shocked When American Soldiers Didn't Even Touch Them",
-          "views": 183208,
-          "ratio": 16.1,
-          "published": "2025-09-21",
-          "url": "https://www.youtube.com/watch?v=j3hCpwfifsQ"
-        },
-        {
-          "title": "The Soldier Saw a  Plus-Size Girl Crying on a Wheel Chair — He Gave Her Roses And Love",
-          "views": 110,
-          "ratio": 0.0,
-          "published": "2025-07-22",
-          "url": "https://www.youtube.com/watch?v=vt8eOU4U_WY"
-        }
-      ]
-    },
-    {
       "channel": "Space Time Narratives",
-      "subscribers": 13900,
+      "subscribers": 14000,
       "channel_video_count": 18,
-      "channel_age_days": 369,
-      "first_video_age_days": 296,
-      "best_ratio": 77.1,
+      "channel_age_days": 370,
+      "first_video_age_days": 297,
+      "best_ratio": 76.6,
       "high_ratio_count": 5,
       "top_videos": [
         {
           "title": "Every Terrifying Type Of Black Hole Explained",
-          "views": 1071103,
-          "ratio": 77.1,
+          "views": 1071788,
+          "ratio": 76.6,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=GqhsdY_a6no"
         },
         {
           "title": "Meet the NEW Largest Star in the Universe!",
-          "views": 319278,
-          "ratio": 23.0,
+          "views": 319329,
+          "ratio": 22.8,
           "published": "2026-03-26",
           "url": "https://www.youtube.com/watch?v=o9vt9-rVyVM"
         },
         {
           "title": "The Most Disturbing Exoplanets We’ve Ever Found",
-          "views": 259743,
-          "ratio": 18.7,
+          "views": 290335,
+          "ratio": 20.7,
           "published": "2026-06-25",
           "url": "https://www.youtube.com/watch?v=EWFgDK8b55A"
         },
         {
           "title": "The Most Terrifying Places in the Universe",
-          "views": 237119,
-          "ratio": 17.1,
+          "views": 237203,
+          "ratio": 16.9,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=vYZKE53FWwk"
         },
         {
           "title": "The 7 Main Types Of Stars in the Universe",
-          "views": 236841,
-          "ratio": 17.0,
+          "views": 236979,
+          "ratio": 16.9,
           "published": "2025-10-04",
           "url": "https://www.youtube.com/watch?v=HDnySMho90w"
         },
         {
           "title": "The Biggest Black Holes We’ve Ever Found",
-          "views": 138274,
+          "views": 138762,
           "ratio": 9.9,
           "published": "2025-12-07",
           "url": "https://www.youtube.com/watch?v=nN25gSxNpHo"
         },
         {
           "title": "The Fermi Paradox has Finally Been Solved and its NOT GOOD",
-          "views": 124091,
+          "views": 124106,
           "ratio": 8.9,
           "published": "2026-01-20",
           "url": "https://www.youtube.com/watch?v=6gyqclRpEHM"
         },
         {
           "title": "Finally The Evidence of Life on Titan!",
-          "views": 64311,
+          "views": 64385,
           "ratio": 4.6,
           "published": "2026-04-26",
           "url": "https://www.youtube.com/watch?v=pXC-riQgcHM"
         },
         {
           "title": "New JWST Neptune Images Reveal Something Surprising",
-          "views": 53280,
+          "views": 53290,
           "ratio": 3.8,
           "published": "2025-12-19",
           "url": "https://www.youtube.com/watch?v=SNv32-c8f2E"
         },
         {
           "title": "The Magnetar that disrupted Earth's ionosphere in just 0.2 seconds!",
-          "views": 36609,
+          "views": 36622,
           "ratio": 2.6,
           "published": "2025-12-30",
           "url": "https://www.youtube.com/watch?v=JFRqyxXUJRU"
@@ -232,161 +172,161 @@
       ]
     },
     {
-      "channel": "World's Greatest Heists",
-      "subscribers": 5520,
+      "channel": "Doodler Explains",
+      "subscribers": 5490,
       "channel_video_count": 30,
-      "channel_age_days": 53,
-      "first_video_age_days": 48,
-      "best_ratio": 51.4,
-      "high_ratio_count": 5,
+      "channel_age_days": 3207,
+      "first_video_age_days": 350,
+      "best_ratio": 125.2,
+      "high_ratio_count": 4,
       "top_videos": [
         {
-          "title": "The Genius French Bank Heist That Shocked the World",
-          "views": 283723,
-          "ratio": 51.4,
-          "published": "2026-05-25",
-          "url": "https://www.youtube.com/watch?v=3gOixXvYusw"
+          "title": "Every US Special Operation Forces Explained in 10 Minutes - GSJJ",
+          "views": 687323,
+          "ratio": 125.2,
+          "published": "2025-10-12",
+          "url": "https://www.youtube.com/watch?v=bna4Q09rDPc"
         },
         {
-          "title": "How the FBI Stopped a Massive Terrorist Bombing in Dallas",
-          "views": 164077,
-          "ratio": 29.7,
-          "published": "2026-06-06",
-          "url": "https://www.youtube.com/watch?v=kAhw6QdyLYk"
+          "title": "Every Cold War Secret Project Explained in 12 Minutes",
+          "views": 108099,
+          "ratio": 19.7,
+          "published": "2025-08-12",
+          "url": "https://www.youtube.com/watch?v=vLiG8OqBSQk"
         },
         {
-          "title": "Inside the FBI’s Hunt for Boston’s Most Notorious Armored Car Robbers",
-          "views": 154430,
-          "ratio": 28.0,
-          "published": "2026-06-05",
-          "url": "https://www.youtube.com/watch?v=2kzF-wapRUc"
+          "title": "Every Major Army Division Explained In 13 Minutes",
+          "views": 100065,
+          "ratio": 18.2,
+          "published": "2026-04-16",
+          "url": "https://www.youtube.com/watch?v=b9gKfagxKxg"
         },
         {
-          "title": "The Queen of Jewels - How One Woman Outsmarted the FBI for Decades",
-          "views": 135314,
-          "ratio": 24.5,
-          "published": "2026-06-20",
-          "url": "https://www.youtube.com/watch?v=oonXhRxfT24"
+          "title": "Every Secret Military Bases Explained In 14 Minutes",
+          "views": 81262,
+          "ratio": 14.8,
+          "published": "2025-08-26",
+          "url": "https://www.youtube.com/watch?v=HZZMsaSmzuU"
         },
         {
-          "title": "Inside the FBI's Epic Takedown of America's Most Dangerous Bank Robbers",
-          "views": 80555,
-          "ratio": 14.6,
-          "published": "2026-05-22",
-          "url": "https://www.youtube.com/watch?v=MIOeoGMLrqs"
-        },
-        {
-          "title": "The FBI's Most Chilling Bank Robbery Manhunt - True Crime Story",
-          "views": 51940,
-          "ratio": 9.4,
-          "published": "2026-05-23",
-          "url": "https://www.youtube.com/watch?v=akKc0xvemwg"
-        },
-        {
-          "title": "The $18 Million Armored Truck Heist - How Philip Johnson Vanished",
-          "views": 50665,
+          "title": "Every Canadian Special Operation Forces Explained in 10 Minutes",
+          "views": 50289,
           "ratio": 9.2,
-          "published": "2026-06-12",
-          "url": "https://www.youtube.com/watch?v=9ZPMm7FLLNE"
+          "published": "2025-10-19",
+          "url": "https://www.youtube.com/watch?v=XXYmQ0pQ3yM"
         },
         {
-          "title": "The Stopwatch Gang - How 3 Canadians Robbed Banks in 90 Seconds",
-          "views": 29548,
-          "ratio": 5.4,
-          "published": "2026-06-26",
-          "url": "https://www.youtube.com/watch?v=d8tm-3ljvgU"
-        },
-        {
-          "title": "The Brinks Robbery - How Boston's Biggest Heist Fooled the FBI",
-          "views": 28995,
-          "ratio": 5.3,
-          "published": "2026-06-03",
-          "url": "https://www.youtube.com/watch?v=E7VskTHCIQo"
-        },
-        {
-          "title": "The Shocking True Story of Cops Behind Massachusetts’ Biggest Bank Heist",
-          "views": 26784,
+          "title": "Every Tier 1 Special Operation Forces Explained In 12 Minutes",
+          "views": 26738,
           "ratio": 4.9,
-          "published": "2026-05-30",
-          "url": "https://www.youtube.com/watch?v=lIKQBDzcsps"
+          "published": "2025-11-22",
+          "url": "https://www.youtube.com/watch?v=04RYcwfsFkg"
+        },
+        {
+          "title": "Every Australian Special Operations Force Explained in 9 Minutes",
+          "views": 24127,
+          "ratio": 4.4,
+          "published": "2026-02-08",
+          "url": "https://www.youtube.com/watch?v=gAXuMHtJ-C0"
+        },
+        {
+          "title": "Every US Marine Division Explained In 6 Minutes",
+          "views": 21817,
+          "ratio": 4.0,
+          "published": "2026-05-03",
+          "url": "https://www.youtube.com/watch?v=uGt2Ngicfs4"
+        },
+        {
+          "title": "Every US Airborne & Elite Infantry Division Explained in 7 Minutes",
+          "views": 21000,
+          "ratio": 3.8,
+          "published": "2026-05-11",
+          "url": "https://www.youtube.com/watch?v=czUzoTLafNY"
+        },
+        {
+          "title": "Every Cold War Secret Project Explained in 12 Minutes (PART 2)",
+          "views": 17725,
+          "ratio": 3.2,
+          "published": "2025-09-07",
+          "url": "https://www.youtube.com/watch?v=HuPN2O0kOHk"
         }
       ]
     },
     {
       "channel": "Nocturn",
-      "subscribers": 25600,
+      "subscribers": 25700,
       "channel_video_count": 10,
-      "channel_age_days": 882,
-      "first_video_age_days": 339,
-      "best_ratio": 91.1,
+      "channel_age_days": 883,
+      "first_video_age_days": 340,
+      "best_ratio": 90.8,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "6 Most Disturbing Urban Exploration Moments Caught on Camera",
-          "views": 2331017,
-          "ratio": 91.1,
+          "views": 2332985,
+          "ratio": 90.8,
           "published": "2025-08-14",
           "url": "https://www.youtube.com/watch?v=KkHX2gkWr9w"
         },
         {
           "title": "When Psycho Killers Attack Urban Explorers",
-          "views": 1318205,
-          "ratio": 51.5,
+          "views": 1320443,
+          "ratio": 51.4,
           "published": "2026-02-28",
           "url": "https://www.youtube.com/watch?v=r_C2cWBDpyE"
         },
         {
           "title": "5 Most Disturbing Forest Encounters Caught On Camera",
-          "views": 409137,
-          "ratio": 16.0,
+          "views": 413344,
+          "ratio": 16.1,
           "published": "2026-03-25",
           "url": "https://www.youtube.com/watch?v=3Xcnro6lJEw"
         },
         {
-          "title": "4 Most Disturbing Urban Exploration Encounters Caught On Camera",
-          "views": 193353,
+          "title": "When Urban Explorers Encounter Psychotic Stalkers",
+          "views": 196125,
           "ratio": 7.6,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=yjfsdMszmUY"
         },
         {
           "title": "Youtuber Accidentally Records His Final Moments Trying To Go Viral",
-          "views": 20625,
+          "views": 20722,
           "ratio": 0.8,
           "published": "2026-01-25",
           "url": "https://www.youtube.com/watch?v=Qvbo0vYQ5hM"
         },
         {
           "title": "Darkest Things Caught On Doorbell Camera Footage",
-          "views": 21596,
+          "views": 21657,
           "ratio": 0.8,
           "published": "2025-11-01",
           "url": "https://www.youtube.com/watch?v=4uFQ4xSNX-o"
         },
         {
           "title": "6 Most Disturbing Moments Caught on Live Stream",
-          "views": 9805,
+          "views": 9825,
           "ratio": 0.4,
           "published": "2025-09-25",
           "url": "https://www.youtube.com/watch?v=Sly0gdEOICg"
         },
         {
           "title": "4 Disturbing Moments Caught on CCTV",
-          "views": 7953,
+          "views": 7967,
           "ratio": 0.3,
           "published": "2025-08-04",
           "url": "https://www.youtube.com/watch?v=jkKPObEJyMY"
         },
         {
           "title": "6 Times People Recorded Their Final Moments",
-          "views": 5069,
+          "views": 5079,
           "ratio": 0.2,
           "published": "2025-10-15",
           "url": "https://www.youtube.com/watch?v=9pWtCFEy9hM"
         },
         {
           "title": "The Darkest Pieces Of Lost Media",
-          "views": 3295,
+          "views": 3330,
           "ratio": 0.1,
           "published": "2026-06-06",
           "url": "https://www.youtube.com/watch?v=o4ZSvP-t4IQ"
@@ -395,82 +335,82 @@
     },
     {
       "channel": "Bluntly Explained",
-      "subscribers": 15600,
+      "subscribers": 16100,
       "channel_video_count": 11,
-      "channel_age_days": 86,
+      "channel_age_days": 87,
       "first_video_age_days": 81,
-      "best_ratio": 71.4,
+      "best_ratio": 70.0,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Every Type Of Black Hole Explained in 11 Minutes",
-          "views": 1113320,
-          "ratio": 71.4,
+          "views": 1126477,
+          "ratio": 70.0,
           "published": "2026-05-19",
           "url": "https://www.youtube.com/watch?v=GprjiFSsLOI"
         },
         {
           "title": "Every Type Of Star Explained in 10 minutes",
-          "views": 712011,
-          "ratio": 45.6,
+          "views": 716176,
+          "ratio": 44.5,
           "published": "2026-05-04",
           "url": "https://www.youtube.com/watch?v=0gwHOu8ZmkU"
         },
         {
           "title": "Every DIMENSION Explained in 9 Minutes ",
-          "views": 367934,
-          "ratio": 23.6,
+          "views": 382097,
+          "ratio": 23.7,
           "published": "2026-06-11",
           "url": "https://www.youtube.com/watch?v=UW1SzjCZ6VE"
         },
         {
           "title": "Every Type Of Planet Explained in 12 Minutes",
-          "views": 121993,
-          "ratio": 7.8,
+          "views": 122496,
+          "ratio": 7.6,
           "published": "2026-06-03",
           "url": "https://www.youtube.com/watch?v=9zaruOUM_0o"
         },
         {
           "title": "The SCARIEST Places In The Universe Explained in 11 Minutes",
-          "views": 104360,
+          "views": 108651,
           "ratio": 6.7,
           "published": "2026-06-18",
           "url": "https://www.youtube.com/watch?v=KKDe7bRKgm8"
         },
         {
           "title": "Every Way The Universe Could End Explained in 9 Minutes",
-          "views": 92075,
+          "views": 95595,
           "ratio": 5.9,
           "published": "2026-05-12",
           "url": "https://www.youtube.com/watch?v=_8GzSKgDBH8"
         },
         {
           "title": "The Most Disturbing Space Theories Explained",
-          "views": 34441,
+          "views": 35172,
           "ratio": 2.2,
           "published": "2026-05-27",
           "url": "https://www.youtube.com/watch?v=spymcHcV4Cs"
         },
         {
+          "title": "Every Type Of Galaxy Explained in 10 Minutes",
+          "views": 33697,
+          "ratio": 2.1,
+          "published": "2026-07-10",
+          "url": "https://www.youtube.com/watch?v=brNCEiOrlyU"
+        },
+        {
           "title": "What If We Replaced Our Sun With Other Stars?",
-          "views": 27397,
-          "ratio": 1.8,
+          "views": 28115,
+          "ratio": 1.7,
           "published": "2026-04-20",
           "url": "https://www.youtube.com/watch?v=sRENq4NZyXA"
         },
         {
           "title": "Every STAGE Of Civilization Explained in 9 Minutes",
-          "views": 23389,
-          "ratio": 1.5,
+          "views": 25047,
+          "ratio": 1.6,
           "published": "2026-06-28",
           "url": "https://www.youtube.com/watch?v=hAGNFusW1Ao"
-        },
-        {
-          "title": "How Long Would You Survive On Every Planet?",
-          "views": 7986,
-          "ratio": 0.5,
-          "published": "2026-04-25",
-          "url": "https://www.youtube.com/watch?v=fKXO9ZxPN6g"
         }
       ]
     },
@@ -479,69 +419,69 @@
       "subscribers": 4920,
       "channel_video_count": 29,
       "channel_age_days": 2711,
-      "first_video_age_days": 437,
-      "best_ratio": 27.0,
+      "first_video_age_days": 438,
+      "best_ratio": 27.1,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "4+ Hours of Mysterious Deep Sea Creatures Science Can’t Identify",
-          "views": 133025,
-          "ratio": 27.0,
+          "views": 133131,
+          "ratio": 27.1,
           "published": "2025-06-10",
           "url": "https://www.youtube.com/watch?v=uH6EqmbwwS8"
         },
         {
           "title": "4+ Hours of Submarine Mysteries the Military Can't Explain",
-          "views": 53633,
+          "views": 53655,
           "ratio": 10.9,
           "published": "2025-05-29",
           "url": "https://www.youtube.com/watch?v=88XJ2uruPJ4"
         },
         {
           "title": "4+ Hours of Deep Sea Monsters Found in the Mariana Trench",
-          "views": 49205,
+          "views": 49231,
           "ratio": 10.0,
           "published": "2025-08-12",
           "url": "https://www.youtube.com/watch?v=HxJjMsIsgAM"
         },
         {
           "title": "4+ Hours of Deep Sea Submarine Mysteries That Science Still Can’t Explain",
-          "views": 45313,
+          "views": 45322,
           "ratio": 9.2,
           "published": "2025-07-03",
           "url": "https://www.youtube.com/watch?v=RTiKFnfWqho"
         },
         {
           "title": "4+ Hours of Underwater Mysteries Science Can't Explain",
-          "views": 38392,
+          "views": 38408,
           "ratio": 7.8,
           "published": "2025-04-28",
           "url": "https://www.youtube.com/watch?v=HRQ41DMFnZU"
         },
         {
           "title": "4+ Hours of Mysterious Deep Sea Giants Science Can’t Explain",
-          "views": 34833,
+          "views": 34847,
           "ratio": 7.1,
           "published": "2025-07-15",
           "url": "https://www.youtube.com/watch?v=XDfI3Pg1_PI"
         },
         {
           "title": "4+ Hours of Mysterious Shipwrecks Science Can't Explain",
-          "views": 31262,
+          "views": 31268,
           "ratio": 6.4,
           "published": "2025-05-20",
           "url": "https://www.youtube.com/watch?v=QuHkycewXtI"
         },
         {
           "title": "4+ Hours of Reasons You Wouldn’t Survive the Prehistoric Ocean",
-          "views": 21494,
+          "views": 21498,
           "ratio": 4.4,
           "published": "2025-08-29",
           "url": "https://www.youtube.com/watch?v=4gzT0zTpPaU"
         },
         {
           "title": "4+ hours of Unexplainable Shipwreck Mysteries Science Can’t Explain",
-          "views": 16138,
+          "views": 16144,
           "ratio": 3.3,
           "published": "2025-06-21",
           "url": "https://www.youtube.com/watch?v=nMiHG6UQDd4"
@@ -559,70 +499,70 @@
       "channel": "Unsolved Odyssey",
       "subscribers": 2050,
       "channel_video_count": 23,
-      "channel_age_days": 443,
-      "first_video_age_days": 439,
-      "best_ratio": 37.3,
+      "channel_age_days": 444,
+      "first_video_age_days": 440,
+      "best_ratio": 37.4,
       "high_ratio_count": 2,
       "top_videos": [
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 1",
-          "views": 76562,
-          "ratio": 37.3,
+          "views": 76571,
+          "ratio": 37.4,
           "published": "2025-05-06",
           "url": "https://www.youtube.com/watch?v=0lpRKIcTMMI"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Swallowed Entire Ships",
-          "views": 47811,
-          "ratio": 23.3,
+          "views": 47887,
+          "ratio": 23.4,
           "published": "2025-06-03",
           "url": "https://www.youtube.com/watch?v=mQ9ISSZ0sbE"
         },
         {
           "title": "4 HOURS Of MOST Unsolved Ocean Mysteries That Cannot Be Explained",
-          "views": 19235,
+          "views": 19256,
           "ratio": 9.4,
           "published": "2025-06-05",
           "url": "https://www.youtube.com/watch?v=yvf1JMgyCag"
         },
         {
           "title": "4+ Hours of REAL Sea Disasters To Fall Asleep To",
-          "views": 10338,
-          "ratio": 5.0,
+          "views": 10379,
+          "ratio": 5.1,
           "published": "2025-06-30",
           "url": "https://www.youtube.com/watch?v=zlCyjzW4yYU"
         },
         {
           "title": "Mysterious Deep Sea Scary Stories to Fall Asleep To",
-          "views": 7378,
+          "views": 7387,
           "ratio": 3.6,
           "published": "2025-07-05",
           "url": "https://www.youtube.com/watch?v=ghoX37HWa_Y"
         },
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 2",
-          "views": 4596,
+          "views": 4599,
           "ratio": 2.2,
           "published": "2025-05-10",
           "url": "https://www.youtube.com/watch?v=0Z0nz9fwXUo"
         },
         {
           "title": "Mysterious Deep Sea Stories to Fall Asleep To",
-          "views": 4267,
+          "views": 4268,
           "ratio": 2.1,
           "published": "2025-06-21",
           "url": "https://www.youtube.com/watch?v=_qX38c9yKwk"
         },
         {
           "title": "4 Hours+ of Deep Sea Creatures Documentary Sleep Story with Ocean Sounds",
-          "views": 4204,
+          "views": 4211,
           "ratio": 2.1,
           "published": "2025-06-19",
           "url": "https://www.youtube.com/watch?v=T_msc083XFo"
         },
         {
           "title": "19 Most Dangerous Ocean Mysteries Unveiled from the Deep",
-          "views": 4114,
+          "views": 4118,
           "ratio": 2.0,
           "published": "2025-05-27",
           "url": "https://www.youtube.com/watch?v=-9sN7Oje4-A"
@@ -637,83 +577,83 @@
       ]
     },
     {
-      "channel": "Wealth Reads",
-      "subscribers": 1020,
-      "channel_video_count": 22,
-      "channel_age_days": 179,
-      "first_video_age_days": 59,
-      "best_ratio": 31.8,
+      "channel": "Historic Slumber",
+      "subscribers": 12600,
+      "channel_video_count": 26,
+      "channel_age_days": 3999,
+      "first_video_age_days": 416,
+      "best_ratio": 22.6,
       "high_ratio_count": 2,
       "top_videos": [
         {
-          "title": "How to Make Money Like It's CHEATING — Machiavelli's 5 Darkest Wealth Secrets",
-          "views": 32462,
-          "ratio": 31.8,
-          "published": "2026-06-14",
-          "url": "https://www.youtube.com/watch?v=oQucCdWF8Lk"
+          "title": "The ENTIRE History of WORLD WAR 1 | How Did Four Empires Destroy Each Other? | To Fall Asleep To",
+          "views": 285261,
+          "ratio": 22.6,
+          "published": "2025-06-01",
+          "url": "https://www.youtube.com/watch?v=ZeX32dPy9uk"
         },
         {
-          "title": "Getting Rich Is Brutally Simple | Machiavelli's Wealth Philosophy Explained | Build Real Wealth, ",
-          "views": 18826,
-          "ratio": 18.5,
-          "published": "2026-06-29",
-          "url": "https://www.youtube.com/watch?v=9TWIz7t5rOA"
+          "title": "The ENTIRE History of WORLD WAR 2 | How Did the World Let One Man Go This Far? | Fall Asleep To",
+          "views": 184544,
+          "ratio": 14.6,
+          "published": "2025-06-03",
+          "url": "https://www.youtube.com/watch?v=jAsYwnSu7WY"
         },
         {
-          "title": "This Video Will Make You DANGEROUSLY RICH — Machiavelli's Hidden Wealth System",
-          "views": 3078,
-          "ratio": 3.0,
-          "published": "2026-06-21",
-          "url": "https://www.youtube.com/watch?v=UEhtYLeD_9I"
+          "title": "The ENTIRE History of WARS OF THE ROSES | Why Keep Crowning the Wrong King? | History for Sleep",
+          "views": 116082,
+          "ratio": 9.2,
+          "published": "2025-05-21",
+          "url": "https://www.youtube.com/watch?v=R0przDBJPRo"
         },
         {
-          "title": "The FASTEST Way to Get RICH: A Ruthless Wealth Strategy | Machiavelli Money",
-          "views": 1539,
-          "ratio": 1.5,
-          "published": "2026-06-19",
-          "url": "https://www.youtube.com/watch?v=C6xuuAawbjg"
+          "title": "The ENTIRE History of THE VIETNAM WAR | How Did America Lose This War? | Fall Sleep To",
+          "views": 72040,
+          "ratio": 5.7,
+          "published": "2025-06-07",
+          "url": "https://www.youtube.com/watch?v=MYt54iiqpjE"
         },
         {
-          "title": "Make The Bank Work For You | The Psychology of Wealth, Cash Flow & Financial Freedom Full Audiobook",
-          "views": 1158,
-          "ratio": 1.1,
-          "published": "2026-05-24",
-          "url": "https://www.youtube.com/watch?v=L69luXOV63I"
+          "title": "The ENTIRE History of THE WAR OF 1812 | The War That Burned the White House | Fall Asleep To",
+          "views": 50029,
+          "ratio": 4.0,
+          "published": "2025-06-11",
+          "url": "https://www.youtube.com/watch?v=7hZdHVJh6Cs"
         },
         {
-          "title": "7 Unspoken Skills That Will Make You Millions | Machiavellian Wisdom",
-          "views": 793,
-          "ratio": 0.8,
-          "published": "2026-06-23",
-          "url": "https://www.youtube.com/watch?v=Fo2ZvbZHAr8"
+          "title": "The ENTIRE History of THE AMERICAN CIVIL WAR | Could It Have Been Stopped? | Fall Sleep To",
+          "views": 49064,
+          "ratio": 3.9,
+          "published": "2025-06-14",
+          "url": "https://www.youtube.com/watch?v=ByXaYvyNL4w"
         },
         {
-          "title": "The Machiavellian Wealth Formula | How Powerful People Build Empires Without Working Forever",
-          "views": 479,
-          "ratio": 0.5,
-          "published": "2026-06-25",
-          "url": "https://www.youtube.com/watch?v=Fub46ZcG0lA"
+          "title": "The Battle of Gettysburg: The Decision That Cost the South the Entire War | History for Sleep",
+          "views": 42300,
+          "ratio": 3.4,
+          "published": "2025-12-05",
+          "url": "https://www.youtube.com/watch?v=I7cwlI9ROEg"
         },
         {
-          "title": "The Psychology of Money – Full Audiobook Summary | Wealth Mindset That Changes Everything",
-          "views": 401,
-          "ratio": 0.4,
-          "published": "2026-05-17",
-          "url": "https://www.youtube.com/watch?v=Gz-zNkqsWks"
+          "title": "The ENTIRE History of THE BATTLE OF MIDWAY | So How Did They Lose? When Japan Had Every Advantage",
+          "views": 42906,
+          "ratio": 3.4,
+          "published": "2025-07-22",
+          "url": "https://www.youtube.com/watch?v=b67ZzkWVwZs"
         },
         {
-          "title": "How to Build Wealth on a Low Income: 10 Brutal Money Strategies That Actually Work (2026)",
-          "views": 284,
-          "ratio": 0.3,
-          "published": "2026-06-17",
-          "url": "https://www.youtube.com/watch?v=ymQe7fhtwf0"
+          "title": "The ENTIRE History of THE AMERICAN REVOLUTIONARY WAR | Why Did Britain Let Them Go?",
+          "views": 33909,
+          "ratio": 2.7,
+          "published": "2025-06-24",
+          "url": "https://www.youtube.com/watch?v=WN1ha17v0KQ"
         },
         {
-          "title": "10 Money Rules of the Rich: Forget Income, Build Assets | Machiavelli's Wealth Secrets",
-          "views": 205,
-          "ratio": 0.2,
-          "published": "2026-06-27",
-          "url": "https://www.youtube.com/watch?v=4oEulTDz4OI"
+          "title": "The ENTIRE History of THE COLD WAR | How Close Did We Come to Nuclear War? | Fall Asleep To",
+          "views": 27857,
+          "ratio": 2.2,
+          "published": "2025-08-23",
+          "url": "https://www.youtube.com/watch?v=6aSk48QE2W4"
         }
       ]
     },
@@ -721,77 +661,77 @@
       "channel": "Forgotten Lore",
       "subscribers": 21300,
       "channel_video_count": 10,
-      "channel_age_days": 342,
-      "first_video_age_days": 332,
+      "channel_age_days": 343,
+      "first_video_age_days": 333,
       "best_ratio": 16.6,
       "high_ratio_count": 2,
       "top_videos": [
         {
           "title": "Discovering the Cryptids, Myths, and Legends of the Celtic World | Celtic Mythology",
-          "views": 352948,
+          "views": 353362,
           "ratio": 16.6,
           "published": "2025-09-29",
           "url": "https://www.youtube.com/watch?v=mRymbW2iWKM"
         },
         {
           "title": "Samhain: The Ancient Origins of Modern Halloween | Celtic Mythology",
-          "views": 226448,
+          "views": 226484,
           "ratio": 10.6,
           "published": "2025-09-01",
           "url": "https://www.youtube.com/watch?v=SOVa3qCX9FQ"
         },
         {
           "title": "Fairies: The ENTIRE History of The Ancient Fae Folk | Celtic Mythology",
-          "views": 164638,
+          "views": 165033,
           "ratio": 7.7,
           "published": "2025-11-14",
           "url": "https://www.youtube.com/watch?v=ahAqX13kImU"
         },
         {
           "title": "Fairies: The True History and World of the Gaelic Gods | Celtic Mythology",
-          "views": 163054,
+          "views": 163184,
           "ratio": 7.7,
           "published": "2025-09-10",
           "url": "https://www.youtube.com/watch?v=vbQ-kvXjCkA"
         },
         {
           "title": "Exploring 25+ Monsters & Spirits of Japanese Folklore | The Ultimate Yokai Documentary",
-          "views": 88884,
+          "views": 88982,
           "ratio": 4.2,
           "published": "2025-08-21",
           "url": "https://www.youtube.com/watch?v=vf82OS2D1Yo"
         },
         {
           "title": "The Green Man | The Oldest Pagan God",
-          "views": 79405,
+          "views": 79471,
           "ratio": 3.7,
           "published": "2025-11-09",
           "url": "https://www.youtube.com/watch?v=x_F5aS54WNQ"
         },
         {
           "title": "Revealing the Djinn - The Complete History of Arabia's Oldest Secret",
-          "views": 61540,
+          "views": 61632,
           "ratio": 2.9,
           "published": "2025-08-11",
           "url": "https://www.youtube.com/watch?v=52TUDYpCR4k"
         },
         {
           "title": "Legends, Tales, and Myths of Ancient and Modern England | Full Mythology Documentary",
-          "views": 42042,
+          "views": 42107,
           "ratio": 2.0,
           "published": "2025-10-12",
           "url": "https://www.youtube.com/watch?v=FLmEx-foEb4"
         },
         {
           "title": "The MOST Famous Witches in History Explained | An In-Depth Documentary",
-          "views": 36610,
+          "views": 36675,
           "ratio": 1.7,
           "published": "2025-10-24",
           "url": "https://www.youtube.com/watch?v=tKNyzaUiZXM"
         },
         {
           "title": "Discovering the Cryptids, Myths, and Legends of the Old World | European Mythology",
-          "views": 26127,
+          "views": 26150,
           "ratio": 1.2,
           "published": "2025-09-18",
           "url": "https://www.youtube.com/watch?v=jE-sNnL3iG4"
@@ -799,166 +739,18 @@
       ]
     },
     {
-      "channel": "The Ocean Chronicler",
-      "subscribers": 6370,
-      "channel_video_count": 8,
-      "channel_age_days": 92,
-      "first_video_age_days": 83,
-      "best_ratio": 123.6,
-      "high_ratio_count": 1,
-      "top_videos": [
-        {
-          "title": "Why We Stopped Exploring the Bottom of the Ocean and What Is Down There?",
-          "views": 787371,
-          "ratio": 123.6,
-          "published": "2026-04-18",
-          "url": "https://www.youtube.com/watch?v=dBl2w_R7e-s"
-        },
-        {
-          "title": "Deep Sea Mysteries That Scientists Can't Explain",
-          "views": 46914,
-          "ratio": 7.4,
-          "published": "2026-05-28",
-          "url": "https://www.youtube.com/watch?v=aVerp5u4HoU"
-        },
-        {
-          "title": "This Monster Has the Largest Eye on Earth (And It’s Real)",
-          "views": 14673,
-          "ratio": 2.3,
-          "published": "2026-04-26",
-          "url": "https://www.youtube.com/watch?v=Ekbs1bq1C7M"
-        },
-        {
-          "title": "Sperm Whale vs Giant Squid: The Real Deep Sea Battle",
-          "views": 2664,
-          "ratio": 0.4,
-          "published": "2026-04-28",
-          "url": "https://www.youtube.com/watch?v=SYUY3COSdtY"
-        },
-        {
-          "title": "The Bacteria Inside This Fish's Lure Changes Everything",
-          "views": 1212,
-          "ratio": 0.2,
-          "published": "2026-05-10",
-          "url": "https://www.youtube.com/watch?v=mC3mgKJt1kY"
-        },
-        {
-          "title": "Science Was Dead Wrong About Ocean Life — Here's What We Found",
-          "views": 648,
-          "ratio": 0.1,
-          "published": "2026-06-11",
-          "url": "https://www.youtube.com/watch?v=LIazGb4e3HY"
-        },
-        {
-          "title": "Agartha Found? The Most Dangerous Waterfall on Earth is Hidden Underwater",
-          "views": 118,
-          "ratio": 0.0,
-          "published": "2026-07-07",
-          "url": "https://www.youtube.com/watch?v=ZyDv7gMued4"
-        },
-        {
-          "title": "Why the Most Dangerous Job Pays Divers to Destroy Their Own Bodies",
-          "views": 283,
-          "ratio": 0.0,
-          "published": "2026-06-25",
-          "url": "https://www.youtube.com/watch?v=bXXCcQknWnU"
-        }
-      ]
-    },
-    {
-      "channel": "DeepSleep Theory",
-      "subscribers": 8830,
-      "channel_video_count": 30,
-      "channel_age_days": 495,
-      "first_video_age_days": 460,
-      "best_ratio": 111.7,
-      "high_ratio_count": 1,
-      "top_videos": [
-        {
-          "title": "2 Hours of the Craziest Philosophical Theories to Fall Asleep to",
-          "views": 986266,
-          "ratio": 111.7,
-          "published": "2025-05-28",
-          "url": "https://www.youtube.com/watch?v=rwfk91ya81s"
-        },
-        {
-          "title": "2 Hours of Every Common Cognitive Bias to Fall Asleep to",
-          "views": 5613,
-          "ratio": 0.6,
-          "published": "2025-04-30",
-          "url": "https://www.youtube.com/watch?v=K3FbEQkFI3M"
-        },
-        {
-          "title": "2 Hours of Most Common Logical Fallacies to Fall Asleep to",
-          "views": 3853,
-          "ratio": 0.4,
-          "published": "2025-05-11",
-          "url": "https://www.youtube.com/watch?v=0SdbHTF8Q7c"
-        },
-        {
-          "title": "The Most Unsettling Philosophical Ideas to Fall Asleep to",
-          "views": 1506,
-          "ratio": 0.2,
-          "published": "2026-02-25",
-          "url": "https://www.youtube.com/watch?v=-x8EGKgwmF8"
-        },
-        {
-          "title": "2 Hours at the Edge of Human Knowledge to Fall Asleep to",
-          "views": 1693,
-          "ratio": 0.2,
-          "published": "2026-01-18",
-          "url": "https://www.youtube.com/watch?v=fg0frNagHpw"
-        },
-        {
-          "title": "2 Hours of Existential Ideas Too Deep for the Average Mind to Fall Asleep to",
-          "views": 1955,
-          "ratio": 0.2,
-          "published": "2025-12-24",
-          "url": "https://www.youtube.com/watch?v=XOBfsNTv7nk"
-        },
-        {
-          "title": "2 Hours of the Most Complex Physics Concepts to Fall Asleep to",
-          "views": 1797,
-          "ratio": 0.2,
-          "published": "2025-08-05",
-          "url": "https://www.youtube.com/watch?v=Cc-b2_hLXOg"
-        },
-        {
-          "title": "100 Minutes of Life's Biggest Questions to Fall Asleep to",
-          "views": 1399,
-          "ratio": 0.2,
-          "published": "2025-07-23",
-          "url": "https://www.youtube.com/watch?v=l4Ldbud7Y5M"
-        },
-        {
-          "title": "The Entire Universe Explained in 5 Hours to Fall Asleep/Chill to",
-          "views": 805,
-          "ratio": 0.1,
-          "published": "2026-07-02",
-          "url": "https://www.youtube.com/watch?v=07Y-nHT3JyI"
-        },
-        {
-          "title": "4 Hours of the Entire History of Stoicism to Fall Asleep to",
-          "views": 659,
-          "ratio": 0.1,
-          "published": "2026-06-25",
-          "url": "https://www.youtube.com/watch?v=x1h8zu6xCyk"
-        }
-      ]
-    },
-    {
       "channel": "Growth Strides",
-      "subscribers": 6230,
+      "subscribers": 6240,
       "channel_video_count": 29,
-      "channel_age_days": 507,
-      "first_video_age_days": 265,
-      "best_ratio": 79.0,
+      "channel_age_days": 508,
+      "first_video_age_days": 266,
+      "best_ratio": 78.9,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "The Psychology of People Who Cry Easily (It’s Not Weakness)",
-          "views": 492288,
-          "ratio": 79.0,
+          "views": 492446,
+          "ratio": 78.9,
           "published": "2025-12-10",
           "url": "https://www.youtube.com/watch?v=Nnh5HgIxAr8"
         },
@@ -978,7 +770,7 @@
         },
         {
           "title": "Psychology of People Who Never Admit They're Struggling",
-          "views": 1034,
+          "views": 1035,
           "ratio": 0.2,
           "published": "2026-03-25",
           "url": "https://www.youtube.com/watch?v=doGRWoxbAuo"
@@ -1013,14 +805,14 @@
         },
         {
           "title": "Psychology of People Who Shut Down When Hurt (It's Not Coldness)",
-          "views": 542,
+          "views": 544,
           "ratio": 0.1,
           "published": "2026-04-20",
           "url": "https://www.youtube.com/watch?v=_IUd_Wsvg_I"
         },
         {
           "title": "Your Brain Thinks Safety = Comfort (Here's Why That's Wrong)",
-          "views": 539,
+          "views": 540,
           "ratio": 0.1,
           "published": "2025-11-20",
           "url": "https://www.youtube.com/watch?v=mUyg7u8gI10"
@@ -1029,51 +821,51 @@
     },
     {
       "channel": "Deep Dive History",
-      "subscribers": 22600,
+      "subscribers": 22700,
       "channel_video_count": 12,
-      "channel_age_days": 383,
-      "first_video_age_days": 205,
+      "channel_age_days": 384,
+      "first_video_age_days": 206,
       "best_ratio": 60.7,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "1. THE ODYSSEY - The Entire Story",
-          "views": 1372429,
+          "views": 1378767,
           "ratio": 60.7,
           "published": "2025-12-16",
           "url": "https://www.youtube.com/watch?v=BgSiijz-bKM"
         },
         {
           "title": "GREEK MYTHOLOGY - The Entire Story",
-          "views": 158440,
-          "ratio": 7.0,
+          "views": 162999,
+          "ratio": 7.2,
           "published": "2026-06-15",
           "url": "https://www.youtube.com/watch?v=RvTuBE0x55M"
         },
         {
           "title": "3. THE 12 LABORS OF HERCULES - The Entire Story",
-          "views": 155765,
+          "views": 156568,
           "ratio": 6.9,
           "published": "2026-03-06",
           "url": "https://www.youtube.com/watch?v=ZA0rKngSe4w"
         },
         {
           "title": "2. THE TROJAN WAR - The Entire Story",
-          "views": 130090,
+          "views": 130601,
           "ratio": 5.8,
           "published": "2026-02-06",
           "url": "https://www.youtube.com/watch?v=S8z4gb_9ZBE"
         },
         {
           "title": "4. TALES FROM THE UNDERWORLD | Best Greek Mythology Documentary ",
-          "views": 82232,
+          "views": 82579,
           "ratio": 3.6,
           "published": "2026-03-28",
           "url": "https://www.youtube.com/watch?v=XHyFYkLKtjA"
         },
         {
           "title": "The Roman Who Watched Pompeii Die Describes the City’s Terrifying Final Hours",
-          "views": 2060,
+          "views": 2157,
           "ratio": 0.1,
           "published": "2026-07-06",
           "url": "https://www.youtube.com/watch?v=E90RSlI7ikw"
@@ -1081,38 +873,119 @@
       ]
     },
     {
+      "channel": "Thinker Explains",
+      "subscribers": 24600,
+      "channel_video_count": 28,
+      "channel_age_days": 851,
+      "first_video_age_days": 817,
+      "best_ratio": 53.9,
+      "high_ratio_count": 1,
+      "top_videos": [
+        {
+          "title": "Less is More: The Magic of a Simple Life",
+          "views": 1325302,
+          "ratio": 53.9,
+          "published": "2024-08-04",
+          "url": "https://www.youtube.com/watch?v=iUZsWmS4mlw"
+        },
+        {
+          "title": "When You Care Less, Life Gets Easier",
+          "views": 44026,
+          "ratio": 1.8,
+          "published": "2024-11-29",
+          "url": "https://www.youtube.com/watch?v=31fE1avZrVg"
+        },
+        {
+          "title": "How Simplicity Creates Abundance: Embracing the Paradox",
+          "views": 7965,
+          "ratio": 0.3,
+          "published": "2024-10-19",
+          "url": "https://www.youtube.com/watch?v=Um_OtkyIofk"
+        },
+        {
+          "title": "The Art of Letting Go (IT CHANGES EVERYTHING)",
+          "views": 7645,
+          "ratio": 0.3,
+          "published": "2024-06-20",
+          "url": "https://www.youtube.com/watch?v=mevL44BBLdE"
+        },
+        {
+          "title": "When You Stop Trying So Hard, The Magic Unfolds",
+          "views": 4992,
+          "ratio": 0.2,
+          "published": "2025-01-24",
+          "url": "https://www.youtube.com/watch?v=A4fC0wo5wVw"
+        },
+        {
+          "title": "Living Without Worry: Socrates' Ancient Wisdom",
+          "views": 4022,
+          "ratio": 0.2,
+          "published": "2024-09-10",
+          "url": "https://www.youtube.com/watch?v=MstBvN1J7jw"
+        },
+        {
+          "title": "You're Attracted to the Same People for a Reason – Carl Jung’s Hard Truth",
+          "views": 1304,
+          "ratio": 0.1,
+          "published": "2025-04-27",
+          "url": "https://www.youtube.com/watch?v=TAe9KrN6Qk0"
+        },
+        {
+          "title": "Your Kindness Is Making You a Target",
+          "views": 3018,
+          "ratio": 0.1,
+          "published": "2025-04-19",
+          "url": "https://www.youtube.com/watch?v=-5z3aIEJhOY"
+        },
+        {
+          "title": "Emptiness is Fullness – The Wonder of a Peaceful Mind",
+          "views": 1429,
+          "ratio": 0.1,
+          "published": "2025-03-07",
+          "url": "https://www.youtube.com/watch?v=jsVJxHCcOts"
+        },
+        {
+          "title": "The Ancients Warned: Rushing Leads to Chaos",
+          "views": 2007,
+          "ratio": 0.1,
+          "published": "2025-02-06",
+          "url": "https://www.youtube.com/watch?v=0ILXCUmjitA"
+        }
+      ]
+    },
+    {
       "channel": "The Financial Archives",
-      "subscribers": 3030,
+      "subscribers": 3040,
       "channel_video_count": 18,
-      "channel_age_days": 529,
-      "first_video_age_days": 344,
+      "channel_age_days": 530,
+      "first_video_age_days": 345,
       "best_ratio": 33.1,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Every Type of Investment Explained for Beginners",
-          "views": 100210,
+          "views": 100605,
           "ratio": 33.1,
           "published": "2025-07-30",
           "url": "https://www.youtube.com/watch?v=i-To1GILOhA"
         },
         {
           "title": "Every Type of Investment Explained like You're 5",
-          "views": 5990,
+          "views": 6001,
           "ratio": 2.0,
           "published": "2025-08-27",
           "url": "https://www.youtube.com/watch?v=pdOHCtlxaKo"
         },
         {
           "title": "The WORST Business Decisions Explained like You're 10",
-          "views": 2672,
+          "views": 2673,
           "ratio": 0.9,
           "published": "2026-03-21",
           "url": "https://www.youtube.com/watch?v=dsvXPNi0-K0"
         },
         {
           "title": "The WORST Business Decision in History Explained Like YOU'RE 10",
-          "views": 1088,
+          "views": 1090,
           "ratio": 0.4,
           "published": "2026-04-10",
           "url": "https://www.youtube.com/watch?v=csrxDUYDNAc"
@@ -1126,7 +999,7 @@
         },
         {
           "title": "POV: You Are The World's First Trillionaire",
-          "views": 1025,
+          "views": 1027,
           "ratio": 0.3,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=eR4kJWqTLgM"
@@ -1165,8 +1038,8 @@
       "channel": "Thats Pov",
       "subscribers": 1430,
       "channel_video_count": 23,
-      "channel_age_days": 131,
-      "first_video_age_days": 128,
+      "channel_age_days": 132,
+      "first_video_age_days": 129,
       "best_ratio": 30.0,
       "high_ratio_count": 1,
       "top_videos": [
@@ -1193,7 +1066,7 @@
         },
         {
           "title": "The Creepiest YouTube Urban Legends Explained In 6 Minutes",
-          "views": 146,
+          "views": 160,
           "ratio": 0.1,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=BDSYFNTHynQ"
@@ -1207,7 +1080,7 @@
         },
         {
           "title": "The Creepiest Japanese Urban Legends Explained In 7 Minutes",
-          "views": 0,
+          "views": 1,
           "ratio": 0.0,
           "published": "2026-07-09",
           "url": "https://www.youtube.com/watch?v=gllh0VPMN9g"
@@ -1221,7 +1094,7 @@
         },
         {
           "title": "The CREEPIEST Internet Mysteries Explained in 7 Minutes",
-          "views": 52,
+          "views": 53,
           "ratio": 0.0,
           "published": "2026-06-26",
           "url": "https://www.youtube.com/watch?v=u4KjD2rIQnY"
@@ -1239,6 +1112,87 @@
           "ratio": 0.0,
           "published": "2026-06-18",
           "url": "https://www.youtube.com/watch?v=PJIOyDO534U"
+        }
+      ]
+    },
+    {
+      "channel": "Sydev",
+      "subscribers": 4550,
+      "channel_video_count": 25,
+      "channel_age_days": 549,
+      "first_video_age_days": 268,
+      "best_ratio": 25.3,
+      "high_ratio_count": 1,
+      "top_videos": [
+        {
+          "title": "5 Ways To Build AURA Like SUNG JINWOO",
+          "views": 115320,
+          "ratio": 25.3,
+          "published": "2025-10-21",
+          "url": "https://www.youtube.com/watch?v=i8bB8UP40oU"
+        },
+        {
+          "title": "5 Ways to Build DEADLY RIZZ Like SUNG JINWOO",
+          "views": 23650,
+          "ratio": 5.2,
+          "published": "2025-11-27",
+          "url": "https://www.youtube.com/watch?v=HbnW0CI0ldU"
+        },
+        {
+          "title": "5 Ways To AVOID AURA LOSS Like SUNG JINWOO",
+          "views": 21686,
+          "ratio": 4.8,
+          "published": "2025-12-03",
+          "url": "https://www.youtube.com/watch?v=G6u0sVdgtis"
+        },
+        {
+          "title": "5 Ways to BUILD DARK RIZZ Like SUNG JINWOO",
+          "views": 13463,
+          "ratio": 3.0,
+          "published": "2025-12-15",
+          "url": "https://www.youtube.com/watch?v=B5tl26aBjIA"
+        },
+        {
+          "title": "How To BE Like SUNG JINWOO | Step By Step GUIDE",
+          "views": 9450,
+          "ratio": 2.1,
+          "published": "2025-10-15",
+          "url": "https://www.youtube.com/watch?v=YUF73EujbU4"
+        },
+        {
+          "title": "5 Ways to MASTER DISCIPLINE Like SUNG JINWOO",
+          "views": 9326,
+          "ratio": 2.0,
+          "published": "2025-11-02",
+          "url": "https://www.youtube.com/watch?v=aoSv4KA9V0g"
+        },
+        {
+          "title": "THE 5 SECRET HABITS of SUNG JINWOO",
+          "views": 9098,
+          "ratio": 2.0,
+          "published": "2025-10-27",
+          "url": "https://www.youtube.com/watch?v=mAfyvriBE_U"
+        },
+        {
+          "title": "How To Become COLD & EMOTIONLESS Like SUNG JINWOO (Dark Psychology)",
+          "views": 8234,
+          "ratio": 1.8,
+          "published": "2026-02-12",
+          "url": "https://www.youtube.com/watch?v=yE4ChULD-MU"
+        },
+        {
+          "title": "5 Ways to BUILD MENTAL STRENGTH Like SUNG JINWOO",
+          "views": 7580,
+          "ratio": 1.7,
+          "published": "2025-11-21",
+          "url": "https://www.youtube.com/watch?v=VnaqDnhUOZw"
+        },
+        {
+          "title": "5 Ways to DOMINATE ANY ROOM Like SUNG JINWOO",
+          "views": 5804,
+          "ratio": 1.3,
+          "published": "2025-12-09",
+          "url": "https://www.youtube.com/watch?v=xjKQemEydCc"
         }
       ]
     }
