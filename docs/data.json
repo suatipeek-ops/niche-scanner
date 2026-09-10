@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:01:02.285484+00:00",
+  "generated_at": "2026-09-10T11:55:36.493950+00:00",
   "criteria": {
     "min_subscribers": 1000,
     "max_subscribers": 30000,
@@ -10,161 +10,80 @@
   },
   "opportunities": [
     {
-      "channel": "Fickyep",
-      "subscribers": 7010,
-      "channel_video_count": 13,
-      "channel_age_days": 258,
-      "first_video_age_days": 97,
-      "best_ratio": 105.6,
-      "high_ratio_count": 6,
-      "top_videos": [
-        {
-          "title": "Trevor Henderson's Most Aggressive Giants | Explained in 10 Minutes",
-          "views": 740199,
-          "ratio": 105.6,
-          "published": "2026-06-10",
-          "url": "https://www.youtube.com/watch?v=s4jF_KAWgGs"
-        },
-        {
-          "title": "Trevor Henderson's Biggest Giants Explained in 10 Minutes (Part 2)",
-          "views": 411798,
-          "ratio": 58.7,
-          "published": "2026-07-01",
-          "url": "https://www.youtube.com/watch?v=KO-IPfb1l6s"
-        },
-        {
-          "title": "Creepypasta's Darkest Monsters | Explained in 11 Minutes",
-          "views": 236941,
-          "ratio": 33.8,
-          "published": "2026-06-17",
-          "url": "https://www.youtube.com/watch?v=doPawGxEzao"
-        },
-        {
-          "title": "Trevor Henderson's Largest Giants Explained in 10 Minutes (Part 3)",
-          "views": 106494,
-          "ratio": 15.2,
-          "published": "2026-07-08",
-          "url": "https://www.youtube.com/watch?v=rByOVhHB4lk"
-        },
-        {
-          "title": "Trevor Henderson's Most Aggressive Giants Explained in 18 Minutes",
-          "views": 101401,
-          "ratio": 14.5,
-          "published": "2026-08-26",
-          "url": "https://www.youtube.com/watch?v=xMts0_RWlrs"
-        },
-        {
-          "title": "Largest Sea Monsters Explained in 11 Minutes",
-          "views": 78744,
-          "ratio": 11.2,
-          "published": "2026-07-22",
-          "url": "https://www.youtube.com/watch?v=H2j_Gimfg4E"
-        },
-        {
-          "title": "Trevor Henderson's Darkest Monsters Explained in 10 Minutes",
-          "views": 48856,
-          "ratio": 7.0,
-          "published": "2026-07-29",
-          "url": "https://www.youtube.com/watch?v=Jq61_ilq2TU"
-        },
-        {
-          "title": "The Creepiest Poppy Playtime Monsters Explained in 9 Minutes",
-          "views": 40836,
-          "ratio": 5.8,
-          "published": "2026-06-03",
-          "url": "https://www.youtube.com/watch?v=WO6GAMGitO4"
-        },
-        {
-          "title": "Creepypasta's Darkest Monsters Explained in 10 Minutes (Part 2)",
-          "views": 33892,
-          "ratio": 4.8,
-          "published": "2026-08-05",
-          "url": "https://www.youtube.com/watch?v=PSr2cFshG34"
-        },
-        {
-          "title": "Scariest Urban Legends Explained in 10 Minutes",
-          "views": 28027,
-          "ratio": 4.0,
-          "published": "2026-07-15",
-          "url": "https://www.youtube.com/watch?v=huN5_pvUQaI"
-        }
-      ]
-    },
-    {
       "channel": "Deep Seekerz",
       "subscribers": 17000,
       "channel_video_count": 27,
-      "channel_age_days": 3596,
-      "first_video_age_days": 3595,
-      "best_ratio": 66.0,
+      "channel_age_days": 3597,
+      "first_video_age_days": 3596,
+      "best_ratio": 66.1,
       "high_ratio_count": 6,
       "top_videos": [
         {
           "title": "The Mystery Of Leviathan : Is This a Warning For Us? | Deep Seekerz",
-          "views": 1121227,
-          "ratio": 66.0,
+          "views": 1123339,
+          "ratio": 66.1,
           "published": "2025-06-06",
           "url": "https://www.youtube.com/watch?v=Bp_Y-3TPj9o"
         },
         {
           "title": "7 Mythical Creatures That Might Have Actually Existed | Deep Seekerz",
-          "views": 791790,
+          "views": 791839,
           "ratio": 46.6,
           "published": "2025-05-17",
           "url": "https://www.youtube.com/watch?v=93ryM5rJW0o"
         },
         {
           "title": "Most FAMOUS Mythical Creatures - Ep 02 | Deep Seekerz",
-          "views": 637065,
+          "views": 637186,
           "ratio": 37.5,
           "published": "2026-03-07",
           "url": "https://www.youtube.com/watch?v=zsuwzHQU_v4"
         },
         {
           "title": "Mythical Creatures That Might Existed in Real Life | Deep Seekerz",
-          "views": 622870,
+          "views": 622922,
           "ratio": 36.6,
           "published": "2025-06-13",
           "url": "https://www.youtube.com/watch?v=w-_0WxID_Qk"
         },
         {
           "title": "Deep Sea Mysteries | Hidden Deep Sea Creatures | Deep Seekerz",
-          "views": 488784,
-          "ratio": 28.8,
+          "views": 491086,
+          "ratio": 28.9,
           "published": "2025-08-30",
           "url": "https://www.youtube.com/watch?v=TaBasGUoJE8"
         },
         {
           "title": "Most FAMOUS Mythical Creatures -Ep 03 | Deep Seekerz",
-          "views": 171953,
+          "views": 171994,
           "ratio": 10.1,
           "published": "2026-04-11",
           "url": "https://www.youtube.com/watch?v=ayzRq-lSxXI"
         },
         {
           "title": "5 SCARIEST PREHISTORIC CREATURES EXTINCT NOW | Deep Seekerz",
-          "views": 110712,
+          "views": 110741,
           "ratio": 6.5,
           "published": "2025-07-12",
           "url": "https://www.youtube.com/watch?v=2qg3GGnvKYA"
         },
         {
           "title": "Are These Extinct Animals Still Hiding?",
-          "views": 104580,
+          "views": 104581,
           "ratio": 6.2,
           "published": "2025-03-24",
           "url": "https://www.youtube.com/watch?v=eSsfbXTaNJ0"
         },
         {
           "title": "7 MOST FAMOUS MYTHICAL CREATURES - Ep 01 | Deep Seekerz",
-          "views": 58253,
+          "views": 58262,
           "ratio": 3.4,
           "published": "2025-09-06",
           "url": "https://www.youtube.com/watch?v=sHBhzm_hPYQ"
         },
         {
           "title": "7 Weirdest Prehistoric Creatures That Are Extinct Now | Deep Seekerz",
-          "views": 55043,
+          "views": 55097,
           "ratio": 3.2,
           "published": "2025-07-28",
           "url": "https://www.youtube.com/watch?v=VA34wvjODXM"
@@ -173,80 +92,80 @@
     },
     {
       "channel": "Mythological Man",
-      "subscribers": 5370,
+      "subscribers": 5430,
       "channel_video_count": 30,
-      "channel_age_days": 131,
-      "first_video_age_days": 120,
-      "best_ratio": 92.7,
+      "channel_age_days": 132,
+      "first_video_age_days": 121,
+      "best_ratio": 92.1,
       "high_ratio_count": 5,
       "top_videos": [
         {
           "title": "Every Sea Monster Sailors Feared Explained in 16 Minutes",
-          "views": 497931,
-          "ratio": 92.7,
+          "views": 499965,
+          "ratio": 92.1,
           "published": "2026-05-29",
           "url": "https://www.youtube.com/watch?v=BbohGmcS3EY"
         },
         {
           "title": "Every Monster From Greek Mythology Explained in 12 Minutes",
-          "views": 440560,
-          "ratio": 82.0,
+          "views": 444179,
+          "ratio": 81.8,
           "published": "2026-07-16",
           "url": "https://www.youtube.com/watch?v=8DL_5TzX9hU"
         },
         {
           "title": "Every Monster From Japanese Mythology Explained in 10 Minutes",
-          "views": 93746,
-          "ratio": 17.5,
+          "views": 95574,
+          "ratio": 17.6,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=OQc4XKHhAjI"
         },
         {
           "title": "Every Monster From Norse Mythology Explained in 10 Minutes",
-          "views": 73427,
-          "ratio": 13.7,
+          "views": 74776,
+          "ratio": 13.8,
           "published": "2026-08-06",
           "url": "https://www.youtube.com/watch?v=iX1WRP3ckFo"
         },
         {
           "title": "Every Filipino Monster Villagers Feared Explained",
-          "views": 62988,
-          "ratio": 11.7,
+          "views": 65210,
+          "ratio": 12.0,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=UMksuOCb2mY"
         },
         {
           "title": "Every Type of Dragon in Mythology Explained",
-          "views": 51896,
+          "views": 52744,
           "ratio": 9.7,
           "published": "2026-08-21",
           "url": "https://www.youtube.com/watch?v=uL-93c9Xj8M"
         },
         {
           "title": "Every Monster in the Odyssey Explained in 11 Minutes",
-          "views": 51678,
-          "ratio": 9.6,
+          "views": 51772,
+          "ratio": 9.5,
           "published": "2026-07-03",
           "url": "https://www.youtube.com/watch?v=FoNYxAIi844"
         },
         {
           "title": "Every Type of Undead Monster Explained",
-          "views": 34266,
-          "ratio": 6.4,
+          "views": 35590,
+          "ratio": 6.6,
           "published": "2026-08-24",
           "url": "https://www.youtube.com/watch?v=Ig-xmUMGDB8"
         },
         {
           "title": "Every Monster From Egyptian Mythology Explained in 11 Minutes",
-          "views": 26131,
+          "views": 26781,
           "ratio": 4.9,
           "published": "2026-08-13",
           "url": "https://www.youtube.com/watch?v=g06qUiUTpxQ"
         },
         {
           "title": "Every Monster from Chinese Mythology Explained",
-          "views": 23000,
-          "ratio": 4.3,
+          "views": 24768,
+          "ratio": 4.6,
           "published": "2026-08-17",
           "url": "https://www.youtube.com/watch?v=3uUShWmJTFk"
         }
@@ -256,77 +175,77 @@
       "channel": "Space Time Narratives",
       "subscribers": 15500,
       "channel_video_count": 21,
-      "channel_age_days": 430,
-      "first_video_age_days": 357,
+      "channel_age_days": 431,
+      "first_video_age_days": 358,
       "best_ratio": 71.7,
       "high_ratio_count": 5,
       "top_videos": [
         {
           "title": "Every Terrifying Type Of Black Hole Explained",
-          "views": 1111184,
+          "views": 1111625,
           "ratio": 71.7,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=GqhsdY_a6no"
         },
         {
           "title": "The Most Disturbing Exoplanets We’ve Ever Found",
-          "views": 476649,
+          "views": 476680,
           "ratio": 30.8,
           "published": "2026-06-25",
           "url": "https://www.youtube.com/watch?v=EWFgDK8b55A"
         },
         {
           "title": "Meet the NEW Largest Star in the Universe!",
-          "views": 322219,
+          "views": 322265,
           "ratio": 20.8,
           "published": "2026-03-26",
           "url": "https://www.youtube.com/watch?v=o9vt9-rVyVM"
         },
         {
           "title": "The 7 Main Types Of Stars in the Universe",
-          "views": 251503,
+          "views": 251773,
           "ratio": 16.2,
           "published": "2025-10-04",
           "url": "https://www.youtube.com/watch?v=HDnySMho90w"
         },
         {
           "title": "The Most Terrifying Places in the Universe",
-          "views": 240727,
+          "views": 240769,
           "ratio": 15.5,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=vYZKE53FWwk"
         },
         {
           "title": "The Biggest Black Holes We’ve Ever Found",
-          "views": 148081,
+          "views": 148138,
           "ratio": 9.6,
           "published": "2025-12-07",
           "url": "https://www.youtube.com/watch?v=nN25gSxNpHo"
         },
         {
           "title": "The Fermi Paradox has Finally Been Solved and its NOT GOOD",
-          "views": 124655,
+          "views": 124662,
           "ratio": 8.0,
           "published": "2026-01-20",
           "url": "https://www.youtube.com/watch?v=6gyqclRpEHM"
         },
         {
           "title": "Every Terrifying Object in the Universe Explained",
-          "views": 95729,
-          "ratio": 6.2,
+          "views": 99686,
+          "ratio": 6.4,
           "published": "2026-08-22",
           "url": "https://www.youtube.com/watch?v=C7HSVsNcN8k"
         },
         {
           "title": "Something Strange Is Happening to Betelgeuse… And It's Not Good",
-          "views": 96870,
-          "ratio": 6.2,
+          "views": 98489,
+          "ratio": 6.4,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=V7Bo_uOci-M"
         },
         {
           "title": "Finally The Evidence of Life on Titan!",
-          "views": 67860,
+          "views": 67916,
           "ratio": 4.4,
           "published": "2026-04-26",
           "url": "https://www.youtube.com/watch?v=pXC-riQgcHM"
@@ -334,161 +253,80 @@
       ]
     },
     {
-      "channel": "Bluntly Explained",
-      "subscribers": 29900,
-      "channel_video_count": 19,
-      "channel_age_days": 147,
-      "first_video_age_days": 141,
-      "best_ratio": 56.3,
-      "high_ratio_count": 4,
-      "top_videos": [
-        {
-          "title": "Every Type Of Black Hole Explained in 11 Minutes",
-          "views": 1684462,
-          "ratio": 56.3,
-          "published": "2026-05-19",
-          "url": "https://www.youtube.com/watch?v=GprjiFSsLOI"
-        },
-        {
-          "title": "Every Type Of Star Explained in 10 minutes",
-          "views": 888631,
-          "ratio": 29.7,
-          "published": "2026-05-04",
-          "url": "https://www.youtube.com/watch?v=0gwHOu8ZmkU"
-        },
-        {
-          "title": "Every DIMENSION Explained in 9 Minutes ",
-          "views": 806144,
-          "ratio": 27.0,
-          "published": "2026-06-11",
-          "url": "https://www.youtube.com/watch?v=UW1SzjCZ6VE"
-        },
-        {
-          "title": "The SCARIEST Places In The Universe Explained in 11 Minutes",
-          "views": 368377,
-          "ratio": 12.3,
-          "published": "2026-06-18",
-          "url": "https://www.youtube.com/watch?v=KKDe7bRKgm8"
-        },
-        {
-          "title": "Every Type Of Galaxy Explained in 10 Minutes",
-          "views": 275156,
-          "ratio": 9.2,
-          "published": "2026-07-10",
-          "url": "https://www.youtube.com/watch?v=brNCEiOrlyU"
-        },
-        {
-          "title": "Every Way The Universe Could End Explained in 9 Minutes",
-          "views": 197358,
-          "ratio": 6.6,
-          "published": "2026-05-12",
-          "url": "https://www.youtube.com/watch?v=_8GzSKgDBH8"
-        },
-        {
-          "title": "Every Way Time Travel Could Work Explained in 9 Minutes",
-          "views": 156045,
-          "ratio": 5.2,
-          "published": "2026-08-08",
-          "url": "https://www.youtube.com/watch?v=4hK1ra-vD10"
-        },
-        {
-          "title": "Every Type Of Planet Explained in 12 Minutes",
-          "views": 143077,
-          "ratio": 4.8,
-          "published": "2026-06-03",
-          "url": "https://www.youtube.com/watch?v=9zaruOUM_0o"
-        },
-        {
-          "title": "Every STAGE Of Civilization Explained in 9 Minutes",
-          "views": 102748,
-          "ratio": 3.4,
-          "published": "2026-06-28",
-          "url": "https://www.youtube.com/watch?v=hAGNFusW1Ao"
-        },
-        {
-          "title": "100 Space Objects Explained in 1 Hour (MARATHON)",
-          "views": 98446,
-          "ratio": 3.3,
-          "published": "2026-08-31",
-          "url": "https://www.youtube.com/watch?v=eKOuBuxc7Hw"
-        }
-      ]
-    },
-    {
       "channel": "Nocturn",
-      "subscribers": 28100,
+      "subscribers": 28500,
       "channel_video_count": 11,
-      "channel_age_days": 943,
-      "first_video_age_days": 400,
-      "best_ratio": 88.4,
+      "channel_age_days": 944,
+      "first_video_age_days": 401,
+      "best_ratio": 87.3,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "6 Most Disturbing Urban Exploration Moments Caught on Camera",
-          "views": 2485072,
-          "ratio": 88.4,
+          "views": 2488867,
+          "ratio": 87.3,
           "published": "2025-08-14",
           "url": "https://www.youtube.com/watch?v=KkHX2gkWr9w"
         },
         {
           "title": "When Psycho Killers Attack Urban Explorers",
-          "views": 1475411,
-          "ratio": 52.5,
+          "views": 1476691,
+          "ratio": 51.8,
           "published": "2026-02-28",
           "url": "https://www.youtube.com/watch?v=r_C2cWBDpyE"
         },
         {
           "title": "5 Most Disturbing Forest Encounters Caught On Camera",
-          "views": 572110,
-          "ratio": 20.4,
+          "views": 574922,
+          "ratio": 20.2,
           "published": "2026-03-25",
           "url": "https://www.youtube.com/watch?v=3Xcnro6lJEw"
         },
         {
           "title": "Most Disturbing Exploration Encounters Caught On Camera",
-          "views": 270400,
-          "ratio": 9.6,
+          "views": 271613,
+          "ratio": 9.5,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=yjfsdMszmUY"
         },
         {
           "title": "4 Strangest Paranormal Encounters Caught On Police Bodycam",
-          "views": 88807,
-          "ratio": 3.2,
+          "views": 240790,
+          "ratio": 8.4,
           "published": "2026-09-03",
           "url": "https://www.youtube.com/watch?v=S08K0-3Xmdo"
         },
         {
           "title": "Youtuber Accidentally Records His Final Moments Trying To Go Viral",
-          "views": 25038,
+          "views": 25182,
           "ratio": 0.9,
           "published": "2026-01-25",
           "url": "https://www.youtube.com/watch?v=Qvbo0vYQ5hM"
         },
         {
           "title": "Darkest Things Caught On Doorbell Camera Footage",
-          "views": 24220,
+          "views": 24444,
           "ratio": 0.9,
           "published": "2025-11-01",
           "url": "https://www.youtube.com/watch?v=4uFQ4xSNX-o"
         },
         {
           "title": "6 Most Disturbing Moments Caught on Live Stream",
-          "views": 10568,
+          "views": 10613,
           "ratio": 0.4,
           "published": "2025-09-25",
           "url": "https://www.youtube.com/watch?v=Sly0gdEOICg"
         },
         {
           "title": "Youtubers Make The Worst Discovery Of Their Lives",
-          "views": 9458,
+          "views": 9618,
           "ratio": 0.3,
           "published": "2026-08-27",
           "url": "https://www.youtube.com/watch?v=H480jMdbgKM"
         },
         {
           "title": "4 Disturbing Moments Caught on CCTV",
-          "views": 8594,
+          "views": 8626,
           "ratio": 0.3,
           "published": "2025-08-04",
           "url": "https://www.youtube.com/watch?v=jkKPObEJyMY"
@@ -497,79 +335,79 @@
     },
     {
       "channel": "Deep Dive History Clips",
-      "subscribers": 6520,
+      "subscribers": 6530,
       "channel_video_count": 20,
-      "channel_age_days": 335,
-      "first_video_age_days": 83,
-      "best_ratio": 41.8,
+      "channel_age_days": 336,
+      "first_video_age_days": 84,
+      "best_ratio": 41.9,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "THE GREEK GODS: The Entire Story (All the Best Myths)",
-          "views": 272816,
-          "ratio": 41.8,
+          "views": 273311,
+          "ratio": 41.9,
           "published": "2026-07-17",
           "url": "https://www.youtube.com/watch?v=5Qe7pbogx7I"
         },
         {
           "title": "The Trojan War & The Odyssey - The Entire Story in Chronological Order (All Parts)",
-          "views": 221612,
+          "views": 222333,
           "ratio": 34.0,
           "published": "2026-07-21",
           "url": "https://www.youtube.com/watch?v=CfQgmm0QdKk"
         },
         {
           "title": "HEROES: The Greatest Tales from Greek Mythology (All the Best Stories)",
-          "views": 112231,
-          "ratio": 17.2,
+          "views": 113629,
+          "ratio": 17.4,
           "published": "2026-07-18",
           "url": "https://www.youtube.com/watch?v=arfFbWbsyn8"
         },
         {
           "title": "FALL ASLEEP to the Entire Story of The Odyssey | DEEP SLEEP EDITION",
-          "views": 58825,
+          "views": 58925,
           "ratio": 9.0,
           "published": "2026-07-22",
           "url": "https://www.youtube.com/watch?v=d2ukttq0vWI"
         },
         {
           "title": "FALL ASLEEP to the ENTIRE Story of Greek Mythology | DEEP SLEEP EDITION",
-          "views": 57243,
-          "ratio": 8.8,
+          "views": 58176,
+          "ratio": 8.9,
           "published": "2026-07-31",
           "url": "https://www.youtube.com/watch?v=XRCukXJJBBM"
         },
         {
           "title": "ATHENA: The Goddess of War & Wisdom (All Her Best Stories)",
-          "views": 43567,
+          "views": 43615,
           "ratio": 6.7,
           "published": "2026-07-20",
           "url": "https://www.youtube.com/watch?v=TqMHsgayEhw"
         },
         {
           "title": "FALL ASLEEP to the ENTIRE Story of: The Epic of Gilgamesh | DEEP SLEEP EDITION",
-          "views": 35422,
-          "ratio": 5.4,
+          "views": 36842,
+          "ratio": 5.6,
           "published": "2026-08-12",
           "url": "https://www.youtube.com/watch?v=z-Nf3u7N3Q4"
         },
         {
           "title": "FALL ASLEEP to the Entire Story of Hercules | DEEP SLEEP EDITION",
-          "views": 32618,
+          "views": 32930,
           "ratio": 5.0,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=QWELtm1nx0I"
         },
         {
           "title": "ORPHEUS & EURYDICE: Don’t Listen to This Greek Myth Unless You Are Ready to Cry",
-          "views": 12689,
+          "views": 12725,
           "ratio": 1.9,
           "published": "2026-06-23",
           "url": "https://www.youtube.com/watch?v=g5Wbsm1QU10"
         },
         {
           "title": "How The World Began According to the Ancient Greeks",
-          "views": 11722,
+          "views": 11744,
           "ratio": 1.8,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=kpTOwWut0LA"
@@ -580,77 +418,77 @@
       "channel": "Unsolved Odyssey",
       "subscribers": 2220,
       "channel_video_count": 23,
-      "channel_age_days": 504,
-      "first_video_age_days": 500,
-      "best_ratio": 35.2,
+      "channel_age_days": 505,
+      "first_video_age_days": 501,
+      "best_ratio": 35.3,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 1",
-          "views": 78222,
-          "ratio": 35.2,
+          "views": 78261,
+          "ratio": 35.3,
           "published": "2025-05-06",
           "url": "https://www.youtube.com/watch?v=0lpRKIcTMMI"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Swallowed Entire Ships",
-          "views": 56561,
-          "ratio": 25.5,
+          "views": 56801,
+          "ratio": 25.6,
           "published": "2025-06-03",
           "url": "https://www.youtube.com/watch?v=mQ9ISSZ0sbE"
         },
         {
           "title": "4 HOURS Of MOST Unsolved Ocean Mysteries That Cannot Be Explained",
-          "views": 24721,
-          "ratio": 11.1,
+          "views": 24834,
+          "ratio": 11.2,
           "published": "2025-06-05",
           "url": "https://www.youtube.com/watch?v=yvf1JMgyCag"
         },
         {
           "title": "4+ Hours of REAL Sea Disasters To Fall Asleep To",
-          "views": 13336,
+          "views": 13371,
           "ratio": 6.0,
           "published": "2025-06-30",
           "url": "https://www.youtube.com/watch?v=zlCyjzW4yYU"
         },
         {
           "title": "Mysterious Deep Sea Scary Stories to Fall Asleep To",
-          "views": 9255,
+          "views": 9306,
           "ratio": 4.2,
           "published": "2025-07-05",
           "url": "https://www.youtube.com/watch?v=ghoX37HWa_Y"
         },
         {
           "title": "19 Most Dangerous Ocean Mysteries Unveiled from the Deep",
-          "views": 6360,
+          "views": 6415,
           "ratio": 2.9,
           "published": "2025-05-27",
           "url": "https://www.youtube.com/watch?v=-9sN7Oje4-A"
         },
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 2",
-          "views": 5547,
+          "views": 5567,
           "ratio": 2.5,
           "published": "2025-05-10",
           "url": "https://www.youtube.com/watch?v=0Z0nz9fwXUo"
         },
         {
           "title": "4 Hours+ of Deep Sea Creatures Documentary Sleep Story with Ocean Sounds",
-          "views": 4812,
+          "views": 4825,
           "ratio": 2.2,
           "published": "2025-06-19",
           "url": "https://www.youtube.com/watch?v=T_msc083XFo"
         },
         {
           "title": "Mysterious Deep Sea Stories to Fall Asleep To",
-          "views": 4420,
+          "views": 4424,
           "ratio": 2.0,
           "published": "2025-06-21",
           "url": "https://www.youtube.com/watch?v=_qX38c9yKwk"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Scream from the Deep",
-          "views": 2966,
+          "views": 2969,
           "ratio": 1.3,
           "published": "2025-06-01",
           "url": "https://www.youtube.com/watch?v=5ELJBqtAnn0"
@@ -658,80 +496,242 @@
       ]
     },
     {
+      "channel": "Black Screen Horror",
+      "subscribers": 2140,
+      "channel_video_count": 29,
+      "channel_age_days": 55,
+      "first_video_age_days": 52,
+      "best_ratio": 21.1,
+      "high_ratio_count": 3,
+      "top_videos": [
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.02",
+          "views": 45153,
+          "ratio": 21.1,
+          "published": "2026-07-24",
+          "url": "https://www.youtube.com/watch?v=ip23ut79L2g"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.07",
+          "views": 30003,
+          "ratio": 14.0,
+          "published": "2026-08-07",
+          "url": "https://www.youtube.com/watch?v=isnC4KLyyes"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.10",
+          "views": 21546,
+          "ratio": 10.1,
+          "published": "2026-08-12",
+          "url": "https://www.youtube.com/watch?v=sdIFI-eBycs"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.13",
+          "views": 14914,
+          "ratio": 7.0,
+          "published": "2026-08-16",
+          "url": "https://www.youtube.com/watch?v=1fYIfKBPhEE"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.21",
+          "views": 14260,
+          "ratio": 6.7,
+          "published": "2026-08-26",
+          "url": "https://www.youtube.com/watch?v=lLjJ475DXy0"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.23",
+          "views": 13455,
+          "ratio": 6.3,
+          "published": "2026-08-30",
+          "url": "https://www.youtube.com/watch?v=puvpejKlU-Q"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.22",
+          "views": 11363,
+          "ratio": 5.3,
+          "published": "2026-08-28",
+          "url": "https://www.youtube.com/watch?v=739X69jHXwQ"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.03",
+          "views": 11226,
+          "ratio": 5.2,
+          "published": "2026-07-25",
+          "url": "https://www.youtube.com/watch?v=aSNaX2xB7RI"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.19",
+          "views": 10696,
+          "ratio": 5.0,
+          "published": "2026-08-24",
+          "url": "https://www.youtube.com/watch?v=NUxO-UEsPoE"
+        },
+        {
+          "title": "NO ADS 🛑 3 HOURS of Most Disturbing TRUE Horror Stories for Sleep | Rain Sounds | Black Screen Ep.09",
+          "views": 8246,
+          "ratio": 3.9,
+          "published": "2026-08-10",
+          "url": "https://www.youtube.com/watch?v=qmlZf4t83YE"
+        }
+      ]
+    },
+    {
+      "channel": "Tenebris",
+      "subscribers": 26500,
+      "channel_video_count": 17,
+      "channel_age_days": 351,
+      "first_video_age_days": 329,
+      "best_ratio": 57.8,
+      "high_ratio_count": 2,
+      "top_videos": [
+        {
+          "title": "7 Most Disturbing Abandoned Building Encounters Caught On Camera",
+          "views": 1532599,
+          "ratio": 57.8,
+          "published": "2025-10-16",
+          "url": "https://www.youtube.com/watch?v=vFDhMNXDtYk"
+        },
+        {
+          "title": "6 Disturbing Paranormal Police Encounters No One Can Explain",
+          "views": 456374,
+          "ratio": 17.2,
+          "published": "2026-09-01",
+          "url": "https://www.youtube.com/watch?v=CNs8BIgzqpY"
+        },
+        {
+          "title": "4 Most Disturbing Backrooms Encounters Caught On Camera",
+          "views": 231125,
+          "ratio": 8.7,
+          "published": "2026-06-24",
+          "url": "https://www.youtube.com/watch?v=mH8DWixtIXE"
+        },
+        {
+          "title": "When Psycho Killers ATTACK Urban Explorers",
+          "views": 180917,
+          "ratio": 6.8,
+          "published": "2026-05-07",
+          "url": "https://www.youtube.com/watch?v=kiSoEwohGS0"
+        },
+        {
+          "title": "7 Most Disturbing Abandoned Building Encounters Caught On Camera",
+          "views": 121711,
+          "ratio": 4.6,
+          "published": "2026-06-17",
+          "url": "https://www.youtube.com/watch?v=RYqocrX-Wzg"
+        },
+        {
+          "title": "7 Most Disturbing Urban Exploration Moments Caught On Camera",
+          "views": 122988,
+          "ratio": 4.6,
+          "published": "2025-12-30",
+          "url": "https://www.youtube.com/watch?v=Qw86CF0j408"
+        },
+        {
+          "title": "When Urban Explorers Accidentally Find Horrifying Things",
+          "views": 99268,
+          "ratio": 3.7,
+          "published": "2026-05-15",
+          "url": "https://www.youtube.com/watch?v=8Aq-LS4zDoE"
+        },
+        {
+          "title": "6 Most Disturbing Abandoned Hospital Encounters Caught On Camera",
+          "views": 90792,
+          "ratio": 3.4,
+          "published": "2026-06-06",
+          "url": "https://www.youtube.com/watch?v=XL0zJDHuDK8"
+        },
+        {
+          "title": "When Urban Explorers Make DISTURBING Discoveries...",
+          "views": 50265,
+          "ratio": 1.9,
+          "published": "2026-03-17",
+          "url": "https://www.youtube.com/watch?v=kFOwc3oIbsQ"
+        },
+        {
+          "title": "When Campers Realize They're Being Stalked In The Forest",
+          "views": 51184,
+          "ratio": 1.9,
+          "published": "2026-02-02",
+          "url": "https://www.youtube.com/watch?v=BlIKzg6ceb0"
+        }
+      ]
+    },
+    {
       "channel": "The Ocean Chronicler",
-      "subscribers": 7060,
+      "subscribers": 7070,
       "channel_video_count": 11,
-      "channel_age_days": 152,
-      "first_video_age_days": 143,
-      "best_ratio": 125.9,
+      "channel_age_days": 153,
+      "first_video_age_days": 144,
+      "best_ratio": 126.0,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Why We Stopped Exploring the Bottom of the Ocean and What Is Down There?",
-          "views": 888719,
-          "ratio": 125.9,
+          "views": 890781,
+          "ratio": 126.0,
           "published": "2026-04-18",
           "url": "https://www.youtube.com/watch?v=dBl2w_R7e-s"
         },
         {
           "title": "Deep Sea Mysteries That Scientists Can't Explain",
-          "views": 51953,
+          "views": 52062,
           "ratio": 7.4,
           "published": "2026-05-28",
           "url": "https://www.youtube.com/watch?v=aVerp5u4HoU"
         },
         {
           "title": "This Monster Has the Largest Eye on Earth (And It’s Real)",
-          "views": 14963,
+          "views": 14967,
           "ratio": 2.1,
           "published": "2026-04-26",
           "url": "https://www.youtube.com/watch?v=Ekbs1bq1C7M"
         },
         {
           "title": "The Waterfall Under the Ocean Taller Than Any on Land",
-          "views": 6991,
+          "views": 7111,
           "ratio": 1.0,
           "published": "2026-07-07",
           "url": "https://www.youtube.com/watch?v=ZyDv7gMued4"
         },
         {
           "title": "The Ocean's Deadliest Rivalry: Sperm Whale vs. Giant Squid",
-          "views": 2793,
+          "views": 2794,
           "ratio": 0.4,
           "published": "2026-04-28",
           "url": "https://www.youtube.com/watch?v=SYUY3COSdtY"
         },
         {
           "title": "Scientists Found a Poison Lake at the Bottom of the Ocean",
-          "views": 1739,
+          "views": 1743,
           "ratio": 0.2,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=XqgSUd37ebM"
         },
         {
           "title": "Why This Fish Fuses Its Body to Another for Life",
-          "views": 1265,
+          "views": 1268,
           "ratio": 0.2,
           "published": "2026-05-10",
           "url": "https://www.youtube.com/watch?v=mC3mgKJt1kY"
         },
         {
           "title": "What We Found After 50 Years Of Abandoning The Deep Sea",
-          "views": 598,
+          "views": 603,
           "ratio": 0.1,
           "published": "2026-08-23",
           "url": "https://www.youtube.com/watch?v=ZkBPBc4A08A"
         },
         {
           "title": "Why the Most Dangerous Job Pays Divers to Destroy Their Own Bodies",
-          "views": 419,
+          "views": 422,
           "ratio": 0.1,
           "published": "2026-06-25",
           "url": "https://www.youtube.com/watch?v=bXXCcQknWnU"
         },
         {
           "title": "Why NASA Spends More on Space Than the Ocean Floor",
-          "views": 974,
+          "views": 979,
           "ratio": 0.1,
           "published": "2026-06-11",
           "url": "https://www.youtube.com/watch?v=LIazGb4e3HY"
@@ -740,79 +740,79 @@
     },
     {
       "channel": "The Financial Archives",
-      "subscribers": 4060,
+      "subscribers": 4070,
       "channel_video_count": 20,
-      "channel_age_days": 590,
-      "first_video_age_days": 405,
-      "best_ratio": 44.1,
+      "channel_age_days": 591,
+      "first_video_age_days": 406,
+      "best_ratio": 44.5,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Every Type of Investment Explained for Beginners",
-          "views": 179055,
-          "ratio": 44.1,
+          "views": 181235,
+          "ratio": 44.5,
           "published": "2025-07-30",
           "url": "https://www.youtube.com/watch?v=i-To1GILOhA"
         },
         {
           "title": "Every Type of Investment Explained like You're 5",
-          "views": 6692,
+          "views": 6711,
           "ratio": 1.6,
           "published": "2025-08-27",
           "url": "https://www.youtube.com/watch?v=pdOHCtlxaKo"
         },
         {
           "title": "The WORST Business Decisions Explained like You're 10",
-          "views": 2790,
+          "views": 2791,
           "ratio": 0.7,
           "published": "2026-03-21",
           "url": "https://www.youtube.com/watch?v=dsvXPNi0-K0"
         },
         {
           "title": "POV: You Are The World's First Trillionaire",
-          "views": 1819,
-          "ratio": 0.4,
+          "views": 1833,
+          "ratio": 0.5,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=eR4kJWqTLgM"
         },
         {
           "title": "The Wolf Of Wall Street Scam Explained in 18 minutes",
-          "views": 1282,
+          "views": 1285,
           "ratio": 0.3,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=lGye68VJbwM"
         },
         {
           "title": "The WORST Business Decision in History Explained Like YOU'RE 10",
-          "views": 1195,
+          "views": 1196,
           "ratio": 0.3,
           "published": "2026-04-10",
           "url": "https://www.youtube.com/watch?v=csrxDUYDNAc"
         },
         {
           "title": "Every Major MONEY LAUNDERING Scandal Explained Like You're 10",
-          "views": 1088,
+          "views": 1089,
           "ratio": 0.3,
           "published": "2026-03-03",
           "url": "https://www.youtube.com/watch?v=R8HtDkTueLY"
         },
         {
           "title": "Every Major Market Crash Explained in 15 minutes",
-          "views": 1318,
+          "views": 1324,
           "ratio": 0.3,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=wJnTKdtddOk"
         },
         {
           "title": "Every Stock Market Term Explained for BEGINNERS.",
-          "views": 1202,
+          "views": 1207,
           "ratio": 0.3,
           "published": "2025-09-13",
           "url": "https://www.youtube.com/watch?v=IXJCZifKEQU"
         },
         {
           "title": "The 10 Most EXPENSIVE Things on Earth",
-          "views": 939,
+          "views": 940,
           "ratio": 0.2,
           "published": "2026-03-27",
           "url": "https://www.youtube.com/watch?v=6v8jLWTs5B0"
