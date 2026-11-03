@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:39:07.720039+00:00",
+  "generated_at": "2026-11-03T14:43:39.900984+00:00",
   "criteria": {
     "min_subscribers": 1000,
     "max_subscribers": 30000,
@@ -13,77 +13,77 @@
       "channel": "Space Time Narratives",
       "subscribers": 16800,
       "channel_video_count": 24,
-      "channel_age_days": 484,
-      "first_video_age_days": 411,
+      "channel_age_days": 485,
+      "first_video_age_days": 412,
       "best_ratio": 67.5,
       "high_ratio_count": 7,
       "top_videos": [
         {
           "title": "Every Terrifying Type Of Black Hole Explained",
-          "views": 1133435,
+          "views": 1133682,
           "ratio": 67.5,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=GqhsdY_a6no"
         },
         {
           "title": "A Light-Year Is So Big Your Brain Can’t Process It",
-          "views": 488310,
-          "ratio": 29.1,
+          "views": 505246,
+          "ratio": 30.1,
           "published": "2026-10-12",
           "url": "https://www.youtube.com/watch?v=26xDwokrQ9Q"
         },
         {
           "title": "The Most Disturbing Exoplanets We’ve Ever Found",
-          "views": 478567,
+          "views": 478587,
           "ratio": 28.5,
           "published": "2026-06-25",
           "url": "https://www.youtube.com/watch?v=EWFgDK8b55A"
         },
         {
           "title": "Meet the NEW Largest Star in the Universe!",
-          "views": 329512,
+          "views": 329593,
           "ratio": 19.6,
           "published": "2026-03-26",
           "url": "https://www.youtube.com/watch?v=o9vt9-rVyVM"
         },
         {
           "title": "Every Terrifying Object in the Universe Explained",
-          "views": 265613,
-          "ratio": 15.8,
+          "views": 266868,
+          "ratio": 15.9,
           "published": "2026-08-22",
           "url": "https://www.youtube.com/watch?v=C7HSVsNcN8k"
         },
         {
           "title": "The 7 Main Types Of Stars in the Universe",
-          "views": 264920,
+          "views": 265125,
           "ratio": 15.8,
           "published": "2025-10-04",
           "url": "https://www.youtube.com/watch?v=HDnySMho90w"
         },
         {
           "title": "The Most Terrifying Places in the Universe",
-          "views": 243097,
+          "views": 243128,
           "ratio": 14.5,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=vYZKE53FWwk"
         },
         {
           "title": "The Biggest Black Holes We’ve Ever Found",
-          "views": 152654,
+          "views": 152712,
           "ratio": 9.1,
           "published": "2025-12-07",
           "url": "https://www.youtube.com/watch?v=nN25gSxNpHo"
         },
         {
           "title": "The Fermi Paradox has Finally Been Solved and its NOT GOOD",
-          "views": 124896,
+          "views": 124900,
           "ratio": 7.4,
           "published": "2026-01-20",
           "url": "https://www.youtube.com/watch?v=6gyqclRpEHM"
         },
         {
           "title": "Something Strange Is Happening to Betelgeuse… And It's Not Good",
-          "views": 109879,
+          "views": 109967,
           "ratio": 6.5,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=V7Bo_uOci-M"
@@ -91,66 +91,228 @@
       ]
     },
     {
+      "channel": "Rome Unscrolled",
+      "subscribers": 20300,
+      "channel_video_count": 21,
+      "channel_age_days": 71,
+      "first_video_age_days": 45,
+      "best_ratio": 130.9,
+      "high_ratio_count": 6,
+      "top_videos": [
+        {
+          "title": "What Did People in Ancient Rome Actually Do All Day?",
+          "views": 2656815,
+          "ratio": 130.9,
+          "published": "2026-09-23",
+          "url": "https://www.youtube.com/watch?v=U_eV4WbL6Vw"
+        },
+        {
+          "title": "How Did Roman Soldiers Survive Freezing Nights Without Heaters?",
+          "views": 751158,
+          "ratio": 37.0,
+          "published": "2026-09-21",
+          "url": "https://www.youtube.com/watch?v=pQWJtBUyO2s"
+        },
+        {
+          "title": "Why Were Roman Soldiers Not Afraid to Sleep Near Enemies?",
+          "views": 354599,
+          "ratio": 17.5,
+          "published": "2026-09-19",
+          "url": "https://www.youtube.com/watch?v=1xK1yqgyhLU"
+        },
+        {
+          "title": "Why Rome’s Enemies Feared the Roman Legions More Than Anything Else",
+          "views": 330533,
+          "ratio": 16.3,
+          "published": "2026-09-25",
+          "url": "https://www.youtube.com/watch?v=M4V0of4TVko"
+        },
+        {
+          "title": "What Did Roman Soldiers Do at Night During War?",
+          "views": 224776,
+          "ratio": 11.1,
+          "published": "2026-09-18",
+          "url": "https://www.youtube.com/watch?v=Op-cWw0I3JA"
+        },
+        {
+          "title": "What Did Roman Soldiers Do When It Rained All Week During War?",
+          "views": 204116,
+          "ratio": 10.1,
+          "published": "2026-09-26",
+          "url": "https://www.youtube.com/watch?v=8B29D75XS3o"
+        },
+        {
+          "title": "Why Didn’t Predators Attack Roman Camps After Dark?",
+          "views": 171326,
+          "ratio": 8.4,
+          "published": "2026-09-24",
+          "url": "https://www.youtube.com/watch?v=TdFKPrty7e8"
+        },
+        {
+          "title": "How Did Rome Invent Its Most Deadly Weapons?",
+          "views": 154315,
+          "ratio": 7.6,
+          "published": "2026-09-20",
+          "url": "https://www.youtube.com/watch?v=LYxqH4K20qM"
+        },
+        {
+          "title": "What Did Roman Do For Pleasure?",
+          "views": 149144,
+          "ratio": 7.3,
+          "published": "2026-10-01",
+          "url": "https://www.youtube.com/watch?v=Z8VsA_wPuV0"
+        },
+        {
+          "title": "What Did Roman Soldiers Actually Eat During War?",
+          "views": 121960,
+          "ratio": 6.0,
+          "published": "2026-09-27",
+          "url": "https://www.youtube.com/watch?v=5b-cq8RHbGI"
+        }
+      ]
+    },
+    {
+      "channel": "Wildlife Survival Stories",
+      "subscribers": 3310,
+      "channel_video_count": 12,
+      "channel_age_days": 289,
+      "first_video_age_days": 91,
+      "best_ratio": 52.8,
+      "high_ratio_count": 6,
+      "top_videos": [
+        {
+          "title": "White Honey Badger Cub Escapes as Porcupine Blocks Baboons",
+          "views": 174674,
+          "ratio": 52.8,
+          "published": "2026-09-05",
+          "url": "https://www.youtube.com/watch?v=1TmfjJs61ws"
+        },
+        {
+          "title": "What Happens When Baboons Find a Honey Badger Cub in a Cliff Nest",
+          "views": 161478,
+          "ratio": 48.8,
+          "published": "2026-09-08",
+          "url": "https://www.youtube.com/watch?v=VWRyGdZ4BIo"
+        },
+        {
+          "title": "How a Lioness Responds When Baboons Carry Her Cub Into Thorns",
+          "views": 149293,
+          "ratio": 45.1,
+          "published": "2026-09-14",
+          "url": "https://www.youtube.com/watch?v=pZFQRiOdeN4"
+        },
+        {
+          "title": "What Happens When a Honey Badger Reaches a Martial Eagle Nest",
+          "views": 83931,
+          "ratio": 25.4,
+          "published": "2026-08-13",
+          "url": "https://www.youtube.com/watch?v=FtpsrEmHFfQ"
+        },
+        {
+          "title": "How a Baboon Troop Reacts When an Eagle Threatens an Infant",
+          "views": 62905,
+          "ratio": 19.0,
+          "published": "2026-09-03",
+          "url": "https://www.youtube.com/watch?v=eXDSXX5Kifw"
+        },
+        {
+          "title": "How a Lioness Responds When a Baboon Reaches the Rocks With Her Cub",
+          "views": 58557,
+          "ratio": 17.7,
+          "published": "2026-09-24",
+          "url": "https://www.youtube.com/watch?v=REK2B0HMFvk"
+        },
+        {
+          "title": "Mother Honey Badger Fights 3 Crocodiles to Save Her Cub",
+          "views": 21827,
+          "ratio": 6.6,
+          "published": "2026-08-22",
+          "url": "https://www.youtube.com/watch?v=7W2Tpq5bdyk"
+        },
+        {
+          "title": "Why Honey Badgers Allow Mongooses Close in the Wild",
+          "views": 14085,
+          "ratio": 4.3,
+          "published": "2026-08-04",
+          "url": "https://www.youtube.com/watch?v=TkZ-RDaR_tw"
+        },
+        {
+          "title": "What Happens When a Honey Badger Gets Too Close to an Ostrich Chick",
+          "views": 12197,
+          "ratio": 3.7,
+          "published": "2026-08-18",
+          "url": "https://www.youtube.com/watch?v=-0JtIF2LT-g"
+        },
+        {
+          "title": "Meerkats Watch From the Mound as a Cape Cobra Tests a Tortoise’s Armor",
+          "views": 8319,
+          "ratio": 2.5,
+          "published": "2026-10-22",
+          "url": "https://www.youtube.com/watch?v=Dz05rXc1juo"
+        }
+      ]
+    },
+    {
       "channel": "The Astro Explainer",
       "subscribers": 10400,
       "channel_video_count": 9,
-      "channel_age_days": 357,
-      "first_video_age_days": 356,
-      "best_ratio": 139.1,
+      "channel_age_days": 358,
+      "first_video_age_days": 357,
+      "best_ratio": 140.2,
       "high_ratio_count": 5,
       "top_videos": [
         {
           "title": "The RAREST Astronomical Events We’ll See In Our Lifetime",
-          "views": 1446512,
-          "ratio": 139.1,
+          "views": 1457604,
+          "ratio": 140.2,
           "published": "2025-12-24",
           "url": "https://www.youtube.com/watch?v=mVa0knwn8vI"
         },
         {
           "title": "The SCARIEST Sounds In Space",
-          "views": 1152919,
-          "ratio": 110.9,
+          "views": 1154199,
+          "ratio": 111.0,
           "published": "2025-11-21",
           "url": "https://www.youtube.com/watch?v=-XlQcOLLiNg"
         },
         {
           "title": "Every Terrifying Type Of Black Hole Explained in 7 Minutes",
-          "views": 552960,
-          "ratio": 53.2,
+          "views": 561692,
+          "ratio": 54.0,
           "published": "2026-09-03",
           "url": "https://www.youtube.com/watch?v=gADQAagCjPs"
         },
         {
           "title": "The STRANGEST Planets In The Universe",
-          "views": 525336,
-          "ratio": 50.5,
+          "views": 527077,
+          "ratio": 50.7,
           "published": "2026-02-14",
           "url": "https://www.youtube.com/watch?v=uHHNPvAexTs"
         },
         {
           "title": "Every Terrifying Place In The Universe Explained",
-          "views": 198126,
-          "ratio": 19.1,
+          "views": 206660,
+          "ratio": 19.9,
           "published": "2026-09-18",
           "url": "https://www.youtube.com/watch?v=uVkmgH5VnGA"
         },
         {
           "title": "The Most Habitable Planets We’ve Ever Found",
-          "views": 101442,
-          "ratio": 9.8,
+          "views": 102773,
+          "ratio": 9.9,
           "published": "2026-10-08",
           "url": "https://www.youtube.com/watch?v=hbmDPwfjgc8"
         },
         {
           "title": "The Scariest Sounds In Space (Pt. 2)",
-          "views": 90870,
-          "ratio": 8.7,
+          "views": 91195,
+          "ratio": 8.8,
           "published": "2026-08-30",
           "url": "https://www.youtube.com/watch?v=w89BV0GmmBQ"
         },
         {
           "title": "The STRANGEST Alien Mega-Structures Explained",
-          "views": 89982,
+          "views": 90004,
           "ratio": 8.7,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=DrQDtzQxQhY"
@@ -160,78 +322,78 @@
     {
       "channel": "Morbid Report",
       "subscribers": 11600,
-      "channel_video_count": 29,
-      "channel_age_days": 178,
-      "first_video_age_days": 171,
-      "best_ratio": 27.2,
+      "channel_video_count": 30,
+      "channel_age_days": 179,
+      "first_video_age_days": 172,
+      "best_ratio": 27.3,
       "high_ratio_count": 5,
       "top_videos": [
         {
           "title": "6 Serial Killers Netflix Won't Show You | True Crime Documentary",
-          "views": 315795,
-          "ratio": 27.2,
+          "views": 316517,
+          "ratio": 27.3,
           "published": "2026-07-01",
           "url": "https://www.youtube.com/watch?v=jquy9oM8-nk"
         },
         {
           "title": "These Cases Are Darker Than Anyone Could Imagine | True Crime Documentary",
-          "views": 160192,
+          "views": 160330,
           "ratio": 13.8,
           "published": "2026-06-19",
           "url": "https://www.youtube.com/watch?v=riIGCriuyL0"
         },
         {
           "title": "Cases That Spiralled Into Pure Horror | True Crime Documentary",
-          "views": 154155,
+          "views": 154504,
           "ratio": 13.3,
           "published": "2026-10-08",
           "url": "https://www.youtube.com/watch?v=3Q60ejHmKfU"
         },
         {
           "title": "4 Serial Killer Cases Netflix Won’t Show You | True Crime Documentary",
-          "views": 118409,
+          "views": 118687,
           "ratio": 10.2,
           "published": "2026-08-24",
           "url": "https://www.youtube.com/watch?v=godLTA0_X_Q"
         },
         {
           "title": "6 Cases So Brutal They Left Detectives Traumatised",
-          "views": 116891,
+          "views": 117214,
           "ratio": 10.1,
           "published": "2026-06-04",
           "url": "https://www.youtube.com/watch?v=cQoslLu1x5c"
         },
         {
           "title": "Most Evil Serial Killers Nobody Talks About",
-          "views": 72426,
-          "ratio": 6.2,
+          "views": 72545,
+          "ratio": 6.3,
           "published": "2026-06-12",
           "url": "https://www.youtube.com/watch?v=UXY8EfVhDTc"
         },
         {
           "title": "4 True Crime Cases That Shocked Detectives",
-          "views": 67226,
+          "views": 67328,
           "ratio": 5.8,
           "published": "2026-06-02",
           "url": "https://www.youtube.com/watch?v=3Ue1JK4zEzk"
         },
         {
           "title": "Cases You Should NEVER Google | True Crime Documentary",
-          "views": 66222,
+          "views": 66387,
           "ratio": 5.7,
           "published": "2026-09-27",
           "url": "https://www.youtube.com/watch?v=o2ZGgq-rT-0"
         },
         {
           "title": "Most Disturbing Serial Killers You've Never Heard Of | True Crime Documentary",
-          "views": 55959,
+          "views": 56019,
           "ratio": 4.8,
           "published": "2026-06-07",
           "url": "https://www.youtube.com/watch?v=lDugAg6IHrs"
         },
         {
           "title": "5 Serial Killer Cases Netflix Won’t Show You | True Crime Documentary",
-          "views": 50096,
+          "views": 50274,
           "ratio": 4.3,
           "published": "2026-09-10",
           "url": "https://www.youtube.com/watch?v=K1A7s6Tu7tc"
@@ -239,83 +401,164 @@
       ]
     },
     {
-      "channel": "Hushed Witness",
-      "subscribers": 1290,
+      "channel": "Traditions of the land ",
+      "subscribers": 15300,
       "channel_video_count": 22,
-      "channel_age_days": 77,
-      "first_video_age_days": 49,
-      "best_ratio": 31.6,
+      "channel_age_days": 539,
+      "first_video_age_days": 140,
+      "best_ratio": 148.9,
       "high_ratio_count": 4,
       "top_videos": [
         {
-          "title": "Scary TRUE Backroad Horror Stories| Compilation",
-          "views": 40818,
-          "ratio": 31.6,
-          "published": "2026-09-30",
-          "url": "https://www.youtube.com/watch?v=S1az-Vvt-Ks"
+          "title": "Hunting Giant Python & Cooking the Ancient Way | Hadzabe Tribe Traditional Hunting",
+          "views": 2278033,
+          "ratio": 148.9,
+          "published": "2026-08-27",
+          "url": "https://www.youtube.com/watch?v=PcjPK_ma67Y"
         },
         {
+          "title": "Hadzabe Tribe Lion Hunting in Tanzania | African Wildlife, Traditional Hunters & Survival Skills",
+          "views": 2176020,
+          "ratio": 142.2,
+          "published": "2026-10-13",
+          "url": "https://www.youtube.com/watch?v=j7iidqDRHOo"
+        },
+        {
+          "title": "Hunting a Giant Ostrich in Africa | Hadzabe Tribe’s Traditional Hunting & Survival",
+          "views": 631140,
+          "ratio": 41.3,
+          "published": "2026-09-30",
+          "url": "https://www.youtube.com/watch?v=hFdUTFg0iFw"
+        },
+        {
+          "title": "Wild Zebra Hunting in Africa | Hadzabe Tribe Hunters & Traditional Hunting Skills",
+          "views": 611859,
+          "ratio": 40.0,
+          "published": "2026-09-24",
+          "url": "https://www.youtube.com/watch?v=c72Vxw8Fu5M"
+        },
+        {
+          "title": "Lion Hunting in Africa | Hadzabe Tribe Hunting and Traditional Meat Cooking",
+          "views": 125328,
+          "ratio": 8.2,
+          "published": "2026-10-19",
+          "url": "https://www.youtube.com/watch?v=nA8fdVfebbk"
+        },
+        {
+          "title": "Wild Leopard Hunt in Africa | Hadzabe Tribe Hunters Track a Dangerous Predator",
+          "views": 68106,
+          "ratio": 4.5,
+          "published": "2026-10-06",
+          "url": "https://www.youtube.com/watch?v=4agUg7Y2tug"
+        },
+        {
+          "title": "Hadzabe Tribe Face Crocodiles & Lions | Extreme African Wilderness Survival",
+          "views": 61642,
+          "ratio": 4.0,
+          "published": "2026-09-11",
+          "url": "https://www.youtube.com/watch?v=oF1OFlnNA04"
+        },
+        {
+          "title": "Hunting Giant Python in the Wild | Hadzabe Tribe’s Traditional African Hunting",
+          "views": 34702,
+          "ratio": 2.3,
+          "published": "2026-09-19",
+          "url": "https://www.youtube.com/watch?v=wliHzaeDpXw"
+        },
+        {
+          "title": "Epic Hadzabe Tribe Hippo Hunting | Traditional African Hunting & Survival",
+          "views": 29457,
+          "ratio": 1.9,
+          "published": "2026-08-22",
+          "url": "https://www.youtube.com/watch?v=6Q8Io-v8dT8"
+        },
+        {
+          "title": "Hadzabe Tribe vs Wild Zebra | Traditional African Hunting & Wildlife Documentary",
+          "views": 25393,
+          "ratio": 1.7,
+          "published": "2026-10-27",
+          "url": "https://www.youtube.com/watch?v=fKXQ8i2mLXM"
+        }
+      ]
+    },
+    {
+      "channel": "Hushed Witness",
+      "subscribers": 1320,
+      "channel_video_count": 22,
+      "channel_age_days": 78,
+      "first_video_age_days": 50,
+      "best_ratio": 31.8,
+      "high_ratio_count": 4,
+      "top_videos": [
+        {
           "title": "Scary TRUE Camping Horror Stories| Compilation",
-          "views": 39877,
-          "ratio": 30.9,
+          "views": 41958,
+          "ratio": 31.8,
           "published": "2026-10-06",
           "url": "https://www.youtube.com/watch?v=fUIiyQUCqks"
         },
         {
+          "title": "Scary TRUE Backroad Horror Stories| Compilation",
+          "views": 42003,
+          "ratio": 31.8,
+          "published": "2026-09-30",
+          "url": "https://www.youtube.com/watch?v=S1az-Vvt-Ks"
+        },
+        {
           "title": "Scary TRUE Roadside Horror Stories| Compilation",
-          "views": 20937,
-          "ratio": 16.2,
+          "views": 23215,
+          "ratio": 17.6,
           "published": "2026-10-27",
           "url": "https://www.youtube.com/watch?v=0_JvbwpFzuA"
         },
         {
           "title": "Scary TRUE Vacation Horror Stories| Compilation",
-          "views": 19941,
-          "ratio": 15.5,
+          "views": 20279,
+          "ratio": 15.4,
           "published": "2026-09-28",
           "url": "https://www.youtube.com/watch?v=ETCjpnGNPuY"
         },
         {
           "title": "Scary TRUE Highway Horror Stories| Compilation",
-          "views": 11580,
-          "ratio": 9.0,
+          "views": 11730,
+          "ratio": 8.9,
           "published": "2026-09-22",
           "url": "https://www.youtube.com/watch?v=MlC0WqS3bdU"
         },
         {
           "title": "Scary TRUE Road Trip Horror Stories| Compilation",
-          "views": 10818,
+          "views": 11047,
           "ratio": 8.4,
           "published": "2026-09-14",
           "url": "https://www.youtube.com/watch?v=acBoSlX5E-w"
         },
         {
           "title": "Scary TRUE Fall Horror Stories| Compilation",
-          "views": 7288,
-          "ratio": 5.6,
+          "views": 7627,
+          "ratio": 5.8,
           "published": "2026-10-22",
           "url": "https://www.youtube.com/watch?v=LPDHzMp1AZk"
         },
         {
           "title": "Scary TRUE Road Trip Horror Stories| Compilation",
-          "views": 5694,
-          "ratio": 4.4,
+          "views": 6130,
+          "ratio": 4.6,
           "published": "2026-10-22",
           "url": "https://www.youtube.com/watch?v=0JYKSC6uAP0"
         },
         {
+          "title": "Scary TRUE Gas Station Horror Stories| Compilation",
+          "views": 5571,
+          "ratio": 4.2,
+          "published": "2026-11-01",
+          "url": "https://www.youtube.com/watch?v=33laF34Nq2U"
+        },
+        {
           "title": "Scary TRUE Alone At Night Horror Stories| Compilation",
-          "views": 5197,
+          "views": 5277,
           "ratio": 4.0,
           "published": "2026-10-18",
           "url": "https://www.youtube.com/watch?v=QyuCTvwe0B8"
-        },
-        {
-          "title": "Scary TRUE Late Night Horror Stories| Compilation",
-          "views": 5147,
-          "ratio": 4.0,
-          "published": "2026-10-08",
-          "url": "https://www.youtube.com/watch?v=CEvm7h0dhzM"
         }
       ]
     },
@@ -324,76 +567,76 @@
       "subscribers": 3960,
       "channel_video_count": 18,
       "channel_age_days": 140,
-      "first_video_age_days": 117,
-      "best_ratio": 88.9,
+      "first_video_age_days": 118,
+      "best_ratio": 89.1,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Every Mythology in the World Explained in 13 Minutes",
-          "views": 352217,
-          "ratio": 88.9,
+          "views": 352794,
+          "ratio": 89.1,
           "published": "2026-08-10",
           "url": "https://www.youtube.com/watch?v=dtOhXagWmN4"
         },
         {
           "title": "Every Werewolf Type Explained in 6 Minutes ",
-          "views": 178457,
-          "ratio": 45.1,
+          "views": 178914,
+          "ratio": 45.2,
           "published": "2026-07-25",
           "url": "https://www.youtube.com/watch?v=MCQJ15a_tJE"
         },
         {
           "title": "Every Types of Dragons Explained in 6 Minutes",
-          "views": 168787,
-          "ratio": 42.6,
+          "views": 168895,
+          "ratio": 42.7,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=vJ3upwfgKl8"
         },
         {
           "title": "Every underated Mythology in the World Explained in 21 minutes",
-          "views": 23204,
+          "views": 23207,
           "ratio": 5.9,
           "published": "2026-08-25",
           "url": "https://www.youtube.com/watch?v=1aNX_KS1aNo"
         },
         {
           "title": "Every Type of Wereanimal Explained in 15 Minutes",
-          "views": 19688,
+          "views": 19694,
           "ratio": 5.0,
           "published": "2026-08-29",
           "url": "https://www.youtube.com/watch?v=p2lwadl1TJA"
         },
         {
           "title": "Every Mythological Creature's Realistic Physique Explained in 13 Minutes",
-          "views": 12415,
+          "views": 12418,
           "ratio": 3.1,
           "published": "2026-08-18",
           "url": "https://www.youtube.com/watch?v=6BQkxzSvguI"
         },
         {
           "title": "Every Demon and Devil from Mythology Explained in 8 Minutes",
-          "views": 8720,
+          "views": 8730,
           "ratio": 2.2,
           "published": "2026-08-04",
           "url": "https://www.youtube.com/watch?v=9pRb1P8D-SU"
         },
         {
           "title": "Every Werewolf Type Explained in 18 Minutes (Part 2)",
-          "views": 7275,
+          "views": 7298,
           "ratio": 1.8,
           "published": "2026-09-10",
           "url": "https://www.youtube.com/watch?v=Gl98nHuun8E"
         },
         {
           "title": "Every FORGOTTEN Dragon Type Explained in 15 Minutes",
-          "views": 6687,
+          "views": 6700,
           "ratio": 1.7,
           "published": "2026-09-16",
           "url": "https://www.youtube.com/watch?v=vgGqNlJ_-pE"
         },
         {
           "title": "Every monster from Japanese Mythology Explained in 18 minutes",
-          "views": 6879,
+          "views": 6891,
           "ratio": 1.7,
           "published": "2026-09-02",
           "url": "https://www.youtube.com/watch?v=RV6ID2djFT4"
@@ -402,79 +645,79 @@
     },
     {
       "channel": "Unsolved Odyssey",
-      "subscribers": 2380,
+      "subscribers": 2390,
       "channel_video_count": 23,
-      "channel_age_days": 558,
+      "channel_age_days": 559,
       "first_video_age_days": 555,
-      "best_ratio": 33.5,
+      "best_ratio": 33.3,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 1",
-          "views": 79669,
-          "ratio": 33.5,
+          "views": 79696,
+          "ratio": 33.3,
           "published": "2025-05-06",
           "url": "https://www.youtube.com/watch?v=0lpRKIcTMMI"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Swallowed Entire Ships",
-          "views": 68189,
-          "ratio": 28.7,
+          "views": 68319,
+          "ratio": 28.6,
           "published": "2025-06-03",
           "url": "https://www.youtube.com/watch?v=mQ9ISSZ0sbE"
         },
         {
           "title": "4 HOURS Of MOST Unsolved Ocean Mysteries That Cannot Be Explained",
-          "views": 31585,
+          "views": 31673,
           "ratio": 13.3,
           "published": "2025-06-05",
           "url": "https://www.youtube.com/watch?v=yvf1JMgyCag"
         },
         {
           "title": "4+ Hours of REAL Sea Disasters To Fall Asleep To",
-          "views": 16135,
+          "views": 16179,
           "ratio": 6.8,
           "published": "2025-06-30",
           "url": "https://www.youtube.com/watch?v=zlCyjzW4yYU"
         },
         {
           "title": "Mysterious Deep Sea Scary Stories to Fall Asleep To",
-          "views": 12370,
+          "views": 12402,
           "ratio": 5.2,
           "published": "2025-07-05",
           "url": "https://www.youtube.com/watch?v=ghoX37HWa_Y"
         },
         {
           "title": "19 Most Dangerous Ocean Mysteries Unveiled from the Deep",
-          "views": 7983,
-          "ratio": 3.4,
+          "views": 7994,
+          "ratio": 3.3,
           "published": "2025-05-27",
           "url": "https://www.youtube.com/watch?v=-9sN7Oje4-A"
         },
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 2",
-          "views": 6517,
+          "views": 6530,
           "ratio": 2.7,
           "published": "2025-05-10",
           "url": "https://www.youtube.com/watch?v=0Z0nz9fwXUo"
         },
         {
           "title": "4 Hours+ of Deep Sea Creatures Documentary Sleep Story with Ocean Sounds",
-          "views": 5620,
+          "views": 5632,
           "ratio": 2.4,
           "published": "2025-06-19",
           "url": "https://www.youtube.com/watch?v=T_msc083XFo"
         },
         {
           "title": "Mysterious Deep Sea Stories to Fall Asleep To",
-          "views": 4943,
+          "views": 4944,
           "ratio": 2.1,
           "published": "2025-06-21",
           "url": "https://www.youtube.com/watch?v=_qX38c9yKwk"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Scream from the Deep",
-          "views": 3406,
+          "views": 3408,
           "ratio": 1.4,
           "published": "2025-06-01",
           "url": "https://www.youtube.com/watch?v=5ELJBqtAnn0"
@@ -482,24 +725,105 @@
       ]
     },
     {
+      "channel": "Nomadic Historian",
+      "subscribers": 1270,
+      "channel_video_count": 24,
+      "channel_age_days": 2616,
+      "first_video_age_days": 459,
+      "best_ratio": 156.2,
+      "high_ratio_count": 1,
+      "top_videos": [
+        {
+          "title": "Tartaria: The Lost Empire That History Wants to Forget | Documentary for Sleep",
+          "views": 198315,
+          "ratio": 156.2,
+          "published": "2025-09-02",
+          "url": "https://www.youtube.com/watch?v=p4Kkfd15vJA"
+        },
+        {
+          "title": "The Forgotten Empire: How Tartaria Was Erased from Our History | Documentary for Sleep",
+          "views": 4195,
+          "ratio": 3.3,
+          "published": "2025-09-08",
+          "url": "https://www.youtube.com/watch?v=bzttsHQni1Q"
+        },
+        {
+          "title": "What Lies Beneath Giza? 38,000 Years of Hidden History Uncovered! | History for sleep",
+          "views": 1567,
+          "ratio": 1.2,
+          "published": "2025-08-22",
+          "url": "https://www.youtube.com/watch?v=xn_cq_5H_hk"
+        },
+        {
+          "title": "What If the Pyramids Were NEVER Built by the Egyptians?  | 2 HOURS of History for Sleep",
+          "views": 920,
+          "ratio": 0.7,
+          "published": "2025-08-01",
+          "url": "https://www.youtube.com/watch?v=YBr1GerPEfI"
+        },
+        {
+          "title": "What If There’s a Secret Civilization Living Inside Earth? | Documentary For Sleep",
+          "views": 616,
+          "ratio": 0.5,
+          "published": "2025-08-14",
+          "url": "https://www.youtube.com/watch?v=Uig9lpMR5_g"
+        },
+        {
+          "title": "What If the Sumerians Knew More About Our Past Than We Think? | History for Sleep",
+          "views": 472,
+          "ratio": 0.4,
+          "published": "2025-09-19",
+          "url": "https://www.youtube.com/watch?v=TyZhXjo0ak0"
+        },
+        {
+          "title": "What If Hyperborea Was Real? The Lost Civilization That Shaped Our World! | History for Sleep",
+          "views": 475,
+          "ratio": 0.4,
+          "published": "2025-08-27",
+          "url": "https://www.youtube.com/watch?v=u_9A-2kQv2Y"
+        },
+        {
+          "title": "Secrets Buried in Roanoke: What History Doesn’t Tell You | History for sleep",
+          "views": 549,
+          "ratio": 0.4,
+          "published": "2025-08-20",
+          "url": "https://www.youtube.com/watch?v=qJrWeMKD_M8"
+        },
+        {
+          "title": "What life Was Really Like 2.4 Million Years ago | 2 HOURS of History for Sleep",
+          "views": 325,
+          "ratio": 0.3,
+          "published": "2025-08-03",
+          "url": "https://www.youtube.com/watch?v=dg_6gU3mNRw"
+        },
+        {
+          "title": "What If Mu Was the Mother of All Civilizations? The Hidden Secrets of Our Past | History for Sleep",
+          "views": 234,
+          "ratio": 0.2,
+          "published": "2025-08-24",
+          "url": "https://www.youtube.com/watch?v=PqCMcerJhIU"
+        }
+      ]
+    },
+    {
       "channel": "The Ocean Chronicler",
       "subscribers": 7280,
       "channel_video_count": 14,
-      "channel_age_days": 207,
-      "first_video_age_days": 198,
+      "channel_age_days": 208,
+      "first_video_age_days": 199,
       "best_ratio": 130.2,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Why We Stopped Exploring the Bottom of the Ocean and What Is Down There?",
-          "views": 947530,
+          "views": 947651,
           "ratio": 130.2,
           "published": "2026-04-18",
           "url": "https://www.youtube.com/watch?v=dBl2w_R7e-s"
         },
         {
           "title": "Deep Sea Mysteries That Scientists Can't Explain",
-          "views": 55943,
+          "views": 55969,
           "ratio": 7.7,
           "published": "2026-05-28",
           "url": "https://www.youtube.com/watch?v=aVerp5u4HoU"
@@ -513,21 +837,21 @@
         },
         {
           "title": "The Waterfall Under the Ocean Taller Than Any on Land",
-          "views": 9769,
+          "views": 9782,
           "ratio": 1.3,
           "published": "2026-07-07",
           "url": "https://www.youtube.com/watch?v=ZyDv7gMued4"
         },
         {
           "title": "The Ocean's Deadliest Rivalry: Sperm Whale vs. Giant Squid",
-          "views": 2954,
+          "views": 2956,
           "ratio": 0.4,
           "published": "2026-04-28",
           "url": "https://www.youtube.com/watch?v=SYUY3COSdtY"
         },
         {
           "title": "Scientists Found a Poison Lake at the Bottom of the Ocean",
-          "views": 1909,
+          "views": 1910,
           "ratio": 0.3,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=XqgSUd37ebM"
@@ -541,7 +865,7 @@
         },
         {
           "title": "Why The Ghost Ship Mary Celeste Was Found With No Crew (What Really Happened?)",
-          "views": 625,
+          "views": 627,
           "ratio": 0.1,
           "published": "2026-09-27",
           "url": "https://www.youtube.com/watch?v=DRkN2L4yO0U"
@@ -564,51 +888,51 @@
     },
     {
       "channel": "The Financial Archives",
-      "subscribers": 4830,
+      "subscribers": 4850,
       "channel_video_count": 21,
-      "channel_age_days": 644,
-      "first_video_age_days": 459,
-      "best_ratio": 62.3,
+      "channel_age_days": 645,
+      "first_video_age_days": 460,
+      "best_ratio": 62.5,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Every Type of Investment Explained for Beginners",
-          "views": 300801,
-          "ratio": 62.3,
+          "views": 303279,
+          "ratio": 62.5,
           "published": "2025-07-30",
           "url": "https://www.youtube.com/watch?v=i-To1GILOhA"
         },
         {
           "title": "POV: You Are The World's First Trillionaire",
-          "views": 7993,
+          "views": 8020,
           "ratio": 1.7,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=eR4kJWqTLgM"
         },
         {
           "title": "Every Type of Investment Explained like You're 5",
-          "views": 7667,
+          "views": 7682,
           "ratio": 1.6,
           "published": "2025-08-27",
           "url": "https://www.youtube.com/watch?v=pdOHCtlxaKo"
         },
         {
           "title": "The WORST Business Decisions Explained like You're 10",
-          "views": 2922,
+          "views": 2929,
           "ratio": 0.6,
           "published": "2026-03-21",
           "url": "https://www.youtube.com/watch?v=dsvXPNi0-K0"
         },
         {
           "title": "Every Major Market Crash Explained in 15 minutes",
-          "views": 1995,
+          "views": 2003,
           "ratio": 0.4,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=wJnTKdtddOk"
         },
         {
           "title": "The Wolf Of Wall Street Scam Explained in 18 minutes",
-          "views": 1379,
+          "views": 1381,
           "ratio": 0.3,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=lGye68VJbwM"
@@ -622,21 +946,21 @@
         },
         {
           "title": "Every Major MONEY LAUNDERING Scandal Explained Like You're 10",
-          "views": 1252,
+          "views": 1254,
           "ratio": 0.3,
           "published": "2026-03-03",
           "url": "https://www.youtube.com/watch?v=R8HtDkTueLY"
         },
         {
           "title": "Every Complex Financial Terms Explained in 8 minutes",
-          "views": 1318,
+          "views": 1324,
           "ratio": 0.3,
           "published": "2025-12-10",
           "url": "https://www.youtube.com/watch?v=gKNt9NTy8WY"
         },
         {
           "title": "Every Stock Market Term Explained for BEGINNERS.",
-          "views": 1311,
+          "views": 1312,
           "ratio": 0.3,
           "published": "2025-09-13",
           "url": "https://www.youtube.com/watch?v=IXJCZifKEQU"
@@ -647,35 +971,35 @@
       "channel": "Finance Simply Explained",
       "subscribers": 19300,
       "channel_video_count": 18,
-      "channel_age_days": 446,
-      "first_video_age_days": 443,
-      "best_ratio": 27.9,
+      "channel_age_days": 447,
+      "first_video_age_days": 444,
+      "best_ratio": 28.0,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Every Stock Market Terms Explained: Stock Market For Beginners",
-          "views": 539012,
-          "ratio": 27.9,
+          "views": 539491,
+          "ratio": 28.0,
           "published": "2025-08-23",
           "url": "https://www.youtube.com/watch?v=EAKGuN-d07Q"
         },
         {
           "title": "What Makes Blockchain Different From Banks | Bitcoin Explained",
-          "views": 64809,
+          "views": 64810,
           "ratio": 3.4,
           "published": "2025-08-27",
           "url": "https://www.youtube.com/watch?v=girHexNPGm0"
         },
         {
           "title": "ETFs vs Index Funds vs Mutual Funds vs Hedge Funds Explained Simply | Stock Market For Beginners",
-          "views": 9200,
+          "views": 9202,
           "ratio": 0.5,
           "published": "2025-11-01",
           "url": "https://www.youtube.com/watch?v=fUeOclCC9Bo"
         },
         {
           "title": "ETFs vs Mutual Funds (The Truth Nobody Explains)",
-          "views": 2953,
+          "views": 2955,
           "ratio": 0.2,
           "published": "2026-06-16",
           "url": "https://www.youtube.com/watch?v=ipTP6i429Q8"
@@ -689,35 +1013,35 @@
         },
         {
           "title": "How People Make $1,000 a Day: Day Trading Explained",
-          "views": 2406,
+          "views": 2410,
           "ratio": 0.1,
           "published": "2025-11-16",
           "url": "https://www.youtube.com/watch?v=9YT8hjNycQU"
         },
         {
           "title": "Every Core ECONOMIC Terms Explained: A Beginner’s Guide",
-          "views": 2374,
+          "views": 2381,
           "ratio": 0.1,
           "published": "2025-10-15",
           "url": "https://www.youtube.com/watch?v=6OLxDNbHlEk"
         },
         {
           "title": "7 Signs You're Financially Ahead of Most People at 30",
-          "views": 125,
+          "views": 129,
           "ratio": 0.0,
           "published": "2026-10-29",
           "url": "https://www.youtube.com/watch?v=hLsAaqYgfUk"
         },
         {
           "title": "If I Had to Start From $0, Here's Exactly What I'd Do",
-          "views": 140,
+          "views": 141,
           "ratio": 0.0,
           "published": "2026-10-20",
           "url": "https://www.youtube.com/watch?v=C65Us238jbU"
         },
         {
           "title": "The First $10,000 Is the Hardest (Here's Why)",
-          "views": 264,
+          "views": 266,
           "ratio": 0.0,
           "published": "2026-10-14",
           "url": "https://www.youtube.com/watch?v=weB8xPp2ORM"
