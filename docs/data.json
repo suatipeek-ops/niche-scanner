@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:25:56.817131+00:00",
+  "generated_at": "2026-11-25T17:41:08.978609+00:00",
   "criteria": {
     "min_subscribers": 1000,
     "max_subscribers": 30000,
@@ -12,78 +12,78 @@
     {
       "channel": "Space Time Narratives",
       "subscribers": 17100,
-      "channel_video_count": 25,
-      "channel_age_days": 506,
-      "first_video_age_days": 433,
+      "channel_video_count": 24,
+      "channel_age_days": 507,
+      "first_video_age_days": 434,
       "best_ratio": 66.7,
       "high_ratio_count": 7,
       "top_videos": [
         {
           "title": "Every Terrifying Type Of Black Hole Explained",
-          "views": 1139860,
+          "views": 1140138,
           "ratio": 66.7,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=GqhsdY_a6no"
         },
         {
           "title": "A Light-Year Is So Big Your Brain Can’t Process It",
-          "views": 587342,
-          "ratio": 34.3,
+          "views": 589660,
+          "ratio": 34.5,
           "published": "2026-10-12",
           "url": "https://www.youtube.com/watch?v=26xDwokrQ9Q"
         },
         {
           "title": "The Most Disturbing Exoplanets We’ve Ever Found",
-          "views": 479074,
+          "views": 479088,
           "ratio": 28.0,
           "published": "2026-06-25",
           "url": "https://www.youtube.com/watch?v=EWFgDK8b55A"
         },
         {
           "title": "Meet the NEW Largest Star in the Universe!",
-          "views": 334312,
+          "views": 334574,
           "ratio": 19.6,
           "published": "2026-03-26",
           "url": "https://www.youtube.com/watch?v=o9vt9-rVyVM"
         },
         {
           "title": "Every Terrifying Object in the Universe Explained",
-          "views": 297530,
-          "ratio": 17.4,
+          "views": 298625,
+          "ratio": 17.5,
           "published": "2026-08-22",
           "url": "https://www.youtube.com/watch?v=C7HSVsNcN8k"
         },
         {
           "title": "The 7 Main Types Of Stars in the Universe",
-          "views": 269790,
+          "views": 269983,
           "ratio": 15.8,
           "published": "2025-10-04",
           "url": "https://www.youtube.com/watch?v=HDnySMho90w"
         },
         {
           "title": "The Most Terrifying Places in the Universe",
-          "views": 243692,
+          "views": 243714,
           "ratio": 14.3,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=vYZKE53FWwk"
         },
         {
           "title": "The Biggest Black Holes We’ve Ever Found",
-          "views": 154554,
+          "views": 154650,
           "ratio": 9.0,
           "published": "2025-12-07",
           "url": "https://www.youtube.com/watch?v=nN25gSxNpHo"
         },
         {
           "title": "The Fermi Paradox has Finally Been Solved and its NOT GOOD",
-          "views": 124973,
+          "views": 124976,
           "ratio": 7.3,
           "published": "2026-01-20",
           "url": "https://www.youtube.com/watch?v=6gyqclRpEHM"
         },
         {
           "title": "Something Strange Is Happening to Betelgeuse… And It's Not Good",
-          "views": 111153,
+          "views": 111214,
           "ratio": 6.5,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=V7Bo_uOci-M"
@@ -94,63 +94,63 @@
       "channel": "The Astro Explainer",
       "subscribers": 11300,
       "channel_video_count": 9,
-      "channel_age_days": 379,
-      "first_video_age_days": 378,
-      "best_ratio": 144.8,
+      "channel_age_days": 380,
+      "first_video_age_days": 379,
+      "best_ratio": 145.2,
       "high_ratio_count": 6,
       "top_videos": [
         {
           "title": "The RAREST Astronomical Events We’ll See In Our Lifetime",
-          "views": 1636595,
-          "ratio": 144.8,
+          "views": 1640800,
+          "ratio": 145.2,
           "published": "2025-12-24",
           "url": "https://www.youtube.com/watch?v=mVa0knwn8vI"
         },
         {
           "title": "The Scariest Sounds Ever Captured In Space Explained",
-          "views": 1166520,
+          "views": 1166656,
           "ratio": 103.2,
           "published": "2025-11-21",
           "url": "https://www.youtube.com/watch?v=-XlQcOLLiNg"
         },
         {
           "title": "Every Terrifying Type Of Black Hole Explained in 7 Minutes",
-          "views": 973881,
-          "ratio": 86.2,
+          "views": 991193,
+          "ratio": 87.7,
           "published": "2026-09-03",
           "url": "https://www.youtube.com/watch?v=gADQAagCjPs"
         },
         {
           "title": "The STRANGEST Planets In The Universe",
-          "views": 542994,
+          "views": 543150,
           "ratio": 48.1,
           "published": "2026-02-14",
           "url": "https://www.youtube.com/watch?v=uHHNPvAexTs"
         },
         {
           "title": "Every Terrifying Place In The Universe Explained",
-          "views": 327934,
-          "ratio": 29.0,
+          "views": 332028,
+          "ratio": 29.4,
           "published": "2026-09-18",
           "url": "https://www.youtube.com/watch?v=uVkmgH5VnGA"
         },
         {
           "title": "The Most Habitable Planets We’ve Ever Found",
-          "views": 128570,
-          "ratio": 11.4,
+          "views": 130274,
+          "ratio": 11.5,
           "published": "2026-10-08",
           "url": "https://www.youtube.com/watch?v=hbmDPwfjgc8"
         },
         {
           "title": "The Scariest Sounds Ever Captured In Space Explained (Part 2)",
-          "views": 94879,
+          "views": 94948,
           "ratio": 8.4,
           "published": "2026-08-30",
           "url": "https://www.youtube.com/watch?v=w89BV0GmmBQ"
         },
         {
           "title": "Every Type of Space Megastructure Explained",
-          "views": 90781,
+          "views": 90810,
           "ratio": 8.0,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=DrQDtzQxQhY"
@@ -159,153 +159,153 @@
     },
     {
       "channel": "Philosophy Explained",
-      "subscribers": 1400,
+      "subscribers": 1430,
       "channel_video_count": 14,
-      "channel_age_days": 70,
-      "first_video_age_days": 52,
-      "best_ratio": 68.8,
+      "channel_age_days": 71,
+      "first_video_age_days": 53,
+      "best_ratio": 67.6,
       "high_ratio_count": 6,
       "top_videos": [
         {
           "title": "Consumerism Is What Schopenhauer Warned Us About",
-          "views": 96263,
-          "ratio": 68.8,
+          "views": 96641,
+          "ratio": 67.6,
           "published": "2026-10-05",
           "url": "https://www.youtube.com/watch?v=N6tRHDiyxlg"
         },
         {
           "title": "The Disturbing Philosophy of Overconsumption Explained",
-          "views": 29102,
-          "ratio": 20.8,
+          "views": 29224,
+          "ratio": 20.4,
           "published": "2026-10-27",
           "url": "https://www.youtube.com/watch?v=d40MokgBWr0"
         },
         {
           "title": "Consumer Culture is What Jean Baudrillard Warned Us About",
-          "views": 26169,
-          "ratio": 18.7,
+          "views": 27033,
+          "ratio": 18.9,
           "published": "2026-11-16",
           "url": "https://www.youtube.com/watch?v=uCwwV8AxmiE"
         },
         {
           "title": "The Disturbing Philosophy of Luxury Explained",
-          "views": 19413,
+          "views": 19862,
           "ratio": 13.9,
           "published": "2026-11-12",
           "url": "https://www.youtube.com/watch?v=Fj4jj_OuuYU"
         },
         {
           "title": "Why Intelligent People Avoid Consumerism?",
-          "views": 16427,
-          "ratio": 11.7,
+          "views": 17278,
+          "ratio": 12.1,
           "published": "2026-11-01",
           "url": "https://www.youtube.com/watch?v=HwyLbz1BaIs"
         },
         {
           "title": "Why Minimalist People Scare Society | Schopenhauer",
-          "views": 14689,
-          "ratio": 10.5,
+          "views": 14871,
+          "ratio": 10.4,
           "published": "2026-11-09",
           "url": "https://www.youtube.com/watch?v=yRI8tfDZ_SY"
         },
         {
           "title": "What Capitalism Understands About Consumerism That Socialism Doesn't",
-          "views": 9580,
-          "ratio": 6.8,
+          "views": 9597,
+          "ratio": 6.7,
           "published": "2026-10-13",
           "url": "https://www.youtube.com/watch?v=IThmFZYPYUs"
         },
         {
           "title": "Digital Consumerism is What Bauman Warned us About",
-          "views": 7857,
-          "ratio": 5.6,
+          "views": 8163,
+          "ratio": 5.7,
           "published": "2026-11-21",
           "url": "https://www.youtube.com/watch?v=bovjdVLk4tw"
         },
         {
           "title": "Pierre Bourdieu Tried to Warn us About Status Consumption",
-          "views": 7502,
-          "ratio": 5.4,
+          "views": 7863,
+          "ratio": 5.5,
           "published": "2026-11-18",
           "url": "https://www.youtube.com/watch?v=X3qkXRnOxaY"
         },
         {
-          "title": "The Disturbing Philosophy of Desire and Dissatisfaction Explained by Schopenhauer",
-          "views": 3871,
-          "ratio": 2.8,
-          "published": "2026-10-30",
-          "url": "https://www.youtube.com/watch?v=qGZ0Kr07Gfw"
+          "title": "What Schopenhauer's Philosophy Understands About Consumerism That Nobody Else Does",
+          "views": 5424,
+          "ratio": 3.8,
+          "published": "2026-11-23",
+          "url": "https://www.youtube.com/watch?v=mgWqlb944_I"
         }
       ]
     },
     {
       "channel": "Zoxi ",
-      "subscribers": 4060,
+      "subscribers": 4070,
       "channel_video_count": 17,
-      "channel_age_days": 162,
-      "first_video_age_days": 139,
-      "best_ratio": 87.5,
+      "channel_age_days": 163,
+      "first_video_age_days": 140,
+      "best_ratio": 87.3,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Every Mythology in the World Explained in 13 Minutes",
-          "views": 355361,
-          "ratio": 87.5,
+          "views": 355433,
+          "ratio": 87.3,
           "published": "2026-08-10",
           "url": "https://www.youtube.com/watch?v=dtOhXagWmN4"
         },
         {
           "title": "Every Werewolf Type Explained in 6 Minutes ",
-          "views": 215282,
-          "ratio": 53.0,
+          "views": 217961,
+          "ratio": 53.6,
           "published": "2026-07-25",
           "url": "https://www.youtube.com/watch?v=MCQJ15a_tJE"
         },
         {
           "title": "Every Types of Dragons Explained in 6 Minutes",
-          "views": 172494,
-          "ratio": 42.5,
+          "views": 172674,
+          "ratio": 42.4,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=vJ3upwfgKl8"
         },
         {
           "title": "Every underated Mythology in the World Explained in 21 minutes",
-          "views": 23302,
+          "views": 23307,
           "ratio": 5.7,
           "published": "2026-08-25",
           "url": "https://www.youtube.com/watch?v=1aNX_KS1aNo"
         },
         {
           "title": "Every Type of Wereanimal Explained in 15 Minutes",
-          "views": 19947,
+          "views": 19968,
           "ratio": 4.9,
           "published": "2026-08-29",
           "url": "https://www.youtube.com/watch?v=p2lwadl1TJA"
         },
         {
           "title": "Every Mythological Creature's Realistic Physique Explained in 13 Minutes",
-          "views": 12506,
+          "views": 12511,
           "ratio": 3.1,
           "published": "2026-08-18",
           "url": "https://www.youtube.com/watch?v=6BQkxzSvguI"
         },
         {
           "title": "Every Werewolf Type Explained in 18 Minutes (Part 2)",
-          "views": 8794,
+          "views": 8885,
           "ratio": 2.2,
           "published": "2026-09-10",
           "url": "https://www.youtube.com/watch?v=Gl98nHuun8E"
         },
         {
           "title": "Every Demon and Devil from Mythology Explained in 8 Minutes",
-          "views": 9034,
+          "views": 9047,
           "ratio": 2.2,
           "published": "2026-08-04",
           "url": "https://www.youtube.com/watch?v=9pRb1P8D-SU"
         },
         {
           "title": "Every FORGOTTEN Dragon Type Explained in 15 Minutes",
-          "views": 7100,
+          "views": 7118,
           "ratio": 1.7,
           "published": "2026-09-16",
           "url": "https://www.youtube.com/watch?v=vgGqNlJ_-pE"
@@ -323,77 +323,77 @@
       "channel": "Unsolved Odyssey",
       "subscribers": 2420,
       "channel_video_count": 23,
-      "channel_age_days": 580,
-      "first_video_age_days": 577,
+      "channel_age_days": 581,
+      "first_video_age_days": 578,
       "best_ratio": 33.1,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 1",
-          "views": 80073,
+          "views": 80097,
           "ratio": 33.1,
           "published": "2025-05-06",
           "url": "https://www.youtube.com/watch?v=0lpRKIcTMMI"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Swallowed Entire Ships",
-          "views": 71410,
-          "ratio": 29.5,
+          "views": 71535,
+          "ratio": 29.6,
           "published": "2025-06-03",
           "url": "https://www.youtube.com/watch?v=mQ9ISSZ0sbE"
         },
         {
           "title": "4 HOURS Of MOST Unsolved Ocean Mysteries That Cannot Be Explained",
-          "views": 33463,
-          "ratio": 13.8,
+          "views": 33528,
+          "ratio": 13.9,
           "published": "2025-06-05",
           "url": "https://www.youtube.com/watch?v=yvf1JMgyCag"
         },
         {
           "title": "4+ Hours of REAL Sea Disasters To Fall Asleep To",
-          "views": 17105,
+          "views": 17139,
           "ratio": 7.1,
           "published": "2025-06-30",
           "url": "https://www.youtube.com/watch?v=zlCyjzW4yYU"
         },
         {
           "title": "Mysterious Deep Sea Scary Stories to Fall Asleep To",
-          "views": 13261,
+          "views": 13291,
           "ratio": 5.5,
           "published": "2025-07-05",
           "url": "https://www.youtube.com/watch?v=ghoX37HWa_Y"
         },
         {
           "title": "19 Most Dangerous Ocean Mysteries Unveiled from the Deep",
-          "views": 8499,
+          "views": 8512,
           "ratio": 3.5,
           "published": "2025-05-27",
           "url": "https://www.youtube.com/watch?v=-9sN7Oje4-A"
         },
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 2",
-          "views": 6812,
+          "views": 6828,
           "ratio": 2.8,
           "published": "2025-05-10",
           "url": "https://www.youtube.com/watch?v=0Z0nz9fwXUo"
         },
         {
           "title": "4 Hours+ of Deep Sea Creatures Documentary Sleep Story with Ocean Sounds",
-          "views": 5844,
+          "views": 5855,
           "ratio": 2.4,
           "published": "2025-06-19",
           "url": "https://www.youtube.com/watch?v=T_msc083XFo"
         },
         {
           "title": "Mysterious Deep Sea Stories to Fall Asleep To",
-          "views": 5029,
+          "views": 5035,
           "ratio": 2.1,
           "published": "2025-06-21",
           "url": "https://www.youtube.com/watch?v=_qX38c9yKwk"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Scream from the Deep",
-          "views": 3474,
+          "views": 3477,
           "ratio": 1.4,
           "published": "2025-06-01",
           "url": "https://www.youtube.com/watch?v=5ELJBqtAnn0"
@@ -401,112 +401,31 @@
       ]
     },
     {
-      "channel": "False Profit",
-      "subscribers": 7850,
-      "channel_video_count": 19,
-      "channel_age_days": 501,
-      "first_video_age_days": 413,
-      "best_ratio": 99.2,
-      "high_ratio_count": 2,
-      "top_videos": [
-        {
-          "title": "What Happens When Economists Run a Country",
-          "views": 778480,
-          "ratio": 99.2,
-          "published": "2026-08-18",
-          "url": "https://www.youtube.com/watch?v=DoG6_3PFHN0"
-        },
-        {
-          "title": "Why Rome Never Industrialized",
-          "views": 265006,
-          "ratio": 33.8,
-          "published": "2026-04-08",
-          "url": "https://www.youtube.com/watch?v=uR8-AF6NJcc"
-        },
-        {
-          "title": "Is Europe Falling Behind?",
-          "views": 66401,
-          "ratio": 8.5,
-          "published": "2026-01-03",
-          "url": "https://www.youtube.com/watch?v=LCpagSqu6L0"
-        },
-        {
-          "title": "Economics Explained Is A Junk Channel",
-          "views": 30698,
-          "ratio": 3.9,
-          "published": "2026-09-12",
-          "url": "https://www.youtube.com/watch?v=rNiHjxe9g_A"
-        },
-        {
-          "title": "The Unhinged Economic Policy of Wang Mang",
-          "views": 4265,
-          "ratio": 0.5,
-          "published": "2026-02-13",
-          "url": "https://www.youtube.com/watch?v=Z8EvG_wbcdo"
-        },
-        {
-          "title": "Richard Murphy Doesn't Understand Economics",
-          "views": 2866,
-          "ratio": 0.4,
-          "published": "2025-11-24",
-          "url": "https://www.youtube.com/watch?v=IJ9Teua4cWc"
-        },
-        {
-          "title": "Do Wealth Taxes Actually Make Rich People Leave?",
-          "views": 2480,
-          "ratio": 0.3,
-          "published": "2026-07-10",
-          "url": "https://www.youtube.com/watch?v=wex3cGTJoK4"
-        },
-        {
-          "title": "I Was Wrong About Slavery (Economically)",
-          "views": 2109,
-          "ratio": 0.3,
-          "published": "2026-05-21",
-          "url": "https://www.youtube.com/watch?v=-RE20o2Eds0"
-        },
-        {
-          "title": "Why the Economy Is Doing Well but You Are Not",
-          "views": 2197,
-          "ratio": 0.3,
-          "published": "2025-12-13",
-          "url": "https://www.youtube.com/watch?v=ulm7S-RZ69Y"
-        },
-        {
-          "title": "Slavery Ended. Then What?",
-          "views": 1672,
-          "ratio": 0.2,
-          "published": "2026-06-21",
-          "url": "https://www.youtube.com/watch?v=BkhXWy32aHQ"
-        }
-      ]
-    },
-    {
       "channel": "The Financial Archives",
-      "subscribers": 5130,
+      "subscribers": 5140,
       "channel_video_count": 21,
-      "channel_age_days": 666,
-      "first_video_age_days": 481,
-      "best_ratio": 68.8,
+      "channel_age_days": 667,
+      "first_video_age_days": 482,
+      "best_ratio": 69.0,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Every Type of Investment Explained for Beginners",
-          "views": 352784,
-          "ratio": 68.8,
+          "views": 354715,
+          "ratio": 69.0,
           "published": "2025-07-30",
           "url": "https://www.youtube.com/watch?v=i-To1GILOhA"
         },
         {
           "title": "POV: You Are The World's First Trillionaire",
-          "views": 8646,
+          "views": 8666,
           "ratio": 1.7,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=eR4kJWqTLgM"
         },
         {
           "title": "Every Type of Investment Explained like You're 5",
-          "views": 8045,
+          "views": 8058,
           "ratio": 1.6,
           "published": "2025-08-27",
           "url": "https://www.youtube.com/watch?v=pdOHCtlxaKo"
@@ -520,7 +439,7 @@
         },
         {
           "title": "Every Major Market Crash Explained in 15 minutes",
-          "views": 2315,
+          "views": 2323,
           "ratio": 0.5,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=wJnTKdtddOk"
@@ -541,21 +460,21 @@
         },
         {
           "title": "Every Major MONEY LAUNDERING Scandal Explained Like You're 10",
-          "views": 1298,
+          "views": 1301,
           "ratio": 0.3,
           "published": "2026-03-03",
           "url": "https://www.youtube.com/watch?v=R8HtDkTueLY"
         },
         {
           "title": "Every Complex Financial Terms Explained in 8 minutes",
-          "views": 1452,
+          "views": 1456,
           "ratio": 0.3,
           "published": "2025-12-10",
           "url": "https://www.youtube.com/watch?v=gKNt9NTy8WY"
         },
         {
           "title": "Every Stock Market Term Explained for BEGINNERS.",
-          "views": 1334,
+          "views": 1338,
           "ratio": 0.3,
           "published": "2025-09-13",
           "url": "https://www.youtube.com/watch?v=IXJCZifKEQU"
