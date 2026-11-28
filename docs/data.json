@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:02:13.953104+00:00",
+  "generated_at": "2026-11-28T15:52:39.351693+00:00",
   "criteria": {
     "min_subscribers": 1000,
     "max_subscribers": 30000,
@@ -13,77 +13,77 @@
       "channel": "Space Time Narratives",
       "subscribers": 17100,
       "channel_video_count": 26,
-      "channel_age_days": 509,
-      "first_video_age_days": 436,
+      "channel_age_days": 510,
+      "first_video_age_days": 437,
       "best_ratio": 66.7,
       "high_ratio_count": 7,
       "top_videos": [
         {
           "title": "Every Terrifying Type Of Black Hole Explained",
-          "views": 1140601,
+          "views": 1140840,
           "ratio": 66.7,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=GqhsdY_a6no"
         },
         {
           "title": "A Light-Year Is So Big Your Brain Can’t Process It",
-          "views": 594255,
-          "ratio": 34.8,
+          "views": 596592,
+          "ratio": 34.9,
           "published": "2026-10-12",
           "url": "https://www.youtube.com/watch?v=26xDwokrQ9Q"
         },
         {
           "title": "The Most Disturbing Exoplanets We’ve Ever Found",
-          "views": 479124,
+          "views": 479135,
           "ratio": 28.0,
           "published": "2026-06-25",
           "url": "https://www.youtube.com/watch?v=EWFgDK8b55A"
         },
         {
           "title": "Meet the NEW Largest Star in the Universe!",
-          "views": 334867,
+          "views": 335014,
           "ratio": 19.6,
           "published": "2026-03-26",
           "url": "https://www.youtube.com/watch?v=o9vt9-rVyVM"
         },
         {
           "title": "Every Terrifying Object in the Universe Explained",
-          "views": 300615,
+          "views": 301634,
           "ratio": 17.6,
           "published": "2026-08-22",
           "url": "https://www.youtube.com/watch?v=C7HSVsNcN8k"
         },
         {
           "title": "The 7 Main Types Of Stars in the Universe",
-          "views": 270273,
+          "views": 270448,
           "ratio": 15.8,
           "published": "2025-10-04",
           "url": "https://www.youtube.com/watch?v=HDnySMho90w"
         },
         {
           "title": "The Most Terrifying Places in the Universe",
-          "views": 243770,
+          "views": 243799,
           "ratio": 14.3,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=vYZKE53FWwk"
         },
         {
           "title": "The Biggest Black Holes We’ve Ever Found",
-          "views": 154926,
+          "views": 155051,
           "ratio": 9.1,
           "published": "2025-12-07",
           "url": "https://www.youtube.com/watch?v=nN25gSxNpHo"
         },
         {
           "title": "The Fermi Paradox has Finally Been Solved and its NOT GOOD",
-          "views": 124979,
+          "views": 124981,
           "ratio": 7.3,
           "published": "2026-01-20",
           "url": "https://www.youtube.com/watch?v=6gyqclRpEHM"
         },
         {
           "title": "Something Strange Is Happening to Betelgeuse… And It's Not Good",
-          "views": 111375,
+          "views": 111436,
           "ratio": 6.5,
           "published": "2026-07-08",
           "url": "https://www.youtube.com/watch?v=V7Bo_uOci-M"
@@ -92,65 +92,65 @@
     },
     {
       "channel": "DreamRot",
-      "subscribers": 1970,
+      "subscribers": 1980,
       "channel_video_count": 8,
       "channel_age_days": 203,
-      "first_video_age_days": 27,
-      "best_ratio": 30.2,
+      "first_video_age_days": 28,
+      "best_ratio": 30.3,
       "high_ratio_count": 7,
       "top_videos": [
         {
           "title": "Most Disturbing Flash Games Ever Made",
-          "views": 59535,
-          "ratio": 30.2,
+          "views": 60058,
+          "ratio": 30.3,
           "published": "2026-11-11",
           "url": "https://www.youtube.com/watch?v=1jkfbx8U6ww"
         },
         {
           "title": "2 Hours of Internet Horrors",
-          "views": 57987,
-          "ratio": 29.4,
+          "views": 59547,
+          "ratio": 30.1,
           "published": "2026-11-09",
           "url": "https://www.youtube.com/watch?v=ktzUBtUAnBE"
         },
         {
           "title": "2 Hours of Lost Media To Fall Asleep To",
-          "views": 48792,
-          "ratio": 24.8,
+          "views": 49490,
+          "ratio": 25.0,
           "published": "2026-10-31",
           "url": "https://www.youtube.com/watch?v=8sBbwdhFMB4"
         },
         {
           "title": "2 Hours of Lost Games To Fall Asleep To",
-          "views": 46346,
-          "ratio": 23.5,
+          "views": 47247,
+          "ratio": 23.9,
           "published": "2026-11-06",
           "url": "https://www.youtube.com/watch?v=aHnxEdCouqg"
         },
         {
-          "title": "Japan’s Most Disturbing Missing Persons Cases Iceberg",
-          "views": 33303,
-          "ratio": 16.9,
-          "published": "2026-11-03",
-          "url": "https://www.youtube.com/watch?v=5gSobnLeYWI"
-        },
-        {
           "title": "2 hours of the most disturbing Japanese Serial Killers Iceberg",
-          "views": 32466,
-          "ratio": 16.5,
+          "views": 33762,
+          "ratio": 17.1,
           "published": "2026-11-14",
           "url": "https://www.youtube.com/watch?v=ybZDijrSuTc"
         },
         {
+          "title": "Japan’s Most Disturbing Missing Persons Cases Iceberg",
+          "views": 33661,
+          "ratio": 17.0,
+          "published": "2026-11-03",
+          "url": "https://www.youtube.com/watch?v=5gSobnLeYWI"
+        },
+        {
           "title": "Most Disturbing Video Games Ever Made",
-          "views": 20312,
-          "ratio": 10.3,
+          "views": 20816,
+          "ratio": 10.5,
           "published": "2026-11-22",
           "url": "https://www.youtube.com/watch?v=nFNDngts_IQ"
         },
         {
           "title": "100 Strange Cases of Lost Games",
-          "views": 9437,
+          "views": 9516,
           "ratio": 4.8,
           "published": "2026-11-19",
           "url": "https://www.youtube.com/watch?v=ggrcxNGPCZU"
@@ -161,63 +161,63 @@
       "channel": "The Astro Explainer",
       "subscribers": 11400,
       "channel_video_count": 9,
-      "channel_age_days": 382,
-      "first_video_age_days": 381,
-      "best_ratio": 144.6,
+      "channel_age_days": 383,
+      "first_video_age_days": 382,
+      "best_ratio": 144.8,
       "high_ratio_count": 6,
       "top_videos": [
         {
           "title": "The RAREST Astronomical Events We’ll See In Our Lifetime",
-          "views": 1647958,
-          "ratio": 144.6,
+          "views": 1651233,
+          "ratio": 144.8,
           "published": "2025-12-24",
           "url": "https://www.youtube.com/watch?v=mVa0knwn8vI"
         },
         {
-          "title": "The Scariest Sounds Ever Captured In Space Explained",
-          "views": 1166909,
+          "title": "The STRANGEST Sounds In Space",
+          "views": 1167056,
           "ratio": 102.4,
           "published": "2025-11-21",
           "url": "https://www.youtube.com/watch?v=-XlQcOLLiNg"
         },
         {
           "title": "Every Terrifying Type Of Black Hole Explained in 7 Minutes",
-          "views": 1030135,
-          "ratio": 90.4,
+          "views": 1051853,
+          "ratio": 92.3,
           "published": "2026-09-03",
           "url": "https://www.youtube.com/watch?v=gADQAagCjPs"
         },
         {
-          "title": "The STRANGEST Planets In The Universe",
-          "views": 543452,
+          "title": "The MOST BIZARRE Exoplanets In The Universe",
+          "views": 543629,
           "ratio": 47.7,
           "published": "2026-02-14",
           "url": "https://www.youtube.com/watch?v=uHHNPvAexTs"
         },
         {
           "title": "Every Terrifying Place In The Universe Explained",
-          "views": 339262,
-          "ratio": 29.8,
+          "views": 343320,
+          "ratio": 30.1,
           "published": "2026-09-18",
           "url": "https://www.youtube.com/watch?v=uVkmgH5VnGA"
         },
         {
           "title": "The Most Habitable Planets We’ve Ever Found",
-          "views": 135012,
-          "ratio": 11.8,
+          "views": 141807,
+          "ratio": 12.4,
           "published": "2026-10-08",
           "url": "https://www.youtube.com/watch?v=hbmDPwfjgc8"
         },
         {
           "title": "The Scariest Sounds Ever Captured In Space Explained (Part 2)",
-          "views": 95091,
+          "views": 95187,
           "ratio": 8.3,
           "published": "2026-08-30",
           "url": "https://www.youtube.com/watch?v=w89BV0GmmBQ"
         },
         {
           "title": "Every Type of Space Megastructure Explained",
-          "views": 90851,
+          "views": 90893,
           "ratio": 8.0,
           "published": "2025-11-11",
           "url": "https://www.youtube.com/watch?v=DrQDtzQxQhY"
@@ -226,80 +226,80 @@
     },
     {
       "channel": "Philosophy Explained",
-      "subscribers": 1520,
+      "subscribers": 1580,
       "channel_video_count": 15,
-      "channel_age_days": 73,
-      "first_video_age_days": 55,
-      "best_ratio": 64.0,
+      "channel_age_days": 74,
+      "first_video_age_days": 56,
+      "best_ratio": 61.7,
       "high_ratio_count": 6,
       "top_videos": [
         {
           "title": "Consumerism Is What Schopenhauer Warned Us About",
-          "views": 97251,
-          "ratio": 64.0,
+          "views": 97562,
+          "ratio": 61.7,
           "published": "2026-10-05",
           "url": "https://www.youtube.com/watch?v=N6tRHDiyxlg"
         },
         {
           "title": "The Disturbing Philosophy of Overconsumption Explained",
-          "views": 29601,
-          "ratio": 19.5,
+          "views": 29758,
+          "ratio": 18.8,
           "published": "2026-10-27",
           "url": "https://www.youtube.com/watch?v=d40MokgBWr0"
         },
         {
           "title": "Consumer Culture is What Jean Baudrillard Warned Us About",
-          "views": 28501,
-          "ratio": 18.8,
+          "views": 29551,
+          "ratio": 18.7,
           "published": "2026-11-16",
           "url": "https://www.youtube.com/watch?v=uCwwV8AxmiE"
         },
         {
           "title": "The Disturbing Philosophy of Luxury Explained",
-          "views": 20472,
-          "ratio": 13.5,
+          "views": 20616,
+          "ratio": 13.0,
           "published": "2026-11-12",
           "url": "https://www.youtube.com/watch?v=Fj4jj_OuuYU"
         },
         {
           "title": "Why Intelligent People Avoid Consumerism?",
-          "views": 18768,
-          "ratio": 12.3,
+          "views": 19647,
+          "ratio": 12.4,
           "published": "2026-11-01",
           "url": "https://www.youtube.com/watch?v=HwyLbz1BaIs"
         },
         {
-          "title": "Why Minimalist People Scare Society | Schopenhauer",
-          "views": 15227,
-          "ratio": 10.0,
-          "published": "2026-11-09",
-          "url": "https://www.youtube.com/watch?v=yRI8tfDZ_SY"
-        },
-        {
           "title": "Frugal Living Philosophically Explained in 26 Minutes",
-          "views": 11423,
-          "ratio": 7.5,
+          "views": 16516,
+          "ratio": 10.5,
           "published": "2026-11-26",
           "url": "https://www.youtube.com/watch?v=n981INrLsoI"
         },
         {
+          "title": "Why Minimalist People Scare Society | Schopenhauer",
+          "views": 15394,
+          "ratio": 9.7,
+          "published": "2026-11-09",
+          "url": "https://www.youtube.com/watch?v=yRI8tfDZ_SY"
+        },
+        {
           "title": "What Capitalism Understands About Consumerism That Socialism Doesn't",
-          "views": 9635,
-          "ratio": 6.3,
+          "views": 9650,
+          "ratio": 6.1,
           "published": "2026-10-13",
           "url": "https://www.youtube.com/watch?v=IThmFZYPYUs"
         },
         {
           "title": "Digital Consumerism is What Bauman Warned us About",
-          "views": 8647,
-          "ratio": 5.7,
+          "views": 8864,
+          "ratio": 5.6,
           "published": "2026-11-21",
           "url": "https://www.youtube.com/watch?v=bovjdVLk4tw"
         },
         {
           "title": "Pierre Bourdieu Tried to Warn us About Status Consumption",
-          "views": 8347,
-          "ratio": 5.5,
+          "views": 8436,
+          "ratio": 5.3,
           "published": "2026-11-18",
           "url": "https://www.youtube.com/watch?v=X3qkXRnOxaY"
         }
@@ -307,79 +307,79 @@
     },
     {
       "channel": "Zoxi ",
-      "subscribers": 4080,
+      "subscribers": 4090,
       "channel_video_count": 17,
       "channel_age_days": 165,
-      "first_video_age_days": 142,
-      "best_ratio": 87.2,
+      "first_video_age_days": 143,
+      "best_ratio": 87.0,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Every Mythology in the World Explained in 13 Minutes",
-          "views": 355577,
-          "ratio": 87.2,
+          "views": 355669,
+          "ratio": 87.0,
           "published": "2026-08-10",
           "url": "https://www.youtube.com/watch?v=dtOhXagWmN4"
         },
         {
           "title": "Every Werewolf Type Explained in 6 Minutes ",
-          "views": 223203,
-          "ratio": 54.7,
+          "views": 226749,
+          "ratio": 55.4,
           "published": "2026-07-25",
           "url": "https://www.youtube.com/watch?v=MCQJ15a_tJE"
         },
         {
           "title": "Every Types of Dragons Explained in 6 Minutes",
-          "views": 173059,
+          "views": 173278,
           "ratio": 42.4,
           "published": "2026-07-30",
           "url": "https://www.youtube.com/watch?v=vJ3upwfgKl8"
         },
         {
           "title": "Every underated Mythology in the World Explained in 21 minutes",
-          "views": 23319,
+          "views": 23322,
           "ratio": 5.7,
           "published": "2026-08-25",
           "url": "https://www.youtube.com/watch?v=1aNX_KS1aNo"
         },
         {
           "title": "Every Type of Wereanimal Explained in 15 Minutes",
-          "views": 19999,
+          "views": 20025,
           "ratio": 4.9,
           "published": "2026-08-29",
           "url": "https://www.youtube.com/watch?v=p2lwadl1TJA"
         },
         {
           "title": "Every Mythological Creature's Realistic Physique Explained in 13 Minutes",
-          "views": 12523,
+          "views": 12531,
           "ratio": 3.1,
           "published": "2026-08-18",
           "url": "https://www.youtube.com/watch?v=6BQkxzSvguI"
         },
         {
           "title": "Every Werewolf Type Explained in 18 Minutes (Part 2)",
-          "views": 9152,
-          "ratio": 2.2,
+          "views": 9272,
+          "ratio": 2.3,
           "published": "2026-09-10",
           "url": "https://www.youtube.com/watch?v=Gl98nHuun8E"
         },
         {
           "title": "Every Demon and Devil from Mythology Explained in 8 Minutes",
-          "views": 9080,
+          "views": 9105,
           "ratio": 2.2,
           "published": "2026-08-04",
           "url": "https://www.youtube.com/watch?v=9pRb1P8D-SU"
         },
         {
           "title": "Every FORGOTTEN Dragon Type Explained in 15 Minutes",
-          "views": 7162,
+          "views": 7183,
           "ratio": 1.8,
           "published": "2026-09-16",
           "url": "https://www.youtube.com/watch?v=vgGqNlJ_-pE"
         },
         {
           "title": "Every monster from Japanese Mythology Explained in 18 minutes",
-          "views": 7085,
+          "views": 7094,
           "ratio": 1.7,
           "published": "2026-09-02",
           "url": "https://www.youtube.com/watch?v=RV6ID2djFT4"
@@ -390,77 +390,77 @@
       "channel": "Unsolved Odyssey",
       "subscribers": 2420,
       "channel_video_count": 23,
-      "channel_age_days": 583,
+      "channel_age_days": 584,
       "first_video_age_days": 580,
       "best_ratio": 33.1,
       "high_ratio_count": 3,
       "top_videos": [
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 1",
-          "views": 80129,
+          "views": 80144,
           "ratio": 33.1,
           "published": "2025-05-06",
           "url": "https://www.youtube.com/watch?v=0lpRKIcTMMI"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Swallowed Entire Ships",
-          "views": 71791,
+          "views": 71912,
           "ratio": 29.7,
           "published": "2025-06-03",
           "url": "https://www.youtube.com/watch?v=mQ9ISSZ0sbE"
         },
         {
           "title": "4 HOURS Of MOST Unsolved Ocean Mysteries That Cannot Be Explained",
-          "views": 33666,
+          "views": 33737,
           "ratio": 13.9,
           "published": "2025-06-05",
           "url": "https://www.youtube.com/watch?v=yvf1JMgyCag"
         },
         {
           "title": "4+ Hours of REAL Sea Disasters To Fall Asleep To",
-          "views": 17225,
+          "views": 17266,
           "ratio": 7.1,
           "published": "2025-06-30",
           "url": "https://www.youtube.com/watch?v=zlCyjzW4yYU"
         },
         {
           "title": "Mysterious Deep Sea Scary Stories to Fall Asleep To",
-          "views": 13368,
+          "views": 13409,
           "ratio": 5.5,
           "published": "2025-07-05",
           "url": "https://www.youtube.com/watch?v=ghoX37HWa_Y"
         },
         {
           "title": "19 Most Dangerous Ocean Mysteries Unveiled from the Deep",
-          "views": 8547,
+          "views": 8551,
           "ratio": 3.5,
           "published": "2025-05-27",
           "url": "https://www.youtube.com/watch?v=-9sN7Oje4-A"
         },
         {
           "title": "Inside The Most Dangerous Ocean Mysteries Part 2",
-          "views": 6854,
+          "views": 6863,
           "ratio": 2.8,
           "published": "2025-05-10",
           "url": "https://www.youtube.com/watch?v=0Z0nz9fwXUo"
         },
         {
           "title": "4 Hours+ of Deep Sea Creatures Documentary Sleep Story with Ocean Sounds",
-          "views": 5877,
+          "views": 5884,
           "ratio": 2.4,
           "published": "2025-06-19",
           "url": "https://www.youtube.com/watch?v=T_msc083XFo"
         },
         {
           "title": "Mysterious Deep Sea Stories to Fall Asleep To",
-          "views": 5044,
+          "views": 5052,
           "ratio": 2.1,
           "published": "2025-06-21",
           "url": "https://www.youtube.com/watch?v=_qX38c9yKwk"
         },
         {
           "title": "18 Terrifying Ocean Mysteries That Scream from the Deep",
-          "views": 3485,
+          "views": 3490,
           "ratio": 1.4,
           "published": "2025-06-01",
           "url": "https://www.youtube.com/watch?v=5ELJBqtAnn0"
@@ -468,126 +468,119 @@
       ]
     },
     {
-      "channel": "Its Annie",
-      "subscribers": 14300,
+      "channel": "The Wealth Engine",
+      "subscribers": 5140,
       "channel_video_count": 12,
-      "channel_age_days": 1105,
-      "first_video_age_days": 746,
-      "best_ratio": 24.9,
-      "high_ratio_count": 2,
+      "channel_age_days": 56,
+      "first_video_age_days": 55,
+      "best_ratio": 95.9,
+      "high_ratio_count": 1,
       "top_videos": [
         {
-          "title": "Easy AI Side Hustles to Start If you're BROKE 😭",
-          "views": 356173,
-          "ratio": 24.9,
-          "published": "2026-09-23",
-          "url": "https://www.youtube.com/watch?v=LuOA8ocriX4"
+          "title": "How Economy Actually  Work?",
+          "views": 492788,
+          "ratio": 95.9,
+          "published": "2026-10-04",
+          "url": "https://www.youtube.com/watch?v=YqAiWBFwbpg"
         },
         {
-          "title": "Realistic Claude AI Side Hustle Ideas for Beginners",
-          "views": 172478,
-          "ratio": 12.1,
-          "published": "2026-06-22",
-          "url": "https://www.youtube.com/watch?v=UbLjAODumFA"
+          "title": "Renting vs Buying a House: Which Actually Makes You Richer?",
+          "views": 1641,
+          "ratio": 0.3,
+          "published": "2026-11-01",
+          "url": "https://www.youtube.com/watch?v=-7K3THinxOs"
         },
         {
-          "title": "Easiest AI side hustle for beginners (Nobody is talking about this)",
-          "views": 110397,
-          "ratio": 7.7,
-          "published": "2026-06-05",
-          "url": "https://www.youtube.com/watch?v=B0yp1CLs8uw"
+          "title": "The Complete Real Estate Business Explained in 20 Minutes",
+          "views": 1230,
+          "ratio": 0.2,
+          "published": "2026-11-06",
+          "url": "https://www.youtube.com/watch?v=PVBkCJakwUE"
         },
         {
-          "title": "6 Remote AI Training Jobs Platforms",
-          "views": 105056,
-          "ratio": 7.3,
-          "published": "2026-03-08",
-          "url": "https://www.youtube.com/watch?v=7IF0S46128c"
+          "title": "How a Shipping Disruption Overseas Can Hit the American Economy",
+          "views": 1005,
+          "ratio": 0.2,
+          "published": "2026-10-30",
+          "url": "https://www.youtube.com/watch?v=7wLPaWB8wUM"
         },
         {
-          "title": "6 FREE Ways to Make Money With Your Phone",
-          "views": 27835,
-          "ratio": 1.9,
-          "published": "2026-04-09",
-          "url": "https://www.youtube.com/watch?v=XEYsyxUuLjc"
+          "title": "How the Wealthy Buy More Freedom",
+          "views": 1269,
+          "ratio": 0.2,
+          "published": "2026-10-28",
+          "url": "https://www.youtube.com/watch?v=ytu4K0FNwJk"
         },
         {
-          "title": "NEW Way People Are Making Money With AI (Nobody is talking about this)",
-          "views": 24702,
-          "ratio": 1.7,
-          "published": "2026-07-03",
-          "url": "https://www.youtube.com/watch?v=axOhDu5GgKo"
+          "title": "The Economics Of Owning a Movie Theater",
+          "views": 512,
+          "ratio": 0.1,
+          "published": "2026-11-13",
+          "url": "https://www.youtube.com/watch?v=GrYdvvh5kHE"
         },
         {
-          "title": "The Most Realistic Online Business to Start if You're BROKE",
-          "views": 22659,
-          "ratio": 1.6,
-          "published": "2026-10-15",
-          "url": "https://www.youtube.com/watch?v=zndqOgidKYQ"
+          "title": "How The Banking System Creates Money Out Of Thin Air Through Lending",
+          "views": 743,
+          "ratio": 0.1,
+          "published": "2026-11-08",
+          "url": "https://www.youtube.com/watch?v=3FT-H-fbTOw"
         },
         {
-          "title": "Lazy AI Side Hustle Nobody Is Talking About",
-          "views": 20132,
-          "ratio": 1.4,
-          "published": "2026-08-18",
-          "url": "https://www.youtube.com/watch?v=rgsz8228LaA"
+          "title": "The Billion-Dollar Business Behind Formula 1",
+          "views": 6,
+          "ratio": 0.0,
+          "published": "2026-11-28",
+          "url": "https://www.youtube.com/watch?v=a_NLoiXq_bY"
         },
         {
-          "title": "Easy AI Side Hustles You Can Do At NIGHT🌙",
-          "views": 13807,
-          "ratio": 1.0,
-          "published": "2026-11-25",
-          "url": "https://www.youtube.com/watch?v=p0OVrQBkdYE"
-        },
-        {
-          "title": "Paste This Into Claude, Get 5,000+ APIs Instantly! (Aisa One review)",
-          "views": 6340,
-          "ratio": 0.4,
-          "published": "2026-09-27",
-          "url": "https://www.youtube.com/watch?v=SjVzYRRsD4E"
+          "title": "The Economics of Owning a Film Production Company",
+          "views": 247,
+          "ratio": 0.0,
+          "published": "2026-11-17",
+          "url": "https://www.youtube.com/watch?v=tyf-Ut1J-Cc"
         }
       ]
     },
     {
       "channel": "The Financial Archives",
-      "subscribers": 5160,
+      "subscribers": 5170,
       "channel_video_count": 21,
-      "channel_age_days": 669,
-      "first_video_age_days": 484,
-      "best_ratio": 69.5,
+      "channel_age_days": 670,
+      "first_video_age_days": 485,
+      "best_ratio": 69.8,
       "high_ratio_count": 1,
       "top_videos": [
         {
           "title": "Every Type of Investment Explained for Beginners",
-          "views": 358867,
-          "ratio": 69.5,
+          "views": 360796,
+          "ratio": 69.8,
           "published": "2025-07-30",
           "url": "https://www.youtube.com/watch?v=i-To1GILOhA"
         },
         {
           "title": "POV: You Are The World's First Trillionaire",
-          "views": 8732,
+          "views": 8756,
           "ratio": 1.7,
           "published": "2026-06-24",
           "url": "https://www.youtube.com/watch?v=eR4kJWqTLgM"
         },
         {
           "title": "Every Type of Investment Explained like You're 5",
-          "views": 8092,
+          "views": 8104,
           "ratio": 1.6,
           "published": "2025-08-27",
           "url": "https://www.youtube.com/watch?v=pdOHCtlxaKo"
         },
         {
           "title": "The WORST Business Decisions Explained like You're 10",
-          "views": 2948,
+          "views": 2949,
           "ratio": 0.6,
           "published": "2026-03-21",
           "url": "https://www.youtube.com/watch?v=dsvXPNi0-K0"
         },
         {
           "title": "Every Major Market Crash Explained in 15 minutes",
-          "views": 2341,
+          "views": 2344,
           "ratio": 0.5,
           "published": "2025-10-08",
           "url": "https://www.youtube.com/watch?v=wJnTKdtddOk"
@@ -601,28 +594,28 @@
         },
         {
           "title": "The WORST Business Decision in History Explained Like YOU'RE 10",
-          "views": 1338,
+          "views": 1342,
           "ratio": 0.3,
           "published": "2026-04-10",
           "url": "https://www.youtube.com/watch?v=csrxDUYDNAc"
         },
         {
           "title": "Every Major MONEY LAUNDERING Scandal Explained Like You're 10",
-          "views": 1307,
+          "views": 1308,
           "ratio": 0.3,
           "published": "2026-03-03",
           "url": "https://www.youtube.com/watch?v=R8HtDkTueLY"
         },
         {
           "title": "Every Complex Financial Terms Explained in 8 minutes",
-          "views": 1468,
+          "views": 1476,
           "ratio": 0.3,
           "published": "2025-12-10",
           "url": "https://www.youtube.com/watch?v=gKNt9NTy8WY"
         },
         {
           "title": "Every Stock Market Term Explained for BEGINNERS.",
-          "views": 1339,
+          "views": 1342,
           "ratio": 0.3,
           "published": "2025-09-13",
           "url": "https://www.youtube.com/watch?v=IXJCZifKEQU"
